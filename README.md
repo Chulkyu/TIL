@@ -18,7 +18,11 @@ Today I Learned
 ### git local 변경사항 -> 온라인(마스터) 적용 과정
 1. git add : 수정사항(파일) 중 적용시킬 파일을 정하는 과정*(스테이징)
   * git add <filename> / git add : all files
+
 2. git commit : 수정해서  add한 파일을 저장
+  * git commit -m "commit message"
+
 3. git push : commit 한 파일을 master branch 위에 올리는것
+  * git push origin master
   
 * git pull : git pull origin master // 마스터에서 변경사항 가져오기
