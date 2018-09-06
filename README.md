@@ -73,5 +73,13 @@ Today I Learned
 
 #### - man "command" : 명령어 메뉴얼 확인
 
+#### - more : 파일의 내용을 한번에 한 화면씩 보여준다.
+
+#### - kill : 어플리케이션 실행 중지 / ps : '죽이고' 싶은 어플의 정확한 프로세스 ID 확인
+
+#### - sudo : 일반 사용자가 어플을 설치해야 할때, 루트 권한을 임시로 부여(패스워드를 입력해야 한다.)
+
+#### - passwd : 패스워드 변경, 현재 패스워드와 새로운 패스워드 입력
+
 # Make a Github page
 #### - add content to new pages site
