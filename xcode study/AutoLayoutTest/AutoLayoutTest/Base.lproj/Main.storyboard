@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="eG9-bY-cG8">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="a92-vW-JKw">
+                                <rect key="frame" x="192.5" y="20" width="162.5" height="627"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="1" green="0.12325562599999999" blue="0.24385730459999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </view>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="uIx-eW-czX">
+                                <rect key="frame" x="20" y="20" width="162.5" height="627"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.10521878480000001" green="0.24450085599999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-73" y="150"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="hVK-QG-6By">
+            <objects>
+                <viewController id="CIj-Ug-ozX" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="vFI-AX-mZS">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="UlL-Zk-lBL">
+                                <rect key="frame" x="192.5" y="40" width="162.5" height="303.5"/>
+                                <color key="backgroundColor" red="1" green="0.12325562599999999" blue="0.24385730459999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0Za-xH-bSn">
+                                <rect key="frame" x="20" y="40" width="162.5" height="607"/>
+                                <color key="backgroundColor" red="0.10521878480000001" green="0.24450085599999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="UlL-Zk-lBL" firstAttribute="height" secondItem="0Za-xH-bSn" secondAttribute="height" multiplier="1/2" id="3NQ-bj-B3p"/>
+                            <constraint firstItem="UlL-Zk-lBL" firstAttribute="width" secondItem="0Za-xH-bSn" secondAttribute="width" id="BOH-ne-aIo"/>
+                            <constraint firstItem="0Za-xH-bSn" firstAttribute="top" secondItem="cpX-NE-8id" secondAttribute="top" constant="20" id="ErC-HZ-cqs"/>
+                            <constraint firstItem="UlL-Zk-lBL" firstAttribute="leading" secondItem="0Za-xH-bSn" secondAttribute="trailing" constant="10" id="H60-Pa-czZ"/>
+                            <constraint firstItem="UlL-Zk-lBL" firstAttribute="top" secondItem="cpX-NE-8id" secondAttribute="top" constant="20" id="LtS-dU-Cyp"/>
+                            <constraint firstItem="cpX-NE-8id" firstAttribute="trailing" secondItem="UlL-Zk-lBL" secondAttribute="trailing" constant="20" id="dm7-hy-Ahw"/>
+                            <constraint firstItem="UlL-Zk-lBL" firstAttribute="leading" secondItem="0Za-xH-bSn" secondAttribute="trailing" constant="10" id="dqY-wl-77y"/>
+                            <constraint firstItem="0Za-xH-bSn" firstAttribute="leading" secondItem="cpX-NE-8id" secondAttribute="leading" constant="20" id="hJk-zH-TPl"/>
+                            <constraint firstItem="cpX-NE-8id" firstAttribute="bottom" secondItem="0Za-xH-bSn" secondAttribute="bottom" constant="20" id="mls-jg-aIH"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="cpX-NE-8id"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="cF1-VN-qjS" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="735" y="145"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="sFj-t1-WZk">
+            <objects>
+                <viewController id="eG9-bY-cG8" customClass="ViewController" customModule="AutoLayoutTest" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ZvU-a4-Gwf">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lWg-wg-Tcy">
+                                <rect key="frame" x="148.5" y="296" width="78" height="74"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                            </view>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="TIz-rL-igY">
+                                <rect key="frame" x="16" y="296" width="78" height="74"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                            </view>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mya-v0-ewU">
+                                <rect key="frame" x="281" y="296" width="78" height="74"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="vOG-8D-PWU"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mbh-KF-aAa" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1564" y="149.77511244377811"/>
+        </scene>
+    </scenes>
+</document>

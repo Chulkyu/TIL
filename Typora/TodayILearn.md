@@ -1493,6 +1493,42 @@ score = 5
 
 
 
+## *Closure
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## * Data Structure
+
+### -  Good programmers worry about data structures and their relationships.
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+---
+
 # * Study more
 
 ### - Enum
@@ -1514,6 +1550,12 @@ score = 5
 ####- get,set을 사용하는 경우 / 3. property를 private하게 사용하기 위해 [참조](https://medium.com/ios-development-with-swift/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-get-set-didset-willset-in-ios-a8f2d4da5514)
 
 ### - TableView
+
+### - Notification
+
+### - *ARC
+
+###- *Data Structures
 
 
 
