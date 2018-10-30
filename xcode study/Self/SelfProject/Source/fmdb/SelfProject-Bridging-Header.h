@@ -6,9 +6,8 @@
 //  Copyright © 2018 Maru. All rights reserved.
 //
 
-#ifndef SelfProject_Bridging_Header_h
-#define SelfProject_Bridging_Header_h
+
 
 #import "FMDB.h"
 
-#endif /* SelfProject_Bridging_Header_h */
+

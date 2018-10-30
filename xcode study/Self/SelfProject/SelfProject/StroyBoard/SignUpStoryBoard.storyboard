@@ -19,7 +19,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome !" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RDx-c1-oGR">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RDx-c1-oGR">
                                 <rect key="frame" x="20" y="50" width="335" height="50"/>
                                 <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
@@ -79,7 +79,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Confirm"/>
                                 <connections>
-                                    <action selector="signUpViewConfirm:" destination="bXa-j1-Zkk" eventType="touchUpInside" id="2UX-QZ-BSz"/>
+                                    <action selector="confirm:" destination="ngG-hu-roh" eventType="touchUpInside" id="s3V-te-6Iw"/>
                                 </connections>
                             </button>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Birth" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="G2n-cF-lDs">
@@ -96,7 +96,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Search"/>
                                 <connections>
-                                    <action selector="SignUpViewSearch:" destination="bXa-j1-Zkk" eventType="touchUpInside" id="rxy-7F-HBl"/>
+                                    <action selector="search:" destination="ngG-hu-roh" eventType="touchUpInside" id="svQ-0O-sVN"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -136,16 +136,16 @@
                             <constraint firstItem="qCg-O2-iZX" firstAttribute="trailing" secondItem="G2n-cF-lDs" secondAttribute="trailing" constant="20" id="zaX-e3-QTu"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="qCg-O2-iZX"/>
-                        <connections>
-                            <outlet property="signUpViewAddress" destination="0P4-KL-wg3" id="4aL-Gi-3kL"/>
-                            <outlet property="signUpViewBirth" destination="G2n-cF-lDs" id="r4l-4f-Dc0"/>
-                            <outlet property="signUpViewCheckPassword" destination="uoH-6W-nqj" id="PrK-JS-2NH"/>
-                            <outlet property="signUpViewID" destination="BmW-Al-q84" id="pMF-5G-6hq"/>
-                            <outlet property="signUpViewLabel" destination="RDx-c1-oGR" id="5P3-Ds-acS"/>
-                            <outlet property="signUpViewName" destination="lhj-zx-gFh" id="UcP-Q8-ZdP"/>
-                            <outlet property="signUpViewPassword" destination="kLB-FM-HnH" id="iXT-aR-8sw"/>
-                        </connections>
                     </view>
+                    <connections>
+                        <outlet property="address" destination="0P4-KL-wg3" id="3g7-Wp-0oD"/>
+                        <outlet property="birth" destination="G2n-cF-lDs" id="dBq-Hd-aUO"/>
+                        <outlet property="checkPassword" destination="uoH-6W-nqj" id="DPk-pR-Ywq"/>
+                        <outlet property="id" destination="BmW-Al-q84" id="NrA-2g-8U2"/>
+                        <outlet property="name" destination="lhj-zx-gFh" id="qlt-pu-mgu"/>
+                        <outlet property="password" destination="kLB-FM-HnH" id="wPA-gK-enc"/>
+                        <outlet property="status" destination="RDx-c1-oGR" id="xpd-RI-B6r"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="sys-Nz-LKx" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
