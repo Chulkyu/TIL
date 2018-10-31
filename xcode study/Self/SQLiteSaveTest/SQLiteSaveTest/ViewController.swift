@@ -82,7 +82,7 @@ class ViewController: UIViewController {
         let contactDB = FMDatabase(path: databasesPath)
         
         if contactDB.open() {
-            let querySQL = "SELECT address, phone FROM CONTACTS WHERE name = '\(name.text!)'"
+            let querySQL = "SELECT address, phone, birth FROM CONTACTS WHERE name = '\(name.text!)'"
             
             let result: FMResultSet? = contactDB.executeQuery(querySQL, withArgumentsIn: [])
             // next 메서드는 일치하는 레코드가 적어도 하나 이상인지 확인하기 위함

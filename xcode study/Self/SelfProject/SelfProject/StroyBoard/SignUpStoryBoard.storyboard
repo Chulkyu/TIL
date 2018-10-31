@@ -78,9 +78,6 @@
                                 <rect key="frame" x="50.5" y="595" width="87" height="42"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Confirm"/>
-                                <connections>
-                                    <action selector="confirm:" destination="ngG-hu-roh" eventType="touchUpInside" id="s3V-te-6Iw"/>
-                                </connections>
                             </button>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Birth" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="G2n-cF-lDs">
                                 <rect key="frame" x="20" y="421" width="335" height="50"/>
@@ -95,9 +92,6 @@
                                 <rect key="frame" x="243.5" y="595" width="76" height="42"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Search"/>
-                                <connections>
-                                    <action selector="search:" destination="ngG-hu-roh" eventType="touchUpInside" id="svQ-0O-sVN"/>
-                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
