@@ -1,0 +1,6 @@
+framework module Pods_LoginScreenTutorial {
+  umbrella header "Pods-LoginScreenTutorial-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -13,8 +13,10 @@
 		42908BA221889C6100B7B747 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42908BA021889C6100B7B747 /* Main.storyboard */; };
 		42908BA421889C6200B7B747 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42908BA321889C6200B7B747 /* Assets.xcassets */; };
 		42908BA721889C6200B7B747 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42908BA521889C6200B7B747 /* LaunchScreen.storyboard */; };
-		42908BAF21889D3F00B7B747 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 42908BAE21889D3F00B7B747 /* GoogleService-Info.plist */; };
 		42908BB12188A5E100B7B747 /* RemoteConfigDefaults.plist in Resources */ = {isa = PBXBuildFile; fileRef = 42908BB02188A5E100B7B747 /* RemoteConfigDefaults.plist */; };
+		429826B9218DC2D4008AD359 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429826B8218DC2D4008AD359 /* LoginViewController.swift */; };
+		429826BB218DCDE7008AD359 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 429826BA218DCDE7008AD359 /* GoogleService-Info.plist */; };
+		429826BD218EA407008AD359 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429826BC218EA407008AD359 /* SignUpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,8 +27,10 @@
 		42908BA321889C6200B7B747 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42908BA621889C6200B7B747 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		42908BA821889C6200B7B747 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		42908BAE21889D3F00B7B747 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		42908BB02188A5E100B7B747 /* RemoteConfigDefaults.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = RemoteConfigDefaults.plist; sourceTree = "<group>"; };
+		429826B8218DC2D4008AD359 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		429826BA218DCDE7008AD359 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		429826BC218EA407008AD359 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		45F0A1679727E39B6CAE4036 /* Pods_ChatAppByFirebase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChatAppByFirebase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EC9639C2918A86C2FB824F4 /* Pods-ChatAppByFirebase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChatAppByFirebase.release.xcconfig"; path = "Target Support Files/Pods-ChatAppByFirebase/Pods-ChatAppByFirebase.release.xcconfig"; sourceTree = "<group>"; };
 		D40834BAE025CE233D4581BB /* Pods-ChatAppByFirebase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChatAppByFirebase.debug.xcconfig"; path = "Target Support Files/Pods-ChatAppByFirebase/Pods-ChatAppByFirebase.debug.xcconfig"; sourceTree = "<group>"; };
@@ -67,12 +71,14 @@
 			children = (
 				42908B9C21889C6100B7B747 /* AppDelegate.swift */,
 				42908B9E21889C6100B7B747 /* ViewController.swift */,
+				429826B8218DC2D4008AD359 /* LoginViewController.swift */,
+				429826BC218EA407008AD359 /* SignUpViewController.swift */,
 				42908BA021889C6100B7B747 /* Main.storyboard */,
 				42908BA321889C6200B7B747 /* Assets.xcassets */,
 				42908BA521889C6200B7B747 /* LaunchScreen.storyboard */,
 				42908BA821889C6200B7B747 /* Info.plist */,
-				42908BAE21889D3F00B7B747 /* GoogleService-Info.plist */,
 				42908BB02188A5E100B7B747 /* RemoteConfigDefaults.plist */,
+				429826BA218DCDE7008AD359 /* GoogleService-Info.plist */,
 			);
 			path = ChatAppByFirebase;
 			sourceTree = "<group>";
@@ -156,7 +162,7 @@
 			files = (
 				42908BA721889C6200B7B747 /* LaunchScreen.storyboard in Resources */,
 				42908BB12188A5E100B7B747 /* RemoteConfigDefaults.plist in Resources */,
-				42908BAF21889D3F00B7B747 /* GoogleService-Info.plist in Resources */,
+				429826BB218DCDE7008AD359 /* GoogleService-Info.plist in Resources */,
 				42908BA421889C6200B7B747 /* Assets.xcassets in Resources */,
 				42908BA221889C6100B7B747 /* Main.storyboard in Resources */,
 			);
@@ -172,16 +178,20 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ChatAppByFirebase/Pods-ChatAppByFirebase-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
 				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
 				"${BUILT_PRODUCTS_DIR}/Protobuf/Protobuf.framework",
 				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
 				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Protobuf.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -214,7 +224,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				429826B9218DC2D4008AD359 /* LoginViewController.swift in Sources */,
 				42908B9F21889C6100B7B747 /* ViewController.swift in Sources */,
+				429826BD218EA407008AD359 /* SignUpViewController.swift in Sources */,
 				42908B9D21889C6100B7B747 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

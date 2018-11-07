@@ -52,6 +52,34 @@
 
 #### - passwd : 패스워드 변경, 현재 패스워드와 새로운 패스워드 입력
 
+
+
+---
+
+
+
+### *Framework
+
+### - 프레임워크(Framework)는 사전적으로 "어떤 것을 이루는 뼈대, 기본 구조"를 의미합니다. 소프트웨어에서 사용하는 프레임워크는 애플리케이션 제작을 빠르고 편리하게 할 수 있도록 미리 뼈대를 이루는 각종 코드를 제작하여 모아둔 것입니다. 프레임워크를 사용하면 이점이 많은데, 가령 스위프트 코드를 이용하여 버튼을 만들려면 UI 구현부터 클릭 이벤트 반응까지 처리해야 할 것이 굉장히 많고, 이를 코드로 구현하는 것도 만만치 않은 작업이지만 버튼용 클래스를 미리 만들어 둔 UIKit 프레임워크를 사용하면 몇 줄의 코드만으로 손쉽게 버튼을 구현할 수 있습니다.<br>  애플 개발 환경에서는 굉장히 다양한 프레임워크가 제공되고 있으며, 이들은 각각 전문적인 역할에 따라 나누어집니다. 대표적인 것들이 UIKit 프레임워크, 파운데이션 프레임워크, 웹킷 프레임워크 등이죠. 이들 프레임워크를 모으면 다시 하나의 거대한 프레임워크가 되는데 이번 장의 주에인 코코아 터치 프레임워크가 바로 그것 입니다.
+
+### *Framework & Swift
+
+###- 집 짓는 과정에 비유해보자면, 프레임워크는 철근, 콘트리트, 유리, 문, 바닥재, 각종 배선 등입니다.<br>반면 스위프트는 망치, 드라이버, 톱, 삽과 같은 도구에 해당.<br>프레임워크에 포함되어 있는 여러가지 객체들을 규격에 맞게, 그리고 원하는 바에 따라 잘 배치하고 돌아가도록 하기 위한 도구인 셈입니다.
+
+
+
+- ####import Foundation : 네트워크나 날짜 연산 등의 기능 처리
+
+- ####import WebKit : 웹과 관련된 기술을 구현
+
+- #### import AddressBookUI : 주소록 화면 관련 기능 구현
+
+- ####import UserNotification : 사용자 알림
+
+
+
+
+
 ---
 
 #*MVC (Model View Controller)
@@ -59,6 +87,93 @@
 ####[MVC](https://medium.com/ios-development-with-swift/mvc-%ED%8C%A8%ED%84%B4-in-ios-7751911f8ca8)
 
 
+
+
+
+---
+
+
+
+
+
+##*Life Cycle
+
+- ### Not Running : 앱이 시작되지 않았거나 실행되었지만 시스템에 의해 종료된 상태
+
+- ### Inactive : 앱이 전면에서 실행 중이지만, 아무런 이벤트를 받지 않고 있는 상태
+
+- ### Active : 앱이 전면에서 실행 중이며, 이벤트를 받고 있는 상태를 나타냅니다.
+
+- ### Background : 앱이 백그라운드에 있지만 여전히 코드가 실행되고 있는 상태를 나타냅니다. 대부분의 앱은 Suspended 상태로 이행하는 도중에 일시적으로 이 상태에 진입하지만, 파일 다운로드나 업로드, 연산 처리 등 여분의 실행 시간이 필요한 앱일 경우 특정 시간 동안 이 상태로 남아 있게 되는 경우도 있습니다.
+
+- ### Suspended : 앱이 메모리에 유지되지만 실행되는 코드가 없는 상태입니다. 메모리가 부족한 상황이 오면 iOS 시스템은 포그라운드에 있는 앱의 여유 메모리 공간을 확보하기 위해 Suspended 상태에 있는 앱들을 특별한 알림 없이 정리합니다.
+
+
+
+### < Life Cycle (Android / iPhone) >
+
+###![Life Cycle(Android/iPhone)](/Users/maru/Desktop/blog/flexible-jekyll/assets/img/LifeCycle(Android,iPhone).png)
+
+###< Life Cycle(Part1 )>
+
+###![Life Cycle(Part1)](/Users/maru/Desktop/blog/flexible-jekyll/assets/img/LifeCycle(Part1).png)
+
+
+
+### < Life Cycle(Part2) >
+
+###![Life Cycle(Part2)](/Users/maru/Desktop/blog/flexible-jekyll/assets/img/LifeCycle(Part2).png)
+
+
+
+### *Appdelegate method
+
+```swift
+func application(_ application: UIApplication, willFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+// 앱이 구동되어 필요한 초기 실행 과정이 완료되기 직전에 호출되는 메소드
+        return true
+    }
+```
+
+```swift
+func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+// 앱이 사용자에게 화면으로 표시되기 직전에 호출되는 메소드.
+// 앱이 실행된 후에 진행할 커스터마이징이나 초기화를 위한 코드를 여기에 작성
+        return true
+    }
+
+```
+
+```swift
+func applicationDidBecomeActive(_ application: UIApplication) {
+// 실행된 앱이 포그라운드, 즉 화면 전면에 표시될 때 호출되는 메소드.
+// 앱이 Inactive 상태에 들어가면서 일시 중지된 작업이 있다면 이를 재시작하는 코드를 여기에 작성해 주어야 합니다.
+// 예를 들어 타이머나 스톱워치 앱의 경우, Inactive 상태로 들어가면 더 이상 화면 갱신이 이루어지지 않고 예전 화면이 유지되므로 이 메소드를 통해 화면과 남은 시각 등을 갱신해 주어야 합니다.
+    }
+
+```
+
+```swift
+func applicationDidEnterBackground(_ application: UIApplication) {
+// 앱이 백그라운드 상태에 진입했을 때 호출됩니다.
+// 이 메소드가 호출된다는 것은 미래의 어느 순간에 앱이 종료된다는 의미이므로, 잃어서는 안 되는 사용자 데이터를 종료 전에 미리 저장하거나, 공유 자원을 점유하고 있었다면 이를 해제해 주어야 합니다.
+// 종료된 앱이 다시 실행될 때 현재의 상태를 복구할 수 있도록 필요한 상태 정보도 이 메소드에서 저장 처리하는 것이 좋습니다.
+    }
+```
+
+```swift
+func applicationWillTerminate(_ application: UIApplication) {
+// 앱이 종료되기 직전에 호출되는 메소드.
+// 사용자 데이터 등을 종료 전에 한 번 더 저장해 두는 것이 좋습니다.
+    }
+
+```
+
+
+
+
+
+---
 
 
 

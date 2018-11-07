@@ -19,10 +19,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
+        //remoteConfig 초기화 
        remoteConfig = RemoteConfig.remoteConfig()
        remoteConfig.configSettings = RemoteConfigSettings(developerModeEnabled: true)
        remoteConfig.setDefaults(fromPlist: "RemoteConfigDefaults")
 
+        // firebase 서버에서 값 받아오는 코드
         remoteConfig.fetch(withExpirationDuration: TimeInterval(3)) { (status, error) -> Void in
             if status == .success {
                 print("Config fetched!")
@@ -44,6 +47,7 @@ class ViewController: UIViewController {
     }
 
     
+    
     func displayWelcome() {
         let color = remoteConfig["splash_background"].stringValue
         let caps = remoteConfig["splash_message_caps"].boolValue
@@ -51,11 +55,16 @@ class ViewController: UIViewController {
         
         if (caps) {
             let alert = UIAlertController(title: "공지사항", message: message, preferredStyle: UIAlertControllerStyle.alert)
+            // 앱이 자동으로 꺼지게 하는 코드
             alert.addAction(UIAlertAction(title: "확인", style: UIAlertActionStyle.default, handler: { (action) in
                 exit(0)
             }))
             self.present(alert, animated: true, completion: nil)
+        } else {
+            let loginVC = self.storyboard?.instantiateViewController(withIdentifier: "LoginViewController") as! LoginViewController
+            self.present(loginVC, animated: false, completion: nil)
         }
+        
         self.view.backgroundColor = UIColor(hex: color!)
     }
     
@@ -72,8 +81,8 @@ extension UIColor {
     convenience init(hex: String) {
         let scanner = Scanner(string: hex)
         
-        
-        scanner.scanLocation = 1 // 1을 넣어야 # 제외한 값을 읽을 수 있음
+        // 1을 넣어야 # 제외한 값을 읽을 수 있음
+        scanner.scanLocation = 1
         
         var rgbValue: UInt64 = 0
         
