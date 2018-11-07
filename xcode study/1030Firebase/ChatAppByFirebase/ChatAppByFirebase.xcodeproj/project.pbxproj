@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2CF0D697043CE4C76DDED1C2 /* Pods_ChatAppByFirebase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45F0A1679727E39B6CAE4036 /* Pods_ChatAppByFirebase.framework */; };
+		425F2ED52193039F00AF46DC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 425F2ED42193039F00AF46DC /* GoogleService-Info.plist */; };
 		42908B9D21889C6100B7B747 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42908B9C21889C6100B7B747 /* AppDelegate.swift */; };
 		42908B9F21889C6100B7B747 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42908B9E21889C6100B7B747 /* ViewController.swift */; };
 		42908BA221889C6100B7B747 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42908BA021889C6100B7B747 /* Main.storyboard */; };
@@ -15,11 +16,11 @@
 		42908BA721889C6200B7B747 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42908BA521889C6200B7B747 /* LaunchScreen.storyboard */; };
 		42908BB12188A5E100B7B747 /* RemoteConfigDefaults.plist in Resources */ = {isa = PBXBuildFile; fileRef = 42908BB02188A5E100B7B747 /* RemoteConfigDefaults.plist */; };
 		429826B9218DC2D4008AD359 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429826B8218DC2D4008AD359 /* LoginViewController.swift */; };
-		429826BB218DCDE7008AD359 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 429826BA218DCDE7008AD359 /* GoogleService-Info.plist */; };
 		429826BD218EA407008AD359 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429826BC218EA407008AD359 /* SignUpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		425F2ED42193039F00AF46DC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		42908B9921889C6100B7B747 /* ChatAppByFirebase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatAppByFirebase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42908B9C21889C6100B7B747 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42908B9E21889C6100B7B747 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -29,7 +30,6 @@
 		42908BA821889C6200B7B747 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		42908BB02188A5E100B7B747 /* RemoteConfigDefaults.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = RemoteConfigDefaults.plist; sourceTree = "<group>"; };
 		429826B8218DC2D4008AD359 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		429826BA218DCDE7008AD359 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		429826BC218EA407008AD359 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		45F0A1679727E39B6CAE4036 /* Pods_ChatAppByFirebase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChatAppByFirebase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EC9639C2918A86C2FB824F4 /* Pods-ChatAppByFirebase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChatAppByFirebase.release.xcconfig"; path = "Target Support Files/Pods-ChatAppByFirebase/Pods-ChatAppByFirebase.release.xcconfig"; sourceTree = "<group>"; };
@@ -77,8 +77,8 @@
 				42908BA321889C6200B7B747 /* Assets.xcassets */,
 				42908BA521889C6200B7B747 /* LaunchScreen.storyboard */,
 				42908BA821889C6200B7B747 /* Info.plist */,
+				425F2ED42193039F00AF46DC /* GoogleService-Info.plist */,
 				42908BB02188A5E100B7B747 /* RemoteConfigDefaults.plist */,
-				429826BA218DCDE7008AD359 /* GoogleService-Info.plist */,
 			);
 			path = ChatAppByFirebase;
 			sourceTree = "<group>";
@@ -162,8 +162,8 @@
 			files = (
 				42908BA721889C6200B7B747 /* LaunchScreen.storyboard in Resources */,
 				42908BB12188A5E100B7B747 /* RemoteConfigDefaults.plist in Resources */,
-				429826BB218DCDE7008AD359 /* GoogleService-Info.plist in Resources */,
 				42908BA421889C6200B7B747 /* Assets.xcassets in Resources */,
+				425F2ED52193039F00AF46DC /* GoogleService-Info.plist in Resources */,
 				42908BA221889C6100B7B747 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

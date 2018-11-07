@@ -13,6 +13,7 @@
     
     @IBOutlet weak var logIn: UIButton!
     @IBOutlet weak var signIn: UIButton!
+    
     // color를 리모트에서 불러오기 위한 코드, import Firebase 필수
     let remoteConfig = RemoteConfig.remoteConfig()
     var color: String!

@@ -55,6 +55,7 @@ class ViewController: UIViewController {
         
         if (caps) {
             let alert = UIAlertController(title: "공지사항", message: message, preferredStyle: UIAlertControllerStyle.alert)
+            
             // 앱이 자동으로 꺼지게 하는 코드
             alert.addAction(UIAlertAction(title: "확인", style: UIAlertActionStyle.default, handler: { (action) in
                 exit(0)
