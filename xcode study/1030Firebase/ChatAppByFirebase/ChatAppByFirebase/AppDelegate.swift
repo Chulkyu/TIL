@@ -7,7 +7,8 @@
 //
 
 import UIKit
-import Firebase
+//import Firebase
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -17,8 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         
+//        FirebaseApp.configure()
         
-        FirebaseApp.configure()
         sleep(2)    // 프로세스의 진행을 멈춰 시작 화면이 표시되는 시간을 늘려주는 역할.
         
         return true

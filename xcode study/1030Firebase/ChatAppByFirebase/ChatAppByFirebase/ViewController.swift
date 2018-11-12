@@ -7,22 +7,24 @@
 //
 
 import UIKit
-import SnapKit
+import SnapKit    // Constraint를 간단히 하기 위한 Kit
 import Firebase
 
 class ViewController: UIViewController {
 
     
     var box = UIImageView()
+    
     var remoteConfig: RemoteConfig!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        //remoteConfig 초기화 
+        //remoteConfig 초기화, import Firebase 필수
        remoteConfig = RemoteConfig.remoteConfig()
        remoteConfig.configSettings = RemoteConfigSettings(developerModeEnabled: true)
+        
+        // 기본 디폴트값 설정은 local Plist에서 가져오는 코드
        remoteConfig.setDefaults(fromPlist: "RemoteConfigDefaults")
 
         // firebase 서버에서 값 받아오는 코드
@@ -47,7 +49,7 @@ class ViewController: UIViewController {
     }
 
     
-    
+    // 시작 화면에 alert 띄우기 (설정값 remoteConfig에서 가져오기)
     func displayWelcome() {
         let color = remoteConfig["splash_background"].stringValue
         let caps = remoteConfig["splash_message_caps"].boolValue
@@ -55,7 +57,6 @@ class ViewController: UIViewController {
         
         if (caps) {
             let alert = UIAlertController(title: "공지사항", message: message, preferredStyle: UIAlertControllerStyle.alert)
-            
             // 앱이 자동으로 꺼지게 하는 코드
             alert.addAction(UIAlertAction(title: "확인", style: UIAlertActionStyle.default, handler: { (action) in
                 exit(0)
@@ -65,7 +66,6 @@ class ViewController: UIViewController {
             let loginVC = self.storyboard?.instantiateViewController(withIdentifier: "LoginViewController") as! LoginViewController
             self.present(loginVC, animated: false, completion: nil)
         }
-        
         self.view.backgroundColor = UIColor(hex: color!)
     }
     

@@ -1652,6 +1652,145 @@ score = 5
 
 
 
+## *Core Location
+
+- ### 기기의 지리적 위치와 방향을 얻기 위한 프레임워크
+
+- ### 기기의 지리적 위치, 고도, 방향 또는 IBeacon 주변의 상대적 위치를 결정하는 서비스 제공
+
+- ### CLLocationManager를 이용해 대부분의 서비스를 시작하고 연결된 Delegate를 통해 응답을 수신
+
+- ### 위치 정보를 얻기 위해 반드시 유저로부터 권한을 얻어야 함
+
+- ### 크게 위치 업데이트 / 지역 모니터링 / IBeacon / 장치 방향 / 좌표 변환 등의 역할 수행
+
+### *Request Authorization
+
+- ### When in use authorization
+
+### : 앱이 Foreground에서 동작 중일 때만 위치 서비스 사용
+
+### : 앱을 자동으로 재실행하는 서비스는 사용 불가
+
+### : 굳이 Always를 써야 하는 경우가 아니면 이 방시을 권장. 동시에 한 가지 방식으로만 설정 가능
+
+- ### Always authorization
+
+### : Foreground 나 Background 모두에서 필요할 때 위치 서비스 사용
+
+### : 앱이 실행 중이지 않을 때 위치 기반 이벤트가 발생하면 시스템이 앱을 실행하고 이벤트를 전달
+
+```swi
+let locationManager = CLLocationManager()
+locationManager.requestWhenInUseAuthorization()
+locationManager.requestAlwaysAuthorization()
+
+/*****************************************
+When is use authorization - NSLocationWhenInUseUsageDescription 키 등록
+
+Always authorization 이용 시
+iOS 11 이상 - NSLocationAlwaysAndWhenInUsageDescription 키 등록
+iOS 10 이하 - NSLocationAlwaysUsageDescription 키 등록
+```
+
+
+
+### *Getting the User's Location Data
+
+### Standard location service (When-in-use or Always authorization)
+
+- ###사용자 위치를 실시간으로 파악하기 위한 범용 솔루션
+
+- ###다른 서비스에 비해 더 많은 전력을 쓰지만 가장 정확하고 즉각적인 정보를 제공 
+
+###Significant-change location service (Always authorization) 
+
+- ###전력 소모를 줄이기 위한 것으로 업데이트가 자주 필요하지 않고 GPS 정밀도가 낮아도 되는 경우 사용 사용자 위치를 대폭 변경한 경우에만 업데이트를 제공
+
+- ###사용자가 걷고 있을 때 주변의 관심 장소(POI) 에 대한 추천 정보를 제안해주는 등의 서비스를 제공 가능 
+
+###Visits location service (Always authorization) 
+
+- ###가장 효율적으로 전력을 사용하지만 다른 서비스에 비해 업데이트 횟수가 적은 방법
+
+- ###유저가 한 장소에 머물러 시간을 보내다가 이동할 때 업데이트 알림 발생 (위치 및 시간 정보) 사용자의 행동 패턴을 파악하고 그 지식을 앱의 다른 부분에 적용하기 위한 서비스로 활용 
+
+ 
+
+---
+
+
+
+## *Network
+
+### URI(Uniform Resource Identifier)
+
+### - 인터넷의 자원을 유일하게 식별하기 위한 통합 자원 식별자
+
+### - 절대적 경로와 상대적 경로를 모두 포함하는 URL과 URN의 SuperSet
+
+
+
+### URL(Uniform Resource Locator)
+
+### - URL은 어떤 자원의 위치에 대한 절대경로값을 지닌 문자열
+
+###- 어떤 특정 주소 또는 파일 리소스에 접근하기 위한 주소값으로 흔히 HTTP로 시작하는 웹 주소로 인식하는 경우가 많지만, URL의 한 형태에 해당하는 것으로 컴퓨터 네트워크상의 자원을 모두 나타낼 수 있음
+
+
+
+### URN(Uniform Resource Name)
+
+### - 위치에 독립적이고, 지속되는 형태의 자원을 가르키기 위한 유일한 식별자
+
+### - IETF에서 표준 규격을 업데이트
+
+
+
+### URL vs URN
+
+### URL - 주소 / URL - 주민등록증
+
+
+
+## *Internet Protocol Suite
+
+### TCP/IP Protocol Suite
+
+### - 인터넷 프로토콜 스위트(Protocal Suite)는 인터넷 네트워크에 쓰이는 프로토콜의 모음
+
+### - TCP/IP가 가장 많이 사용되기에 TCP/IP 프로토콜 스위트 또는 프로토콜 스택이라고도 함
+
+### - HTTP, FTP, Telnet 등이 TCP/IP 기반
+
+### - TCP(Transmission Control Protocal) : 패킷 전송 여부와 순서 보장의 특징
+
+### - IP(Internet Protocol) : 비신뢰성(패킷 전송 보장 X)과 비연결성의 특징(IPv4, IPv6)
+
+
+
+### [ 4계층 Application ]
+
+### - 데이터를 어떤 서비스를 활용해 주고 받을 것인지 정의한다.(HTTP, FTP 등)
+
+### [ 3계층 Transport ]
+
+### - 데이터 송수신 방식을 결정한다.
+
+### * TCP - 연결지향형 서비스, 메시지 전달 보장 및 순서 보장
+
+### * UDP - 비연결형 서비스, 메시지 전달 여부나 순서 보장이 되지 않는 대신 TCP 보다 빠른 속도
+
+### [ 2계층 Network ]
+
+### - 데이터가 어떤 라우터들을 거쳐 목적지로 전달될 지에 대한 전달 경로를 정의한다.
+
+### * IP 프로토콜은 비연결지향적이며, 신뢰할 수 없는 특성을 가지므로 신뢰성 확보를 위해 TCP가 필요
+
+### [ 1계층 Link(Physical 포함) ]
+
+###- 실제 데이터 패킷 전송을 책임진다. (해저 광케이블)
+
 
 
 ---
@@ -1660,7 +1799,7 @@ score = 5
 
 ### - Enum
 
-### - Closure
+### vAf Closure
 
 ### - initializer
 
