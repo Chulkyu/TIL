@@ -1795,11 +1795,193 @@ iOS 10 이하 - NSLocationAlwaysUsageDescription 키 등록
 
 ---
 
+
+
+## *Jason
+
+- ### 2개의 구조를 기본으로 가짐
+
+### - 'Name : Value' 형태의 쌍을 이루는 콜렉션 타입. 각 언어에서 Hash table, Dictionary 등으로 구현
+
+### - 값들의 순서화된 리스트. 대부분의 언어들에서 Array, Vector, List 또는 Sequence로 구현
+
+- ### 중괄호 { } : Dictionary / 대괄호 [ ] : Array
+
+- ### Object
+
+### - object는 name/value 쌍들의 비순서화된 SET
+
+###- 좌측 중괄호 ' { ' 로 시작하고 우측 중괄호 ' } ' 로 끝내어 표현
+
+### - name 뒤 콜론 ' : ' 을 붙이고 콤마 ' , ' 로 name/value 쌍들을 구분
+
+
+
+- ### Jason in Swift
+
+```sw
+let jsonString = """
+{
+"someNumber" : 1,
+"someString" : "Hello",
+"someArray"  : [1, 2, 3, 4],
+"someDict"   : {
+"someBool" : true
+}
+}
+"""
+let jsonData = jsonString.data(using: .utf8)!
+let jsonObject = try! JSONSerialization.jsonObject(with: jsonData)
+print(jsonObject)
+```
+
+- ### JsonSerialization
+
+### - Jason 과 이에 상응하는 Foundation 객체 간 변환하는 객체이며 iOS 7 이후로 Thread Safety
+
+###- Data는 다음의 5가지 인코딩 지원 형식 중 하나여야 하며, 이 중 UTF-8이 기본값으로 쓰이고 가장 효율적(UTF-8, UTF-16LE, UTF-16BE, UTF-32LE, UTF-32BE)
+
+
+
+### - Jason으로 변환되기 위한 Foundation 객체는 다음 속성을 따라야 함
+
+- #### Top Level Object : NSArray, NSDictionary
+
+- #### 모든 객체는 NSString, NSNumber, NSArray, NSDictionary, NSNull의 인스턴스
+
+- #### 모든 Dictionary 의 Key는 NSString 인스턴스
+
+- #### 숫자는 NaN 이나 무한대 값이 아니어야 함
+
+### - Jason data로 변환 가능 여부는 isValidJSONObject(_:) 메서드를 통해 확인 가능
+
+- ### Creating a JSON Object
+
+```swift
+class func jsonObject(with: Data, option: JSONSerialization.ReadingOptions = [])
+Returns a Foundation object from given JSON data.
+
+class func jsonObject(with: InputStream, option: JSONSerialization.ReadingOpthions = [])
+Returns a Foundation object from JSON data in a give stream.
+```
+
+- ### Creating JSON Data
+
+```swift
+class func data(withJSONObject: Any, option: JSONSerialization.WritingOptions = [])
+Return JSON data from a Foundation object.
+
+class func writeJSONObject(Any, to: OutputStream, option: JSONSerialization.WritingOptions = [], error: NSErrorPointer)
+Writes a given JSON object to a stream.
+
+class func isValidJSONObject(Any)
+Returns a Boolean value that indicates whether a given object can be converted to JSON data.
+```
+
+
+
+---
+
+##*Codable
+
+###- 프로토콜 2개를 하나로 합쳐 쓰는 형태
+
+```swift
+Public typealias Codable = Decodable & Encodable
+
+public protocol Encodable {
+}
+/// Encodes this value into the given encoder.
+/// - Parameter encoder: The encoder to write data to.
+public func encode(to encoder: Encoder) throws
+public protocol Decodable {
+}
+/// Creates a new instance by decoding from the given decoder.
+/// - Parameter decoder: The decoder to read data from.
+public init(from decoder: Decoder) throws
+```
+
+
+
+### - Encoding & Decoding
+
+### [ Encoding, 부호화 ]
+
+- #### 정보의 형태나 형식을 표준화, 보안, 처리 속도 향상, 저장 공간 절약 등을 위해서 목적에 맞는 다른 형타나 형식으로 변환하는 처리 혹은 그 처리 방식.
+
+- #### Encoder : 인코딩을 수행하는 장치나 회로, 컴퓨터 소프트웨어, 알고리즘
+
+- #### A type that can encode values into a native format for external representation.
+
+### [ Decoding, 복호화 ]
+
+- #### Encoding(부호화)된 대상을 원래의 형태로 되돌리는 일
+
+- #### 예를 들어, 압축 파일을 다시 풀거나 암호화된 내용을 원래 내용으로 되돌리는 일
+
+- #### A type that can decode values from a native format into in-memory representations.
+
+### - Conform to protocol Codable
+
+```swift
+let json = """
+{
+    "bool": true,
+    "int": 0,
+    "double": 2.9,
+    "string": "Hellow, World!",
+    "array": [1, 2, 3, 4],
+    "dict": { "key": "value"},
+}
+""".data(using: .utf8)! //옵셔널 언랩핑 필요!
+
+struct CodableExample: Codable { // 타입을 Codable로
+    let bool: Bool	        // 원하는 데이터 목록을 작성
+    let int: Int
+    let double: Double
+    let string: String
+    let array: [Int]
+    let dict: [String: String]
+}
+```
+
+### - Use Decoder & Encoder
+
+```swift
+let decoder = JSONDecoder()
+let decoded = try decoder.decode(CodableExample.self, from: json)
+print(type(of: decoded))	// CodableExample.Type
+```
+
+```swift
+let encoder = JSONEncoder()
+let encodedData = try encoder.encode(decoded)
+let encodedString = String(data: encodedData, encoding: .utf8)!
+print(type(of: encodedString))		// String.Type
+```
+
+
+
+### - JSON Decoder
+
+```swift
+let fileURL = URL(fileURLWithPath: "file.json")
+guard let jsonData = try? Data(contentsOf: fileURL) else { return }
+let decodedContent = JSONDecoder().decode(CodableType.self, from: jsonData)
+print(decodedContent.key)
+```
+
+
+
+
+
+---
+
 # * Study more
 
 ### - Enum
 
-### vAf Closure
+### - Closure
 
 ### - initializer
 
