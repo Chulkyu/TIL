@@ -12,30 +12,36 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
-        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="MoviePhotoCollectionViewCell" customModule="LoginView" customModuleProvider="target">
-            <rect key="frame" x="0.0" y="0.0" width="368" height="231"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" insetsLayoutMarginsFromSafeArea="NO" reuseIdentifier="MovieInfo" id="gTV-IL-0wX" customClass="MoviePhotoCollectionViewCell" customModule="LoginView" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="200"/>
             <autoresizingMask key="autoresizingMask"/>
             <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
-                <rect key="frame" x="0.0" y="0.0" width="368" height="231"/>
+                <rect key="frame" x="0.0" y="0.0" width="375" height="200"/>
                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                 <subviews>
-                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Ab5-gV-u7z">
-                        <rect key="frame" x="0.0" y="0.0" width="368" height="231"/>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" insetsLayoutMarginsFromSafeArea="NO" image="sample1" translatesAutoresizingMaskIntoConstraints="NO" id="Ab5-gV-u7z">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="200"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="200" id="yeE-3z-wac"/>
+                        </constraints>
                     </imageView>
                 </subviews>
             </view>
             <constraints>
-                <constraint firstItem="Ab5-gV-u7z" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="6Wt-ss-qyy"/>
+                <constraint firstAttribute="trailing" secondItem="Ab5-gV-u7z" secondAttribute="trailing" id="G68-vA-UGb"/>
                 <constraint firstItem="Ab5-gV-u7z" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="P6j-qj-K0M"/>
-                <constraint firstAttribute="trailing" secondItem="Ab5-gV-u7z" secondAttribute="trailing" id="l3E-m0-Ass"/>
-                <constraint firstAttribute="bottom" secondItem="Ab5-gV-u7z" secondAttribute="bottom" id="pQr-fJ-Sg3"/>
+                <constraint firstItem="Ab5-gV-u7z" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="RYN-c8-Ril"/>
+                <constraint firstItem="Ab5-gV-u7z" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="z5L-ax-rZn"/>
             </constraints>
             <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
-            <size key="customSize" width="368" height="231"/>
+            <size key="customSize" width="368" height="199"/>
             <connections>
                 <outlet property="moviePhotoImageView" destination="Ab5-gV-u7z" id="7WL-fo-rQh"/>
             </connections>
-            <point key="canvasLocation" x="75" y="11"/>
+            <point key="canvasLocation" x="64.799999999999997" y="-4.497751124437781"/>
         </collectionViewCell>
     </objects>
+    <resources>
+        <image name="sample1" width="727" height="405"/>
+    </resources>
 </document>

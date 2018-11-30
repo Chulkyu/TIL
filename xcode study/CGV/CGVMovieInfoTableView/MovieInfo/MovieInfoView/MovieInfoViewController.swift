@@ -69,7 +69,7 @@ class MovieInfoViewController: UIViewController {
     /************************************************************************************/
     
     /******************************* border Setting *************************************/
-    private func borderSetting() {
+    func borderSetting() {
         
         // view, button border setting
         productCompanyView.layer.addBorder([.top, .bottom], color: UIColor.lightGray, width: 1.0)
@@ -96,7 +96,7 @@ class MovieInfoViewController: UIViewController {
 
 
 // 중간 view border line
-extension UIView{
+ extension UIView{
     @IBInspectable var borderWidth1: CGFloat {
         set {
             layer.borderWidth = newValue
@@ -126,7 +126,7 @@ extension UIView{
 }
 
 // button border line set
-extension UIButton {
+ extension UIButton {
     @IBInspectable var buttonBorderWidth1: CGFloat {
         set {
             layer.borderWidth = newValue
@@ -158,7 +158,7 @@ extension UIButton {
 
 
 // border 원하는 곳만 설정하는 코드
-extension CALayer {
+ extension CALayer {
     func addBorder1(_ arr_edge: [UIRectEdge], color: UIColor, width: CGFloat) {
         for edge in arr_edge {
             let border = CALayer()

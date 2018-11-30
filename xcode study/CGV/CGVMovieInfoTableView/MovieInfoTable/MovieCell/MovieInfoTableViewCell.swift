@@ -23,16 +23,19 @@ class MovieInfoTableViewCell: UITableViewCell {
     
     @IBAction func customMovieNewsButton(_ sender: Any) {
         customMovieNewsButton.layer.addBorder2([.bottom], color: UIColor.red, width: 2.0)
-        customMovieInfoButton.layer.addBorder2([.bottom], color: UIColor.white, width: 2.0)
+        customMovieInfoButton.layer.addBorder2([.bottom], color: UIColor.clear, width: 2.0)
     }
     
     @IBAction func customMovieInfoButton(_ sender: Any) {
         customMovieInfoButton.layer.addBorder2([.bottom], color: UIColor.red, width: 2.0)
-        customMovieNewsButton.layer.addBorder2([.bottom], color: UIColor.white, width: 2.0)
+        customMovieNewsButton.layer.addBorder2([.bottom], color: UIColor.clear, width: 2.0)
+
+        
     }
     
     override func awakeFromNib() {
         super.awakeFromNib()
+        
         moviePhotoCollectView.dataSource = self
         moviePhotoCollectView.delegate = self
         moviePhotoCollectView.register(UINib(nibName: "MoviePhotoCollectionViewCell", bundle: nil), forCellWithReuseIdentifier: "MovieInfo")
@@ -49,9 +52,9 @@ class MovieInfoTableViewCell: UITableViewCell {
     private func borderSetting() {
         
         // view, button border setting
-        customProductCompanyView.layer.addBorder([.top, .bottom], color: UIColor.lightGray, width: 1.0)
-        customButtonView.layer.addBorder([.bottom], color: UIColor.lightGray, width: 1.0)
-    customMovieNewsButton.layer.addBorder([.bottom], color: UIColor.red, width: 2.0)
+        customProductCompanyView.layer.addBorder2([.top, .bottom], color: UIColor.lightGray, width: 1.0)
+        customButtonView.layer.addBorder2([.bottom], color: UIColor.lightGray, width: 1.0)
+    customMovieNewsButton.layer.addBorder2([.bottom], color: UIColor.red, width: 2.0)
     }
     
     
@@ -65,8 +68,9 @@ extension MovieInfoTableViewCell: UICollectionViewDataSource, UICollectionViewDe
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "MoviePhotoCollectionViewCell", for: indexPath) as! MoviePhotoCollectionViewCell
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "MovieInfo", for: indexPath) as! MoviePhotoCollectionViewCell
         cell.moviePhotoImageView.image = UIImage(named: moviePhoto[indexPath.row])
+        
         return cell
     }
     
@@ -75,7 +79,7 @@ extension MovieInfoTableViewCell: UICollectionViewDataSource, UICollectionViewDe
 
 
 // 중간 view border line
-extension UIView{
+private extension UIView{
     @IBInspectable var borderWidth2: CGFloat {
         set {
             layer.borderWidth = newValue
@@ -105,7 +109,7 @@ extension UIView{
 }
 
 // button border line set
-extension UIButton {
+private extension UIButton {
     @IBInspectable var buttonBorderWidth2: CGFloat {
         set {
             layer.borderWidth = newValue
@@ -137,7 +141,7 @@ extension UIButton {
 
 
 // border 원하는 곳만 설정하는 코드
-extension CALayer {
+private extension CALayer {
     func addBorder2(_ arr_edge: [UIRectEdge], color: UIColor, width: CGFloat) {
         for edge in arr_edge {
             let border = CALayer()

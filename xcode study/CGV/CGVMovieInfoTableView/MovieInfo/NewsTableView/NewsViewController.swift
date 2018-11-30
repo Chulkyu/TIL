@@ -80,7 +80,7 @@ class NewsViewController: UIViewController {
 
 
 // 중간 view border line
-extension UIView{
+ extension UIView{
 @IBInspectable var borderWidth: CGFloat {
     set {
         layer.borderWidth = newValue
@@ -110,7 +110,7 @@ extension UIView{
 }
 
 // button border line set
-extension UIButton {
+ extension UIButton {
     @IBInspectable var buttonBorderWidth: CGFloat {
         set {
             layer.borderWidth = newValue
@@ -142,7 +142,7 @@ extension UIButton {
 
 
 // border 원하는 곳만 설정하는 코드
-extension CALayer {
+ extension CALayer {
     func addBorder(_ arr_edge: [UIRectEdge], color: UIColor, width: CGFloat) {
         for edge in arr_edge {
             let border = CALayer()
