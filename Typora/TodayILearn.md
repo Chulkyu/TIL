@@ -1797,13 +1797,13 @@ iOS 10 이하 - NSLocationAlwaysUsageDescription 키 등록
 
 
 
-## *Jason
+## *JSON (JavaScript Object Notation)
 
 - ### 2개의 구조를 기본으로 가짐
 
-### - 'Name : Value' 형태의 쌍을 이루는 콜렉션 타입. 각 언어에서 Hash table, Dictionary 등으로 구현
+### 1. 'Name : Value' 형태의 쌍을 이루는 콜렉션 타입. 각 언어에서 Hash table, Dictionary 등으로 구현
 
-### - 값들의 순서화된 리스트. 대부분의 언어들에서 Array, Vector, List 또는 Sequence로 구현
+### 2. 값들의 순서화된 리스트. 대부분의 언어들에서 Array, Vector, List 또는 Sequence로 구현
 
 - ### 중괄호 { } : Dictionary / 대괄호 [ ] : Array
 
@@ -1815,9 +1815,99 @@ iOS 10 이하 - NSLocationAlwaysUsageDescription 키 등록
 
 ### - name 뒤 콜론 ' : ' 을 붙이고 콤마 ' , ' 로 name/value 쌍들을 구분
 
+| 명     칭 |          형     식           |                    구     분                    |
+| :-------: | :--------------------------: | :---------------------------------------------: |
+| JSON 객체 |     { 키 : 값, 키 : 값 }     |     여러 속성을 정의하는 ''순서 없는'' 집합     |
+| JSON 배열 | [객체 1, 객체 2, 객체 3 ...] | 비슷한 객체가 반복 나열되는 ''순서화된'' 리스트 |
+
+- ####JSON 객체 : { 키 : 데이터 } 형태로 이루어진 K - V 구조의 데이터 집합 (딕셔너리)
+
+- #### JSON 배열 : 여러 명의 정보를 목록으로 처리하는 데 사용.
+
+```swift
+[
+    { "name" : "maru", "userID" : "", "age" : 35  },
+    { "name" : "kim", "userID" : "redgildong", "age" : 32 },
+    { "name" : "kyu", "userID" : "", "age" : }
+]
+```
 
 
-- ### Jason in Swift
+
+### API 호출 방식  : GET, POST,  *JSON
+
+
+
+- ### GET API 요청 형식
+
+|  항     목  |                            값                             |
+| :---------: | :-------------------------------------------------------: |
+| Description |            서버로부터 현재 시간을 가져옵니다.             |
+|     URL     | http://swiftapi.rubypaper.co.kr:2029/practice/currentTime |
+|   Method    |                            GET                            |
+|     REQ     |                           없음                            |
+|     RES     |        날짜 형태의 문자열(ex. 2018-12-31 11:28:31)        |
+
+- ### GET 방식 호출 구문
+
+```swift
+let url = URL(string: "읽어올 URL")
+
+let result0 = try! Data(contentsOf: url!)	// 바이너리 데이타 (이미지)
+let result1 = try! String(contentsOf: url!)	// 문자열
+// 스트링과 동일하지만, UTF-8 등으로 인코딩을 지정해야 할 필요가 있을 때 사용
+let result2 = try! NSString(contentsOf: url!, encoding: String.Encoding.utf8.rawValue)
+```
+
+---
+
+- ###POST API 요청 형식
+
+|  항     목   | 값                                                           |
+| :----------: | :----------------------------------------------------------- |
+| Description  | 클라이언트가 보낸 요청을 그대로 JSON 형식으로 변경하여 응답합니다. |
+|     URL      | http://swiftapi.rubypaper.co.kr:2029/practice/echo           |
+|    Method    | POST                                                         |
+| Content Type | x-www-form-urlencoded                                        |
+|     REQ      | 사용자 정의 형식                                             |
+|     RES      | JSON 객체 형식<br /><br />항   목                    //                  의            미<br />result                   //        성공 시 "SUCCESS", 실패 시 "FAIL"<br />timestamp         //         응답 시간을 YYYY-MM-dd HH:mm:ss 형식으로 전달됩니다.<br />기타                     //          사용자 요청 내용을 그대로 회신합니다. |
+
+- ###POST 방식으로 요청할 때 기억해야 할 것
+
+```swift
+1. URLRequest 객체에 본문 내용과 헤더를 설정하는 과정
+2. URLSession 객체에 이를 담아 전송하는 과정
+3. 응답 받은 결과를 파싱하여 원하는 곳에 사용하는 과정
+```
+
+
+
+---
+
+
+
+- ### JSON API 요청 방식
+
+|  항     목   | 값                                                           |
+| :----------: | :----------------------------------------------------------- |
+| Description  | 클라이언트가 보낸 JSON 데이터를 그대로 반환합니다.           |
+|     URL      | http://swiftapi.rubypaper.co.kr:2029/practice/echoJSON       |
+|    Method    | POST                                                         |
+| Content Type | application/json                                             |
+|     REQ      | JSON 형식을 따르되, 사용자 정의 형식                         |
+|     RES      | JSON 객체 형식<br /><br />항   목                    //                  의            미<br />result                   //        성공 시 "SUCCESS", 실패 시 "FAIL"<br />timestamp         //         응답 시간을 YYYY-MM-dd HH:mm:ss 형식으로 전달됩니다.<br />기타                     //          사용자 요청 내용을 그대로 회신합니다. |
+
+#### - JSON 방식이라 했지만 POST 방식을 사용하며 POST 방식의 x-www-form-urlcoded와 구조적으로 대부분 동일하다. 단지 다음과 같은 두 가지 항목에서 차이가 있을 뿐이다.
+
+| 1. 전송할 값을 =와 &으로 연결하는 대신 JSON 형식으로 구성합니다. |
+| ------------------------------------------------------------ |
+| 2. Content-Type 헤더의 값이 application/json으로 변경됩니다. |
+
+
+
+---
+
+- ### JSON in Swift
 
 ```sw
 let jsonString = """
@@ -1835,7 +1925,7 @@ let jsonObject = try! JSONSerialization.jsonObject(with: jsonData)
 print(jsonObject)
 ```
 
-- ### JsonSerialization
+- ### JSONSerialization
 
 ### - Jason 과 이에 상응하는 Foundation 객체 간 변환하는 객체이며 iOS 7 이후로 Thread Safety
 
@@ -1843,7 +1933,7 @@ print(jsonObject)
 
 
 
-### - Jason으로 변환되기 위한 Foundation 객체는 다음 속성을 따라야 함
+### - JSON으로 변환되기 위한 Foundation 객체는 다음 속성을 따라야 함
 
 - #### Top Level Object : NSArray, NSDictionary
 
@@ -1853,7 +1943,7 @@ print(jsonObject)
 
 - #### 숫자는 NaN 이나 무한대 값이 아니어야 함
 
-### - Jason data로 변환 가능 여부는 isValidJSONObject(_:) 메서드를 통해 확인 가능
+### - JSON data로 변환 가능 여부는 isValidJSONObject(_:) 메서드를 통해 확인 가능
 
 - ### Creating a JSON Object
 
@@ -1877,6 +1967,117 @@ Writes a given JSON object to a stream.
 class func isValidJSONObject(Any)
 Returns a Boolean value that indicates whether a given object can be converted to JSON data.
 ```
+
+
+
+---
+
+
+
+## *Alamofire
+
+#### - HTTP 네트워킹을 위해 스위프트 기반으로 개발된 비동기 라이브러리
+
+#### - URLRequest + URLSession 객체를 래핑한 간결한 구성 덕분에 모바일 서버와 HTTP 통신을 구현할 때 많이 사용
+
+- ### Alamofire 장점
+
+  #### - 서버로 보낼 요청을 간편하게 구성
+
+  #### - 서버의 응답 콘텐츠 타입에 맞추어 사용할 수 있는 다양한 메소드를 제공
+
+  ####- JSON 데이터를 주고 받기 위한 전용 메소드, 바이너리 파일을 주고 받기 위한 전용 메소드, 대용량 파일을 내려받기 위한 다운로드 메소드 등
+
+  #### - JSON 전용 메소드 -- > JSON 데이터로 손쉽게 파싱 가능
+
+  ####- 다운로드 메소드 --> 사용자에게 다운로드 과정을 중계 가능
+
+
+
+- ### Alamofire 기본 코드
+
+  #### - Request
+
+  ```swift
+  Alamofire.request("호출 URL")		// get 방식
+  Alamofire.request("호출 URL, method: .post")
+  ```
+
+  #### - Request 전달할 값이 있을 때
+
+  ```swift
+  let param: Parameters = [
+      "userId": "sqlpro",
+      :"name": "Maru"
+  ]
+  Alamofire.request("호출 URL", method: .post, parameters: param)
+  
+  // 전달하는 값에 특수문자나 한글 등이 포함되어 있을 경우 (매개변수 encoding 이 사용)
+  Alamofire.request("호출 URL", method: .post, parameters: param, encoding: URLEncoding.httpBody)
+  
+  // JSON 방식으로 값을 전송할 때에는 인코딩 타입으로 JSONEncoding 을 사용
+  Alamofire.request("호출 URL", method: .post, parameters: param, encoding: JSONEncoding.default)
+  
+  ```
+
+
+
+	#### - Response
+
+```swift
+response()		 // 응답 메시지에 특별한 처리를 하지 않습니다. 기본 형태이지만 URLSession 객체를
+				 // 직접 사용하는 것과 별반 차이가 없으므로 특별한 경우가 아니라면 사용되지 않습니다.
+
+responseString() // 응답 메시지의 본문을 문자열로 처리한 후 전달합니다.
+responseJSON()   // 응답 메시지의 본문을 JSON 객체로 변환하여 전달합니다.
+responseData()   // 응답 메시지의 본문을 바이너리 데이터로 변환하여 전달합니다.
+```
+
+
+
+#### - Alamofire는 비동기 기반으로 네트워크 응답을 처리하기 때문에, 응답 메시지를 response 메소드의 결과값으로 반환받을 수는 없다. 그래서 서버로부터 응답이 도착했을 때 실행할 로직을 클로저로 미리 작성하여 위 메소드의 인자값으로 넣어주어야 한다. 일종의 콜백 함수.
+
+```swift
+// Alamofire는 서버에서 응답이 도착하면 이를 DataResponse 타입의 객체로 처리한 다음, 이를 클로저의 매개변수에 담아 호출한다. 이 객체를 활용하여 원하는 값을 추출할 수 있다.
+
+let url = "http://swiftapi.rubypaper.co.kr:2029/practice/currentTime"
+Alamofire.request(url).responseString() { response in
+  print("성공여부: \(response.result.isSuccess)")
+  print("결과값: \(response.result.value!)")
+  }
+```
+
+
+
+ #### - Alamofire POST API 요청
+
+```swift
+
+let url = "http://swiftapi.rubypaper.co.kr:2029/practice/echo"
+let param: Parameters = [
+    "userId": "sqlpro"
+    "name": "maru"
+]
+
+let alamo = Alamofire.request(url, method: .post, parameters: param, encoding: URLEncoding.httpBody)
+
+alamo.responseJSON() { response in
+	print("JSON=\(response.result.value!)")
+                      if let jsonObject = response.result.value as? [String: Any] {
+                          print("userId = \(jsonObject["userId"]!)")
+                          print("name = \(jsonObject["name"]!)")
+                      }
+                     }
+
+```
+
+
+
+
+
+
+
+
 
 
 
@@ -1970,6 +2171,75 @@ guard let jsonData = try? Data(contentsOf: fileURL) else { return }
 let decodedContent = JSONDecoder().decode(CodableType.self, from: jsonData)
 print(decodedContent.key)
 ```
+
+
+
+---
+
+
+
+## *HTTP 메세지의 구조
+
+### 요청 메시지 & 응답 메시지
+
+#### - '라인 --- 헤더 --- 바디' 로 구성
+
+- #### 라인 : 메시지의 가장 기본적인 내용인 응답/요청 여부, 메시지 전송 방식, 상태 정보 등이 작성되는 곳 / 무조건 한줄로만 작성
+
+- #### 헤더 : 메시지 본문에 대한 메타 정보가 들어가는 곳 / 필요한 만큼 여러줄로 작성
+
+- #### 바디 : 실제로 보내고자 하는 메시지 본문 내용이 들어가는 곳 / 필요한 만큼 여러줄로 작성 / 헤더와 구분을 위해 한 줄의 공백이 삽입
+
+```swift
+================================================================
+		요청 라인				//			상태 라인						 	라   인
+================================================================
+		
+		요청 헤더				//			응답 헤더							헤   더
+(도메인 및 포트번호)로 요청 구분														   (키 / 값)
+================================================================
+		공백 라인				//			공백 라인
+================================================================
+
+		본    문				//			본     문							  바   디
+	   (요청 메시지)						  (응답 메세지)
+
+================================================================
+
+```
+
+
+
+### RESTful Api (Representational State Transfer)
+
+#### - 웹 콘텐츠나 데이터를 HTTP 기반으로 간단히 주고 받기 위해 정의된 간단한 형식의 인터페이스
+
+#### - RESTful 시스템은 네트워크 서버를 통해서 뿐만 아니라 일반 웹 서버를 통해서도 약간의 설정만으로 쉽고 간단하게 구현할 수 있다. 최근 대부분의 모바일 통신은 RESTful 기반.
+
+####- RESTful API 주고받는 내용들은 모두 HTTP 메시지의 본문에 JSON 형식으로 구성되어 전달.
+
+
+
+### - HTTP 메소드
+
+| 메소드(전송 방식) |                         목적                         |
+| :---------------: | :--------------------------------------------------: |
+|        GET        |       특정 리소스의 대표적인 정보를 요청할 때        |
+|       POST        |        ID 없이 리소스를 생성하거나 수정할 때         |
+|        PUT        |      ID 기반으로 리소스를 생성하거나 수정할 때       |
+|      DELETE       |                  리소스를 삭제할 때                  |
+|       HEAD        | GET 방식의 요청이지만 내용 없이 메타정보만 요청할 때 |
+|      OPTIONS      |           특정 URL에 대한 보조 메소드 역할           |
+
+
+
+### HTTPS (HTTP + Security)
+
+#### - 공개키와 개인키 인증서를 이용하여 메시지를 암호화한 후 전달함으로써, 중간에서 데이터를 훔치더라도 열어 볼 수 없도록 보호하는 것.
+
+#### - 애플은 2016년 10월 경부터 앱스토어에 등록되는 모든 앱에서 HTTPS 프로토콜을 통한 네트워크 통신만 허용
+
+
 
 
 
