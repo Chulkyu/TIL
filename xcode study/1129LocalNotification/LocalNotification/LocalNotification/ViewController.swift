@@ -10,6 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let notiManager = UNNotificationManager()
+    
+    
+    @IBAction func triggerTimeIntervalNotofocation(_ sender: Any) {
+        notiManager.triggerTimeIntervalNotification()
+    }
+    
+    @IBAction func triggerCalenderNotofocation(_ sender: Any) {
+        notiManager.triggerCalendarNotification()
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

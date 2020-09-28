@@ -12,6 +12,10 @@
 		420E1F2F21AFAD99007C100F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 420E1F2D21AFAD99007C100F /* Main.storyboard */; };
 		420E1F3121AFAD9A007C100F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 420E1F3021AFAD9A007C100F /* Assets.xcassets */; };
 		420E1F3421AFAD9A007C100F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 420E1F3221AFAD9A007C100F /* LaunchScreen.storyboard */; };
+		420E1F3E21AFAEA6007C100F /* UNNotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420E1F3D21AFAEA6007C100F /* UNNotificationManager.swift */; };
+		420E1F4521AFB9B2007C100F /* movieImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 420E1F4221AFB9B2007C100F /* movieImage.jpg */; };
+		420E1F4621AFB9B2007C100F /* pup-alert.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 420E1F4321AFB9B2007C100F /* pup-alert.mp3 */; };
+		420E1F4721AFB9B2007C100F /* sweetalertsound4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 420E1F4421AFB9B2007C100F /* sweetalertsound4.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		420E1F3021AFAD9A007C100F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		420E1F3321AFAD9A007C100F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		420E1F3521AFAD9A007C100F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		420E1F3D21AFAEA6007C100F /* UNNotificationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UNNotificationManager.swift; sourceTree = "<group>"; };
+		420E1F4221AFB9B2007C100F /* movieImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = movieImage.jpg; sourceTree = "<group>"; };
+		420E1F4321AFB9B2007C100F /* pup-alert.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "pup-alert.mp3"; sourceTree = "<group>"; };
+		420E1F4421AFB9B2007C100F /* sweetalertsound4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sweetalertsound4.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,13 +63,25 @@
 			isa = PBXGroup;
 			children = (
 				420E1F2921AFAD99007C100F /* AppDelegate.swift */,
+				420E1F3D21AFAEA6007C100F /* UNNotificationManager.swift */,
 				420E1F2B21AFAD99007C100F /* ViewController.swift */,
 				420E1F2D21AFAD99007C100F /* Main.storyboard */,
 				420E1F3021AFAD9A007C100F /* Assets.xcassets */,
+				420E1F4121AFB9B2007C100F /* Source */,
 				420E1F3221AFAD9A007C100F /* LaunchScreen.storyboard */,
 				420E1F3521AFAD9A007C100F /* Info.plist */,
 			);
 			path = LocalNotification;
+			sourceTree = "<group>";
+		};
+		420E1F4121AFB9B2007C100F /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				420E1F4221AFB9B2007C100F /* movieImage.jpg */,
+				420E1F4321AFB9B2007C100F /* pup-alert.mp3 */,
+				420E1F4421AFB9B2007C100F /* sweetalertsound4.wav */,
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,7 +142,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				420E1F4621AFB9B2007C100F /* pup-alert.mp3 in Resources */,
+				420E1F4521AFB9B2007C100F /* movieImage.jpg in Resources */,
 				420E1F3421AFAD9A007C100F /* LaunchScreen.storyboard in Resources */,
+				420E1F4721AFB9B2007C100F /* sweetalertsound4.wav in Resources */,
 				420E1F3121AFAD9A007C100F /* Assets.xcassets in Resources */,
 				420E1F2F21AFAD99007C100F /* Main.storyboard in Resources */,
 			);
@@ -135,6 +158,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				420E1F3E21AFAEA6007C100F /* UNNotificationManager.swift in Sources */,
 				420E1F2C21AFAD99007C100F /* ViewController.swift in Sources */,
 				420E1F2A21AFAD99007C100F /* AppDelegate.swift in Sources */,
 			);

@@ -34,12 +34,12 @@ class MovieInfoViewController: UIViewController {
         
         scrollViewSetting()
         borderSetting()
-        movieInfoData = creatMovieInfo()
+//        movieInfoData = creatMovieInfo()
         
         
     }
     
-    func creatMovieInfo() -> [MovieInfo] {
+    private func creatMovieInfo() -> [MovieInfo] {
         
         var tempMovieInfo: [MovieInfo] = []
         

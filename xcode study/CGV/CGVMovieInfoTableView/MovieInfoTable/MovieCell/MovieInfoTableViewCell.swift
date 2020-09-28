@@ -10,7 +10,7 @@ import UIKit
 
 class MovieInfoTableViewCell: UITableViewCell {
     
-    var moviePhoto = ["sample1", "sample2", "sample3", "sample4"]
+    var moviePhoto: [String] = ["sample1", "sample2", "sample3", "sample4"]
     @IBOutlet weak var moviePhotoCollectView: UICollectionView!
     
     
@@ -23,12 +23,14 @@ class MovieInfoTableViewCell: UITableViewCell {
     
     @IBAction func customMovieNewsButton(_ sender: Any) {
         customMovieNewsButton.layer.addBorder2([.bottom], color: UIColor.red, width: 2.0)
-        customMovieInfoButton.layer.addBorder2([.bottom], color: UIColor.clear, width: 2.0)
+        customMovieInfoButton.layer.addBorder2([.bottom], color: UIColor.white, width: 2.0)
     }
     
     @IBAction func customMovieInfoButton(_ sender: Any) {
         customMovieInfoButton.layer.addBorder2([.bottom], color: UIColor.red, width: 2.0)
-        customMovieNewsButton.layer.addBorder2([.bottom], color: UIColor.clear, width: 2.0)
+        customMovieNewsButton.layer.addBorder2([.bottom], color: UIColor.white, width: 2.0)
+        
+        
 
         
     }
@@ -61,8 +63,7 @@ class MovieInfoTableViewCell: UITableViewCell {
 }
 
 extension MovieInfoTableViewCell: UICollectionViewDataSource, UICollectionViewDelegate {
-    
-    
+   
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return moviePhoto.count
     }

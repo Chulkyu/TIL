@@ -1,0 +1,1 @@
+  2020/08/28 9:42:03 PM GMT+9: Starting composition “수영”.  Output To: /Users/maru/Desktop/Effects/graphics effects/슈퍼콘폰트/수영.mov    2020/08/28 9:42:42 PM GMT+9: Finished composition “수영”.  Total Time Elapsed: 39 SecondsLog closed on 2020/08/28 at 9:42:42 PM GMT+9

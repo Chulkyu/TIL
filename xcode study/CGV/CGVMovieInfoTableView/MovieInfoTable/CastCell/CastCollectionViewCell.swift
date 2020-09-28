@@ -10,6 +10,15 @@ import UIKit
 
 class CastCollectionViewCell: UICollectionViewCell {
 
+    @IBOutlet weak var castImageView: UIImageView!
+    
+    @IBOutlet weak var castKoreanName: UILabel!
+    
+    @IBOutlet weak var castEnglishName: UILabel!
+    
+    @IBOutlet weak var castRoll: UILabel!
+    
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

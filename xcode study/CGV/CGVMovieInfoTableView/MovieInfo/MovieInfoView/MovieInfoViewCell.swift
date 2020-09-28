@@ -32,6 +32,7 @@ class MovieInfoViewCell: UITableViewCell {
         openDateTextLabel.text = movieInfo.openDate
         actorTextLabel.text = movieInfo.actor
         runningTimeTextLabel.text = movieInfo.runningTime
+    
     }
     
     
