@@ -1,4 +1,4 @@
-### Lektion 1. Sein
+###  Lektion 1. Sein
 
 ```
 * 인칭대명사에 따른 sein 동사의 변화
@@ -4204,5 +4204,3432 @@ zwischen	사이에		Zwischen dem 10 und dem 15.12. wird die Praxis renoviert.
 3. Wann kommt er zurück? - in einer Stunde.
 4. Während der Winterferien muss er bei einer Firma arbeiten.
 5. Meine Nachbarn singen immer in der Nacht.
+```
+
+------
+
+### Lektion 12. 수동태
+
+```
+1. 능동문과 수동문의 비교
+2. 수동문 불가 문장
+3. 수동의 형태와 시제
+```
+
+```
+			능동문										수동문
+---------------------------------------------
+    행위자 중요						동작 및 행위 부각
+	Wer macht das?				 Was passiert?
+		일반대화					 사용설명서, 작업지침서 등등
+	
+```
+
+```
+- 수동문 불가 문장
+
+sein 과 결합하는 현재안료
+ : Ich bin nach Hause gekommen.
+ 
+재귀동사
+ : Ich wasche mich.
+ 
+적극 행위가 없는 주어
+ : Ich bekomme Blumen.
+```
+
+```
+- 수동의 형태와 시제
+
+			능동										수동
+------------------------------------------------------
+동사 ( waschen )				werden ... p.p. ( gewaschen )
+4격 목적어 (das Auto)		 1격 주어 ( das Auto )
+주어 ( 행위자 )					 von + Dat. ( 일반적으로 생략 )
+주어 : man (사람들은)			생략
+4격 목적어 (x)					 주어 : es ( 거의 다른 문장성분이 위치 )
+```
+
+```
+- werden 의 인칭변화
+
+현재 : werden ... p.p.
+과거 : wurde ... p.p.
+
+				werden						wurde
+-----------------------------------------
+ich			werde							wurde
+du			wirst							wurdest
+er			wird							wurde
+wir			werden						wurden
+ihr			werdet						wurdet
+Sie			werden						wurden
+
+
+			Pos.1					Pos.2					Mittelfeld									Satzende
+-----------------------------------------------------------------------------------
+능동	 누가,					~한다				언제, 어떻게, 어디서								P.P
+		 무엇이												누구를, 무엇을									분리전철, 동사원형
+
+수동	 누가,					~된다				언제, 어떻게, 어디서								P.P
+		 무엇이					werden			(누구(무엇)에 의해)
+		 
+		 
+- 수동의 문장 구조
+
+1. werden ... p.p
+	: Die Oma putzt das Fenster.
+	-> Das Fenster wird (von der Oma) geputzt.
+	
+2. 4격 - 1격
+	: Der Arzt operiert den Patienten.
+	-> Der Patient wird (vom Arzt) operiert.
+	
+3. 1격 - von 직접적 행위자 및 원인 / durch 간접적 행위자 및 원인 (자연현상)
+	: Der Kellner bringt gleich dem Kunden die Nachspeise.
+	-> Die Nachspeise wird gleich dem Kunden (vom Kellner) gebracht.
+	
+4. 분리동사
+	: Mein Freund lädt mich zu seinem Geburtstag ein.
+	-> Ich werde zum Geburtstag (von meinem Freund) eingeladen.
+	-> Ich werde zum Geburtstag meines Freundes eingeladen.
+	
+5. man - 생략
+	: Man bringt das Kind ins Krankenhaus.
+	-> Das Kind wird ins Krankenhaus gebracht.
+	
+6. 4격(x) - es
+	: Die Kinder helfen der Frau.
+	-> Es wird der Frau von den Kindern geholfen.
+	-> Der Frau wird geholfen.
+	
+	: Man arbeitet am Wochenende nicht.
+	-> Es wird am Wochenende nicht gearbeitet.
+	-> Am Wochenende wird nicht gearbeitet.
+	
+	: Heute Abend wird getanzt. (수동)
+	-> Man tanzt Heute Abend. (능동)
+		
+```
+
+```
+- 수동의 시제
+
+(미래 : werden ... p.p werden)
+현재 : werden ... p.p
+과거 : wurde ... p.p
+현완 : sein ... p.p + worden
+과완 : war ... p.p + worden
+
+현재 : Das Auto wird vom Vater gewaschen.
+과거 : Das Auto wurde vom Vater gewaschen.
+현완 : Das Auto ist vom Vater gewaschen worden.
+과완 : Das Auto war vom Vater gewaschen worden.
+
+현완 : Der Vater hat das Auto gewaschen.
+
+
+```
+
+```
+- 연습문제
+
+1. Mein Schwester sucht wieder das Heft.
+	-> Das Heft wird wieder (von meiner Schwester) gesucht.
+	
+2. Ihm wurde von niemandem geholfen.
+	-> Niemand half ihm.
+  
+3. Hier wird Deutsch gesprochen.
+	-> Man spricht hier Deutsch.
+	
+4. Wir sprechen über das Problem.
+	-> Über das Problem wird (von uns) gesprochen.
+```
+
+------
+
+### Lektion 13. 수동태2 ( Passiv )
+
+```
+1. 상태수동(Zustandspassiv)과 동작수동(Vorgangspassiv)의 차이 및 시제
+2. 화법조동사와 함께 쓰이는 수동문 및 시제
+```
+
+```
+- 상태수동의 비교
+
+a. 동작 수동 - 과정, 행위 묘사
+	: Der Patient wird operiert. (현재)
+	: Die Fenster werden jetzt geputzt. (현재)
+	
+b. 상태 수동 - 과정의 종료 (~한 상태)
+	: Der Patient ist operiert. (현재)
+	: Die Fenster sind schon geputzt. (현재)
+	
+```
+
+```
+- 상태수동의 특징
+
+a. 동작수동 성립 -> 상태수동 가능
+Die Tür wird geöffnet. -> Die Tür ist geöffnet.
+Das Auto wird geparkt. -> Das Auto ist geparkt.
+
+b. 현재완료형과 구분할 것
+Ein Autounfall ist passiert. (현재완료)
+Ein Autounfall wird passiert.(x)
+Das Kind ist zur Schule gegangen. (현재완료)
+Der Zug ist schon gefahren. (현재완료)
+
+행위의 결과 및 상태 - 형용사로 대체 가능
+
+```
+
+```
+- 상태수동의 시제
+
+			Pos.1			Pos.2				Mittelfeld		Satzende			
+미래						werden				......				 p.p				sein
+현재							sein				......				 p.p			
+과거							war					......				 p.p
+현완							sein				......				 p.p				gewesen
+과완							war					......				 p.p				gewesen
+
+```
+
+```
+- 동작 및 상태 수동
+
+a. 동작 및 상태 수동
+Die Frau repariert das Auto. (능동문 현재)
+Das Auto wird (von der Frau) repariert. (동작 수동문 현재)
+Das Auto ist repariert. (상태 수동문 현재)
+Das Auto ist nicht mehr kaputt.
+
+b. 동작 및 상태 수동
+Ich wasche die Wäsche. (능동문 현재)
+Die Wäsche wird (von mir) gewaschen. (동작 수동문 현재)
+Die Wäsche ist gewaschen. (상태 수동문 현재)
+Die Wäsche ist sauber. <-> schmutzig
+
+c. 동작 및 상태 수동
+Der Doktor operiert den Patienten. (능동문 현재)
+Der Patient wird operiert. (동작 수동문 현재)
+Der Patient ist operiert. (상태 수동문 현재)
+Der Patient ist jetzt wieder gesund.
+
+```
+
+```
+- 화법조동사와 함께 쓰이는 수동문 ( 화 + p.p + werden )
+
+저 자동차는 수리되어야 해.
+능동 : Man muss das Auto reparieren.
+수동 : Das Auto muss repariert werden.
+
+이 창문은 열릴 수 있다.
+능동 : Man kann das Fenster aufmachen.
+수동 : Das Fenster kann aufgemacht werden.
+
+```
+
+```
+- 화법 조동사가 있는 수동문장 구조 (현재)
+	
+- 수동태 만들시
+능동문의 4격 목적어만 주어로 올 수 있다.
+-> 3격일시 가주어 Es.
+
+Modalverb + Partizip 2 + werden
+
+능동 : Nadine muss die Wäsche waschen.
+수동 : Die Wäsche muss (von Nadine) gewaschen werden.
+
+능동 : Nadine konnte ihrer Freundin helfen.
+수동 : Es konnte ihrer Freundin (von Nadine) geholfen werden.
+		: Ihrer Freundin konnte (von Nadine) geholfen werden.
+		
+- 현재
+능동 : Die Studenten müssen das Buch lesen.
+수동 : Das Buch muss (von den Studenten) gelesen werden.
+
+능동 : Man kann im Park grillen.
+수동 : Im Park kann gegrillt werden.
+
+능동 : Man kann diese Aufgabe leicht lösen.
+수동 : Diese Aufgabe kann leicht gelöst werden.
+
+- 과거
+능동 : Die Studenten mussten das Buch lesen.
+수동 : Das Buch musste (von den Studenten) gelesen werden.
+
+능동 : Man konnte im Park grillen.
+수동 : Im Park konnte gegrillt werden.
+
+능동 : Man konnte diese Aufgabe leicht lösen.
+수동 : Diese Aufgabe konnte leicht gelöst werden.
+
+- 현재완료
+능동 : Die Studenten haben das Buch lesen müssen.
+수동 : Das Buch hat (von den Studenten) gelesen werden müssen.
+
+능동 : Man hat im Park grillen können.
+수동 : Im Park hat gegrillt werden können.
+
+능동 : Man hat diese Aufgabe leicht lösen können.
+수동 : Diese Aufgabe hat leicht gelöst werden können.
+
+```
+
+```
+- 수동의 가능 문장
+
+lassen sich ... R		-->		man kann ... R
+sein ... zu nf		-->		können ... p.p. werden
+
+Man kann den Koffer leicht tragen.
+Der Koffer kann leicht getragen werden.
+Der Koffer lässt sich leicht tragen.
+Der Koffer ist leicht zu tragen.
+Der Koffer ist leicht tragbar.
+
+Man kann den Wagen leicht reparieren.
+Der Wagen kann leicht repariert werden.
+Der Wagen lässt sich leicht reparieren.
+Der Wagen ist leicht reparierbar.
+
+```
+
+```
+- 연습문제
+
+1. Es darf hier geraucht werden.
+-> Man darf hier rauchen.
+
+2. Der Text musste von ihr übersetzt werden.
+-> Sie musste den Text übersetzen.
+
+3. 그는 진찰 받아야만 했다.
+	: Er musste untersucht werden.
+ -> Er hat untersucht werden müssen.
+ -> Man musste ihn untersuchen.
+ -> Man hat ihn untersuchen müssen.
+ 
+4. Mann kann die Kinder sofort vom Kindergarten abholen.
+-> Die Kinder können sofort vom Kindergarten abgeholt werden.
+
+5. Die Kinder lassen sich vom Kindergarten abholen.
+-> Die Kinder sind vom Kindergarten abzuholen.
+```
+
+------
+
+### Lektion 14. 동사활용 심화
+
+```
+1. 동사 + 전치사 (암기)
+	 형용사 + 전치사 (암기)
+2. lassen 동사 : 의미와 용법, 시제
+3. 정동사 ... Infinitiv
+	 = zu 없이 사용하는 동사
+```
+
+```
+기차역으로 가는 길을 여쭤봐도 될까요?
+ : Darf ich Sie nach dem Weg zum Bahnhof fragen?
+ jn. nach + 3격 + fragen : ~에게 ~에 대해 물어보다.
+
+대체 뭘 그렇게 기다리니? 택시
+ : Worauf wartest du denn? - Ich warte auf das Taxi.
+ auf + 4격 + warten : ~을 기다리다.
+ auf wen : ~누구를 / worauf : 무엇을
+ 
+ 잘 가 / 잘 가고 부모님께 안부 전해줘.
+  : Tschüs. / Tschüs und liebe Grüße an deine Eltern.
+  : Tschüs. / Tschüs und grüße deine Eltern von mir.
+  liebe / viele Grüße an + 4격 : ~에게 안부를 전하다.
+  jn. von + 3격 + grüßen : ~에게 안부를 전하다.
+
+```
+
+```
+- 3격 지배 전치사 + 동사
+----------------------------------------------------------------
+1. aus + 3 + bestehen : ~으로 구성되어 있다.
+2. aus + 3 + stammen : ~에서 파생되었다. ~에서 근거를 이루다.
+3. aus + 3 + werden : ~에서 되어지다.
+4. jm. zu + 3 + gratulieren : ~에게 축하를 주다.
+5. zu + 3 + dienen : ~에 유용하다, 유익하다.
+6. jn. zu + 3 + einladen : ~에게 초대하다.
+7. zu + 3 + führen : ~으로 초래하다, ~으로 이끌다.
+8. zu + 3 + passen : ~와 어울리다.
+	 A passt zu B : A와 B가 어울리다.
+9. zu + 3 + werden : ~으로 되어가다.(과정)
+10. bei + 3 + anrufen : ~에게 전화걸다.
+11. bei + 3 + arbeiten : ~에서 일하다
+		arbeiten an + 3 : ~에 몰두해서 일하다.
+12. jm. bei + 3 + helfen : ~에 ~을 돕다.
+13. sprechen mit + 3 + von + 3 : ~와 함께 ~에 관해서 이야기하다.
+		sprechen mit + 3 + über + 4 : ~와 함께 ~에 대해서 이야기하다.
+14. von + 3 + abhängen : ~에 달려있다, 의존적이다.(depend on)
+15. von + 3 + erfahren : ~에 관해서 경험하다, 듣고 알다.
+16. jn. von + 3 + grüßen : ~로 부터 안부를 전하다.
+17. jn. von + 3 + überzeugen : ~를 ~로부터 확신시키다.
+18. jm. von + 3 + erzählen : ~에게 ~에 대해서 이야기하다.
+19. von + 3 + träumen : ~에 관해서 꿈꾸다.
+20. mit + 3 + beginnen : ~을 시작하다.
+21. mit + 3 + anfangen : ~을 시작하다.
+22. mit + 3 + rechnen : ~을 예상하다, 예측하다.
+23. mit + 3 + umgehen : ~와 잘 어울리다(교제하다), ~을 잘 다루다.
+24. jn. mit + 3 + verbinden : ~와 연결시키다.(전화상)
+25. jn. mit + 3 + vergleichen : ~를 ~와 비교하다.
+26. mit + 3 + telefonieren : ~와 전화통화하다.
+27. mit + 3 + aufhören : ~을 그만두다, 중단하다.
+28. jn. nach + 3 + fragen : ~에게 ~을 질문하다.
+29. nach + 3 + suchen : ~을 찾아다니다.
+		suchen + 4 : ~을 찾아다니다.
+30. nach + 3 + schmecken : ~한 맛이 나다.
+31. nach + 3 + riechen : ~한 냄새가 나다.
+32. nach + 3 + streben : ~을 노력하다.
+
+Der Ring besteht aus Gold. (물질, 재료에는 무관사)
+Ich gratuliere dir zur Hochzeit.
+Die Früchte dienen den Affen zur Nahrung.
+ : 그 열매들이 원숭이들에게 먹이로 사용된다.
+Er lädt mich zum Essen ein.
+Die Bluse passt nicht zu deinem Rock.
+Er arbeitet bei einer Fabrik.
+Ich helfe dir bei der Gartenarbeit.
+Mein Studium hängt von der staatlichen Hilfe ab.
+ : 내 학업은 국가의 도움에 달려있다.
+Wir sprechen von unserem Leher.
+Grüße deine Eltern von mir.
+Er hat viel von dir erzählt.
+Ich träume von einem Haus mit Garten.
+Wir fangen mit dem Deutschunterricht an.
+-> Wir haben mit dem Deutschunterricht angefangen.
+Im Dezember rechnet man schon mit Schnee.
+Können Sie mich bitte mit Frau Lee verbinden?
+Vergleichen Sie bitte Freiburg mit Berlin !
+Um 19 Uhr hört er mit der Arbeit auf.
+Der Journalist fragt mich nach meiner Meinung.
+Dieser Tee schmeckt nach Schokolade.
+Man strebt nach einem besseren Leben.
+
+```
+
+```
+- 4격 지배 전치사 + 동사
+----------------------------------------------------------------
+33. gegen + 4 + protestieren : ~에 대항하여 항쟁,데모 하다.
+34. es geht um + 4 ~ : ~이 관건이다, 문제이다, 주제이다.
+35. um + 4 + kämpfen : ~을 획득하기 위하여 싸운다.
+		kämpfen + für + 4 : ~을 위하여 싸우다.
+36. jn. um + 4 + bitten : ~에게 ~을 부탁하다.
+37. etwas für + 4 + ausgeben : ~을 위해 지출하다.
+38. jm. für + 4 + danken : ~에게 ~에 대해 고마워하다.
+39. für + 4 + gelten : ~이 유효하다.
+		gelten als : ~으로 간주하다. ~으로 여겨지다.
+		gelten - galt - gegolten
+40. etwas für + 4 + halten : ~을 ~으로 여기다.
+		halten - hielt - gehalten
+41. für + 4 + sorgen : ~을 돌보다.
+
+Wir protestieren gegen Atomkraft.
+Es geht jetzt um die Wurst. : 지금 아주 중요한 사항이다.
+Wir kämpfen um unser Leben.
+Der Render bittet uns um Aufmerksamkeit. : 그 연설자는 우리에게 주목을 부탁한다.
+Ich danke dir für die Einladung.
+Diese Fahrkarte gilt nur für die Innenstadt.
+Das halte ich für gute Idee.
+Ich muss im Alter für meine Eltern sorgen.
+
+```
+
+```
+- 3/4격 지배 전치사 + 동사
+-----------------------------------------------------------------
+42. jn. an + 3 + erkennen : ~를 ~으로 알아차리다.
+43. an + 3 + fehlen : ~이 부족하다, 결여되어있다.
+44. jn. an + 3 + hindern : ~를 ~하지 못하게 방해하다.
+45. an + 3 + leiden : ~ 질병을 앓다.
+46. an + 3 + liegen : ~의 책임이다.
+47. an + 3 + sterben : ~으로 죽다.
+48. an + 3 + teilnehmen : ~에 참여하다.
+49. an + 3 + zweifeln : ~을 의심하다.
+50. auf + 3 + bestehen : ~을 고집하다. 주장하다.
+51. in + 3 + bestehen : ~이다.
+52. jn. vor + 3 + warnen : ~에게 ~에 대해 경고하다.
+53. vor + 3 + zittern : ~ 때문에 떨다.
+54. etwas vor + 3 + schützen : ~에게서 보호하다.
+55. unter + 3 + leiden : ~에 시달리다.
+
+Kinder erkennen Pinocchio an seiner langen Nase.
+Es fehlt mir an Erfahrung.
+Ich leide an Übergewiht / unter Schlafproblemen.
+ : 비만을 앓고 있다. / 수면장애에 시달리다.
+Er ist an der Vogelgrippe gestorben. : 조류독감에 죽다.
+Südkorea nimmt seit 1986 ununterbrochen an der Fußball-WM teil.
+ : 한국은 1986년 이후로 끊임없이 월드컵에 참여하고 있습니다.
+Sie zweifelt an seiner Geschichte. : 그녀는 그의 이야기를 의심한다.
+Ich bestehe auf einem korrekten Vertrag. : 나는 정확한 계약서를 고집한다.
+Er warnt mich vor der großen Gefahr.
+ : 그는 나에게 커다란 위험이 있을거라 경고합니다.
+Mann soll seinen PC vor Hackern schützen.
+
+56. auf + 4 + achten : ~을 유의하다.
+57. auf + 4 + ankommen : ~에 달려있다. 관건이다.
+58. jm. auf + 4 + antworten : ~에게 ~에 대해 답변하다.
+59. auf + 4 + aufpassen : ~을 돌보다.
+60. jn. auf + 4 + hinweisen : ~에게 ~을 언급하다, 암시하다.
+61. auf + 4 + hoffen : ~을 희망하다.
+62. auf + 4 + reagieren : ~에 반응하다.
+63. etwas auf + 4 + verschieben : ~을 ~이후로 미루다.
+64. auf + 4 + verzichten : ~을 단념하다.
+65. auf + 4 + warten : ~을 기다리다.
+66. in + 4 + teilen : ~으로 나누다.
+67. über + 4 + diskutieren : ~에 대해 토의하다.
+68. über + 4 + klagen : ~을 불평하다.
+69. über + 4 + lachen : ~에 대해 비웃다.
+70. über + 4 + nachdenken : ~에 대해 심사숙고하다.
+71. über + 4 + streiten : ~에 대해 싸우다.
+
+Achten Sie bitte auf Ihre Gesundheit.
+Es kommt jetzt auf die Qualität an. : 품질이 관건이다.
+Er antwortet mir nicht auf die E-Mail.
+Ich passe auf mein Baby auf.
+Darf ich Sie mal auf die Hausordnung hinweisen?
+Er reagiert nicht auf meine Einladung.
+Ich verzichte auf den Weihnachtskonum. : 성탄소비를 단념한다.
+Sie streiten sich über Kleinigkeiten.
+Ich denke über das Problem nach.
+
+```
+
+```
+- 전치사 + 형용사 ( 3 / 4격 ) & 명사
+-----------------------------------------------------------------
+1. arm an + 3 : ~이 부족한
+2. Interesse an + 3 : ~에 대한 흥미
+3. beschäftigt mit + 3 : ~에 연구하는, 몰두하는
+4. fertig mit + 3 : ~이 끝난
+5. reich an + 3 : ~이 풍부한
+6. Problem mit + 3 : ~에 대한 문제점
+7. zufrieden mit + 3 : ~으로 만족한
+8. weit von + 3 : ~에서 멀어진, 떨어져 있는
+9. Angst vor + 3 : ~에 대한 두려움
+10. angewiesen auf + 4 : ~에 의존적인
+11. neidisch auf + 4 : ~이 부러운
+12. stolz auf + 4 : ~이 자랑스러운
+13. bekannt für + 4 : ~으로 알려진
+14. berühmt für + 4 : ~으로 저명한
+15. verantwortlich für + 4 : ~의 책임이 있는
+16. froh über + 4 : ~에 대해 행복한
+17. schuld an + 3 : ~의 책임이 있는, 죄가 있는
+18. schädlich für + 4 : ~에 해로운
+
+Immer mehr Menschen sind finanziell vom Staat abhängig.
+Der Autofahrer war schuld an dem Unfall.
+Wir sind sehr zufrieden mit unserem neuen Auto.
+Morgens ist sie immer mit dem Kaffeekochen beschäftigt.
+Bist du schon fertig mit den Hausaufgaben?
+München ist bekannt für Oktoverfest und Bier.
+Kinder sind auf die Hilfe Erwachsener angewiesen.
+Er ist sehr stolz auf seine hübsche Frau.
+Sie ist neidisch auf ihren erfolgreichen Bruder.
+Gestreifte Krawatten sind typisch für Politiker.
+ : 줄무늬 넥타이는 정치인들에게 전형적이다.
+Kangho Song war berühmt für seine Rolle als Taxifahrer.
+Pollen sind oft verantwortlich für Allergien.
+ : 꽃가루가 주로 알레르기의 책임이 있습니다.(원인입니다.)
+Zucker ist schädlich für die Zähne.
+Sie ist glücklich über die vielen Geschenke.
+
+```
+
+```
+- lassen - ließ - gelassen
+
+a. 준 화법 조동사
+b. 동사원형을 보충어로 취하는 동사
+c. 본동사 : ~을 ~에 놔두다, 그만 두다
+	 조동사 : ~하도록 시키다, ~허락하다
+	 
+ich - lasse - ließ
+du - lässt - ließest
+er - lässt - ließ
+wir - lassen - ließen
+ihr - lasst - ließt
+Sie - lassen - ließen
+
+- lassen 본동사 ( ~을 그만 두다 )
+-----------------------------------------------------------------
+난 흡연을 그만둔다.
+ : Ich rauche nicht mehr.
+ : Ich höre mit dem Rauchen auf.
+ : Ich verzichte auf das Rauchen.
+ : Ich lasse das Rauchen.
+
+그만 둬라 !
+ : Lass das !
+ : Lasst das !
+ 
+엄마 좀 내버려 둬라 !
+ : Lass Mama in Ruhe !
+ : Hör auf damit Mama zu stören.
+ : Stör doch bitte Mama nicht.
+ 
+ 
+- lassen 본동사 + (sitzen, liegen, stehen...)
+-----------------------------------------------------------------
+그는 열쇠를 집에 놔둔다.
+ : Er lässt seinen Schlüssel zu Hause (liegen).
+
+나는 자전거를 문 앞에 놔둔다.
+ : Ich lasse mein Fahrrad vor der Tür (stehen).
+ 
+그들은 자동차를 차고에 세워 둔다.
+ : Sie lassen ihr Auto in der Garage (stehen).
+ 
+ 
+- lassen 조동사 + 동사원형 ( ~ 하게 하다 / 시키다 )
+-----------------------------------------------------------------
+내 아버지가 의사를 오게 시킨다.
+ : Mein Vater lässt den Arzt kommen.
+
+내가 끝까지 말하게 놔둬줘 !
+ : Lass mich bitte ausreden !
+ 
+한 번 보여주세요 !
+ : Lassen Sie mich mal sehen !
+ 
+ 
+- lassen 조동사 + 동사원형 ( ~ 하게 하다, 역할부여 )
+-----------------------------------------------------------------
+나는 내 머리카락을 자르게 한다.
+ : Ich lasse mir die Haare schneiden.
+ 
+그는 빨래를 그의 어머니로부터 빨도록 시킨다.
+ : Er lässt sich von seiner Mutter die Wäsche waschen.
+  = Seine Mutter wäscht die Wäsche.
+ 
+그는 피자서비스로부터 피자 한 판을 배달하도록 시킨다. (Service / Pizza )
+ : Er lässt sich vom Pizzaservice eine Pizza liefern.
+
+
+- lassen 조동사 + 동사원형 ( ~하도록 허락하다 )
+-----------------------------------------------------------------
+나는 아이들이 영화관에 가도록 허락한다.
+ : Ich lasse die Kinder ins Kino gehen.
+ = Ich erlaube ihnen, ins Kino zu gehen.
+ 
+나는 내 딸이 음악을 듣도록 허락한다.
+ : Ich lasse meine Tochter Musik hören.
+ = Ich erlaube ihr, Musik zu hören.
+ = Sie darf Musik hören.
+ 
+ 
+- lassen 시제와 용법 ( 본동사 / 조동사 )
+-----------------------------------------------------------------
+본동사
+- 현재 : Er lässt sein Auto zu Hause.
+- 과거 : Er ließ sein Auto zu Hause.
+- 현완 : Er hat sein Auto zu Hause gelassen.
+- 미래 : Er wird sein Auto zu Hause lassen.
+
+조동사
+- 현재 : Er lässt sich morgen operieren.
+- 과거 : Er ließ sich gestern operieren.
+- 현완 : Er hat sich gestern operieren lassen.
+- 미래 : Er wird sich morgen operieren lassen.
+- 의무문 : Lässt sich der Mann morgen operieren?
+
+
+
+- 동사원형을 보충어로 하는 동사
+-----------------------------------------------------------------
+finites Verb (정동사) ... (Infinitiv)
+ - zu 없이 사용하는 부정형
+Ich kann gut tanzen. (Modalverben)
+Ich lasse meinen Hund frei laufen. (lassen)
+
+- 인지~, 움직임 동사들
+ : sehen, hören, fühlen, gehen, kommen, fahren,
+ 	 laufen, bleiben, finden ...
+Ich bleibe stecken : 옴짝달싹 못하다.
+
+
+나는 저 학생이 바이올린 연주하는 걸 듣는다.
+ : Ich höre den Schüler Geige spielen.
+나는 저 학생이 바이올린 연주하는 걸 들었다.
+ : Ich habe den Schüler Geige spielen hören.
+ 
+나는 그녀가 숙제를 하고 있는 걸 본다.
+ : Ich sehe sie die Hausaufgaben machen.
+나는 그녀가 숙제를 하고 있는 걸 보았다.
+ : Ich habe sie die Hausaufgaben machen sehen.
+ 
+나는 수영하러 / 밥 먹으로 / 산책하러 간다.
+ : Ich gehe schwimmen / essen / spazieren.
+나는 수영하러 / 밥 먹으로 /  산책하러 갔다.
+ : Ich bin schwimmen / essen / spazieren gegangen.
+ 
+우리는 엘리베이터에 갇혀 있다.
+ : Wir bleiben im Aufzug stecken.
+우리는 엘리베이터에 갇혀 있었다.
+ : Wir sind im Aufzug stecken geblieben.
+
+```
+
+```
+- 연습문제
+
+빈칸에 들어갈 단어로 알맞은 것은?
+1. Sie ( hält ) ihn nicht ( für ) ihren Kollengen.
+
+2. Luisa ist sehr froh ( über ) die bestandene Prüfung.
+	 Da ( von ) erzählt sie gleich ihren Eltern.
+	 
+3. A : Sind Sie ( mit ) Ihrer Wohnung zufrieden?
+	 B : Ja, sogar sehr. Es fehlt mir aber ( an ) Geld.
+	 
+4. Er hat sein Auto zu Hause ( gelassen. )
+	 Sie hat ihre Mutter singen ( hören. )
+	 Sie ist müde und geht ( schlafen. )
+	 Wir sehen unsere Nachbarin nach Hause ( kommen. )
+	 Gestern bin ich ( einkaufen ) gegangen.
+	 
+5. Sie hat sich ihre Haare scheiden lassen.
+	 Er hat seiner Frau im Haushalt  ( helfen ) müssen.
+	 Wir hören die Schülerinnen ( singen. )
+	 Mein Mann hat auf die Kinder aufpassen ( sollen. )
+	 Bist du schon mit den Hausaufgaben fertig ( gewesen? )
+	 
+```
+
+------
+
+### Lektion 15. 문장구조 배어법 ( Wortstellung )
+
+```
+1. 문장의 의미
+2. 문장 구조 : 문장의 어순 ( 주어 + 술어 ... )
+3. 어순에 따른 문장 만들기 ( nicht 위치 )
+```
+
+```
+- 문장이란
+여러 단어들이 모여 성분이 되고,
+이 것들이 잘 분류, 합체된 글 또는 말의 문법적 단위
+
+문장 성분 : a. 술어		b. 보충어		c. 임시어
+동사의 위치에 따라 : 1. 정치법		2. 도치법		3. 후치법
+
+```
+
+```
+- 문장 구조의 규칙
+
+a. 어순 : 짧은 것이 긴 것에 우선.
+b. (인칭)대명사가 (고유)명사에 우선.
+c. 명사 어순 : 3 + 4 / 대명사 어순 : 4 + 3
+d. 3, 4격 목적어가 전치사격 보충어에 우선
+e. 임시어(지시어) 순서 : TeKaMoLo (시원방장)
+
+a. Wie gefällt dir die Wohnung?
+b. Sie gefällt aber meinem Mann nicht.
+c. Gestern habe ich meinem Mann die Wohung gezeigt.
+	- Gestern habe ich sie ihm gezeigt.
+d. Er hat mir herzlich für die Einladung gedankt.
+e. Wo warst du gestern?
+	- Ich war in der Mensa gestern
+	-> Gestern war ich in der Mensa.
+		 Gestern am Nachmittag war ich in der Mensa.
+e. 그는 그저께 / 학교로 / 우산을 / 가지고 / 비 때문에 / 갔다.
+	-> Vorgestern ist er wegen des Regens mit dem Schirm zur Schule gegangen.
+```
+
+```
+- 문장 구조의 규칙 - 동사가 첫번째로 오는 경우
+
+왔나요 그는 한국에서?
+ : Kommt er aus Korea?
+이 얼마나 아름다운 날씨인가.
+ : Wie schön ist das Wetter.
+방문하다 너는 그녀를?
+ : Besuchst du sie?
+읽으세요 당신은 어서 저 본문을
+ : Lesen Sie doch den Text!
+여라			이젠 좀 조용히 한 ~
+ : Seid jetzt endlich mal ruhig!
+
+```
+
+```
+- 주어 + 술어 + ( 4격 보충어 ) - 동사 2번째 위치
+
+저 남자가 잠을 (안)잔다.
+ : Der Mann schläft (nicht).
+저 소년이 (안)일한다.
+ : Der Junge arbeitet (nicht).
+그녀가 (안)사랑한다 저 선생님을.
+ : Sie liebt den Lehrer (nicht).
+나는 (안)방문한다 할머니를.
+ : Ich besuche meine Oma (nicht).
+
+- 주어 + 술어 + 보충어 - 동사 2번째 위치
+
+저 남자가 (안)간다 베를린으로
+ :  Der Mann fährt (nicht) nach Berlin.
+저 소년이 (안)돕는다 자기의 엄마를
+ : Der Junge hilft seiner Mutter (nicht).
+저 책은 (안)놓여 있다 의자 위에
+ : Das Buch liegt (nicht) auf dem Stuhl.
+나는 (안)간다 병원으로
+ : Ich gehe (nicht) zum Arzt.
+ 
+- 주어 + 술어 + 전치사격 - / 3 + 4격 보충어
+
+그녀는 (안)생각한다 항상 너를
+ : Sie denkt immer (nicht) an dich.
+나는 (안)기다린다 너를
+ : Ich warte (nicht) auf dich.
+그녀가 (안)놓는다 저 책을 냉장고 위에
+ : Sie legt das Buch (nicht) auf den Kühlschrank.
+저 소년이 (안)선물한다 그의 여선생님께 꽃을
+ : Der Junge schenkt seiner Klassenlehrerin Blumen (nicht).
+
+```
+
+```
+- 의문사 / 임시어 ( 시간, 원인, 목적, 방법, 장소 )
+
+언제 가니 너는 뮌헨으로?
+ : Wann fährst du nach München?
+내일 간다 나는 뮌헨으로 / 거기로
+ : Morgen fahre ich nach München / dorthin.
+언제부터 배우니 그는 이미 독일어를?
+ : Seit wann lernt er schon Deutsch?
+어제부터 배운다 그는 독일어를
+ : Seit gestern lernt er Deutsch.
+ 
+- 의문사 / 임시어 ( 시간, 원인, 목적, 방법, 장소 )
+
+왜 가니 너는 뮌헨으로?
+ : Warum fährst du nach München?
+시험 때문에 간다 나는 뮌헨으로 / 거기로.
+ : Wegen der Prüfung fahre ich nach München / dorthin.
+무엇 때문에 배우니 그는 독일어를?
+ : Wozu lernt er Deutsch?
+그는 할 것이다 나중에 독일에서 전공하다.
+ : Er will später in Deutschland studieren.
+
+- 의문사 / 임시어 ( 시간, 원인, 목적, 방법, 장소 )4
+
+어떻게 성취한다 사람은 자신의 목표를?
+ : Wie erreicht man sein Ziel?
+인내로 성취한다 사람은 자신의 목표를
+ : Durch Ausdauer erreicht man sein Ziel.
+어디서 공부하니 그는 자주 독일어를?
+ : Wo lernt er oft Deutsch?
+커피숍에서 배운다 그는 자주 독일어를
+ : Im Café lernt er oft Deutsch.
+ 
+```
+
+```
+- 복합술어
+
+나는 ~ㅆ다 어제 숙제를 (안)했다.
+ : Ich habe gestern die Hausaufgaben (nicht) gemacht.
+그는 ~ㅆ다 어제 영화관으로 (안)갔
+ : Er ist gestern ins Kino (nicht) gegangen.
+그녀는 ~ㅆ다 오늘 매우 일찍이 (안)일어났
+ : Sie ist heute sehr früh (nicht) aufgestanden.
+그는 ~ㅆ다 어제 저녁 한 시간 동안 독일어를 (안)공부했
+ : Er hat gestern Abend eine Stunde lang Deutsch (nicht) gelernt.
+
+- 복합술어 (미래형)
+
+나는 ~거다 올해 독일로 가다.
+ : Ich werde dieses Jahr nach Deutschland fliegen.
+언제 ~거니 너는 독일로 가다?
+ : Wann wirst du nach Deutschland fliegen?
+ 
+- 복합술어 (수동태)
+
+저 차는 ~진다 지금 깨끗하게 세차 되어
+ : Das Auto wird jetzt sauber gewaschen.
+저 차는 ~졌다 이미 며칠 전부터 세차 되어
+ : Das Auto ist schon seit Tagen gewaschen.
+나는 ~졌다 주말에 친구들에 의해 방문되어
+ : Ich wurde letztes Wochenende von meinen Freunden besucht.
+
+- 복합술어 (화법조동사)
+
+나는 ~수 있다 매우 잘 축구를 경기하다.
+ : Ich kann sehr gut Fußball spielen.
+그는 ~해야 한다 당장 집으로 가다.
+ : Er muss sofort nach Hause gehen.
+나는 ~고 싶다 너를 내 생일에 초대하다.
+ : Ich möchte dich zu meinem Geburtstag einladen.
+그는 ~해도 되었다 어제 디스코텍으로 가다.
+ : Er durfte gestern in die Disko gehen.
+언제 전화 걸다 너는 나를 전화 걸다.
+ : Wann rufst du mich an?
+무엇을 사다 그는 그릴파티를 위해서 안으로
+ : Was kauft er für die Grillparty ein?
+어디서 ~ㅆ다 너희는 어제 온종일 머물렀
+ : Wo seid ihr gestern den ganzen Tag geblieben?
+무엇을 ~ㅆ다 너는 그렇게 오랫동안 기다렸
+ : Worauf hast du so lange gewartet?
+```
+
+```
+- nicht 의 위치
+
+a. 문장전체 부정 : 맨 끝
+b. 두 번째 술어부분 앞
+	- 분리전철 앞
+	- 후치된 Inf. 및 p.p. 앞
+c. 형용사, 방법 임시어 앞
+d. 전치사 보충어 앞
+e. 위치, 장소, 방향 보충어 앞
+
+```
+
+```
+- 연습문제
+
+1. Ich habe sich interessiert für Sport nicht.
+ -> Ich habe mich nicht für Sport interessiert.
+ 
+2. Sie ist mit dem Taxi gestern Morgen zur Arbeit gekommen.
+ -> Sie ist gestern Morgen mit dem Taxi zur Arbeit gekommen.
+ 
+3. Paul / seinem Neffen / erzählte / gestern / eine Geschichte.
+ -> Paul erzählte gestern seinem Neffen eine Geschichte.
+ 
+4. 어순이 맞지 않는 것은?
+	1) Gefällt dir die Wohnung?
+	2) Ich stelle mich euch vor.
+	3) Am Sonntag ist er zu Hause nicht.
+		-> Am Sonntag ist er nicht zu Hause.
+	4) Peter ist heute um 6:30 Uhr aufgestanden.
+
+5. 어순이 가장 적절하게 쓰인 문장은?
+	1) Ich schreibe an dich einen Brief.
+		-> Ich schreibe dir einen Brief. 
+		-> Ich schreibe einen Brief an dich.
+	2) Er hat sein Buch dem Kind geliehen.
+		-> Er hat dem Kind sein Buch geliehen.
+	3) Sie hat sich über seinen Heiratsantrag sehr gefreut.
+		-> Sie hat sich sehr über seinen Heiratsantrag gefreut.
+	4) Peter ist heute um 6:30 Uhr aufgestanden.
+	
+```
+
+------
+
+### Lektion 16. 부문장 - dass (Nebensätze) 구별법
+
+```
+1. 주문장과 부문장 구별하기
+2. dass - 문장의 정의와 특징
+3. dass 문장의 활용 : 주어, 목적어, 수식어, 전치사 보충어
+```
+
+```
+- 주문장과 주문장 ( Hauptsätze )
+-----------------------------------------------------------------------
+주문장															주문장
+
+Sie ist krank.									Sie geht zum Arzt.
+Sie ist Krank,									deshalb geht sie zum Arzt.
+Seine Mutter ist Deutsche				Er spricht sehr gut Deutsch.
+Seine Mutter ist Deutsche,			deswegen spricht er sehr gut Deutsch.
+
+```
+
+```
+- 주문장과 부문장 구별하기
+------------------------------------------------------------------------
+								주문장										부문장
+								
+정동사			Pos.1 (명령문, 선택 의무문)				문장 맨 뒤
+				 Pos.2 (평서문, 의문사/의무문)				
+
+독립성						가능										불가능 - 접속사로 주문장에 연결
+
+				 Sie bleibt zu Hause,					ihre Mutter ist krank. (주문장)
+				 															weil ihre Mutter krank ist.
+				 
+```
+
+```
+- 주문장과 부문장
+------------------------------------------------------------------------
+				 주문장													부문장
+							 
+Sie geht zum Arzt,								weil sie krank ist.
+Er spricht sehr gut Deutsch,			weil seine Mutter Deutsche ist.
+Er konnte nicht arbeiten,					weil er krank war.
+Ich war sehr müde,								weil ich nicht genug geschlafen habe.
+
+				부문장																		주문장
+				
+Weil sie krank ist,											geht sie zum Arzt.
+Weil seine Mutter Deutsche ist,					spricht er sehr gut Deutsch.
+Weil er krank war,											konnte er nicht arbeiten.
+Weil ich nicht genug geschlafen habe,		war ich sehr müde.
+
+```
+
+```
+- dass - 문장의 정의
+
+a. 주문장에 필요한 정황과 줄거리 묘사
+b. 보충어 대신 필요한 문장(성분)
+	 문장이 보충어 역할 : ~ 한다는 것
+c. 부문장 : 동사의 위치 - 맨 뒤
+
+- 특정 동사와 표현에 사용
+a. 알고 있거나 알려진 사실
+	 Ich weiß, ... / Ich glaube, ...
+b. 생각, 느낌, 의견의 표현
+	 Ich finde, ...	/	Ich habe Angst, ...
+	 Ich freue mich, ...	/	 Es ist wichtig, ...
+	 Es ist schade, ...
+
+```
+
+```
+- dass - 문장
+
+Er kommt zur Party.
+-> dass er zur Party kommt.
+
+Wir gehen ins Kino.
+-> dass wir ins Kino gehen.
+
+```
+
+```
+- dass 문장의 활용 ( 주어와 4격 보충어 )
+
+Es freut mich, dass er zur Party kommt.
+Dass er zur Party kommt, freut mich.
+
+Er weiß, dass wir ins Kino gehen.
+Dass wir ins Kino gehen, weiß er.
+
+
+- dass 문장의 활용 ( 수식어와 전치사 보충어 )
+
+Ich habe die Absicht, dass ich bald Deutsch lerne.
+Ich will bald Deutsch lernen.
+die Absicht : 의도, 의향
+
+Er freut sich darauf, dass wir zusammen Deutsch lernen.
+freut sich über : ~에 대해 기뻐하다.
+fruet sich auf : ~에 대해 학수고대하다.
+
+```
+
+```
+- dass 문장의 활용 ( 주어 )
+
+네가 지금 가야 하는 (사실이)게 아깝다.
+ : Es ist schade, dass du jetzt gehen musst.
+ 
+네가 내게 전화해 줘서 좋다.
+ : Es freut mich daüber, dass du mich anrufst.
+ 	 Es ist schön, dass du mich anrufst.
+
+
+- dass 문장의 활용 ( 4격 보충어 )
+
+나는 엄마가 오늘 생신이라는 (사실일)걸 몰랐다.
+ : Ich wusste es nicht, dass meine Mutter heute Geburtstag hat.
+   Ich habe es vergessen, dass meine Mutter heute Geburtstag hat.
+   
+나는 그가 너희들을 도왔다는 (사실이)게 참 좋았어.
+ :  Es war schön, dass er euch geholfen hat.
+    Ich fand es schön, dass er euch geholfen hat.
+    
+    
+- dass 문장의 활용 ( 수식어 )
+
+나는 그가 우리를 조만간 방문하는 바람이 있어.
+ : Ich hoffe es, dass er uns bald besucht.
+   Ich habe den Wunsch, dass er uns bald besucht.
+   
+나는 내가 그녀를 결혼하는 희망을 가지고 있다. = 결혼을 희망한다.
+ : Ich habe einen Wunsch, dass ich sie heirate.
+   Ich habe die Hoffnung, dass ich sie heirate.
+
+
+- dass 문장의 활용 ( 전치사 보충어 )
+
+나는 내가 늦게 일어난 게 화가나.
+ : Ich ärgere mich darüber, dass ich spät aufgestanden bin.
+   
+나는 당신이 우리를 도와준 것에 대해 진심으로 감사드립니다.
+ : Ich danke Ihnen ganz herzlich, dass Sie uns geholfen haben.
+   Ich danke Ihnen dafür, dass Sie uns viel geholfen haben.
+ 
+```
+
+
+
+```
+- 연습문제
+
+1. Du hast kein Geld.
+	-> Ich weiß, dass du kein Geld hast.
+
+2. Du hast heute Geburtstag.
+	-> Ich weiß, dass du heute Geburtstag hast.
+	
+3. Ich habe heute um 4 Uhr einen Arzttermin.
+	-> Ich habe vergessen, dass ich heute um 4 Uhr einen Arzttermin habe.
+
+4. Man darf in diesem Museum fotografieren.
+	-> Es ist erlaubt, dass man in diesem Museum fotografiert.
+									 , in diesem Museum zu fotografieren.
+
+5. Man soll für die Zukunft Deutsch lernen.
+	-> Es ist empfehlenswert, dass man für die Zukunft Deutsch lernt.
+													, für die Zukunft Deutsch zu lernen.
+	die Zukunft : 미래, 장래
+```
+
+------
+
+### Lektion 17. zu 부정법
+
+```
+1. zu 부정법의 특징
+2. zu 부정법의 활용 : 주어, 목적어, 전치사격 보충어, 수식어
+3. 임시어
+	: statt ~ zu Inf. : ~ 하는 것 대신에
+		ohne ~ zu Inf. : ~ 하는 것도 없이
+		um ~ zu Inf. : ~ 하기 위해
+```
+
+```
+- zu 부정법의 특징
+
+a. 주문장의 동사 - 부문장 행위와 관련
+b. 대부분의 동사가 보충어로써
+	zu + Infinitiv 형성 ( ~ 하는 것, ~ 하는 )
+	: ~ 시작, 약속, 포기, 희망, 허락, 부탁, 잊음, 시도 등등
+
+```
+
+```
+- zu 부정법이 가능한 문장
+
+주문장			Man arbeitet am Samstag						일하다
+dass~		 dass man am Samstag arbeitet.		 일하는 것 / 주어 필수, 동사 맨 뒤
+zu + Inf	am Samstag zu arbeiten					 일하는 것 / 주어 없음
+
+주문장			Man raucht viel.								흡연하다
+dass~		 dass man viel raucht.					흡연하는 것 / 주어 필수, 동사 맨 뒤
+zu + Inf	viel zu rauchen								흡연하는 것 / 주어 없음
+
+a. dass 부문장 주어 - man
+b. dass 부문장 주어와 주문장 주어 일치
+c. dass 부문장 주어와 주문장 3,4격 보충어 일치
+
+- zu 부정법이 불가능한 동사 : '언급, 인지, 앎'을 나타내는 동사
+												(fragen, wissen, ... )
+
+```
+
+```
+- zu 부정법 활용 (주어)
+
+커피를 많이 마시는 건 건강에 해롭다.
+건강에 해롭다.
+ : Es ist der Gesundheit schädlich.
+커피를 많이 마신다.
+ : dass man viel Kaffee trinkt.
+-> Es ist der Gesundheit schädlich, viel Kaffee zu trinken.
+-> Viel Kaffee zu trinken ist der Gesundheit schädlich.
+
+독일어 배우는 것은 그리 어렵지 않다.
+그리 어렵지 않다.
+ : Es ist nicht so schwer.
+독일어를 배우다.
+ : dass man Deutsch lernt.
+-> Es ist nicht so schwer, Deutsch zu lernen.
+-> Deutsch zu lernen ist nicht so schwer.
+
+여기서 그릴하는 것은 금지다.
+이것은 금지다.
+ : Es ist verboten.
+여기서 그릴하다.
+ : dass man hier grillt.
+-> Es ist , hier zu grillen.
+-> Hier zu grillen ist verboten.
+
+```
+
+```
+- zu 부정법 활용 (4격 보충어)
+
+나는 독일어 배우는 걸 시작했다.
+나는 시작했다.
+ : Ich habe angefangen.
+독일어 배우는 것을.
+ : dass ich Deutsch lerne.
+-> Ich habe angefangen, Deutsch zu lernen.
+-> Deutsch zu lernen habe ich angefangen.
+
+나는 담배를 끊었습니다.
+나는 끊었습니다.
+ : Ich habe aufgehört.
+ : Ich habe mit dem Rauchen aufgehört.
+흡연하는 것을.
+ : dass ich rauche.
+-> Ich habe (es) aufgehört, zu rauchen.
+
+그녀는 내일 나를 방문하기를 희망한다.
+그녀는 희망한다.
+ : Sie hofft (darauf),
+내일 나를 방문하는 것을.
+ : dass sie mich morgen besucht.
+-> Sie will, mich morgen zu besuchen.
+
+그는 그녀에게 좋은 가방 사줄 것을 약속한다.
+그는 약속한다.
+ : Er verspricht ihr,
+그녀에게 좋은 가방 사줄 것을.
+ : dass er ihr eine gute Tasche kauft.
+-> Er verspricht ihr, eine gute Tasche zu kaufen.
+
+나는 네가 내일 영화관 가는 걸 허락한다.
+나는 허락한다.
+ : Ich erlaube (es) dir,
+네가 내일 영화관 가는 걸.
+ : dass du morgen ins Kino gehst.
+-> Ich erlaube (es) dir, morgen ins Kino zu gehen.
+
+그가 내게 파티에 올 것을 부탁했다.
+그가 부탁했다.
+ : Er hat mich (darum) gebeten,
+내게 파티에 올 것을.
+ : dass ich zur Party komme.
+-> Er hat mich (darum) gebeten, zur Party zu kommen.
+
+```
+
+```
+- zu 부정법 활용 (전치사격 보충어)
+
+그는 그녀가 오늘 오기를 학수고대한다.
+그는 학수고대한다.
+ : Er freut sich darauf,
+그녀가 오늘 오기를.
+ : dass sie heute kommt.
+-> Er freut sich darauf, dass sie heute kommt
+
+그는 자신이 곧 그녀를 만나길 학수고대한다.
+그는 학수고대한다.
+ : Er freut sich darauf,
+자신이 곧 그녀를 만나길.
+ : dass er sie bald trifft.
+-> Er freut sich dafrauf, sie bald zu treffen.
+
+그는 장학금을 받을 거라 확신했다.
+그는 확신했다.
+ : Er ist davon überzeugt,
+장학음을 받을 것을.
+ : dass er ein Stipendium bekommt.
+-> Er ist davon überzeugt, ein Stipendium zu bekommen.
+
+```
+
+```
+- zu 부정법 활용 (수식어)
+
+그녀는 우리를 만날 시간이 없다.
+그녀는 시간이 없다.
+ : Sie hat keine Zeit,
+우리를 만날.
+ : dass sie uns trifft.
+-> Sie hat keine Zeit, uns zu treffen.
+
+나는 독일에서 공부할 기회가 생겼다.
+나는 기회가 생겼다.
+ : Ich habe eine Chance,
+독일에서 공부할.
+ : dass ich in Deutschland studiere.
+-> Ich habe eine Chance, in Deutschland zu studieren.
+
+```
+
+```
+- zu 부정법 활용 (임시어)
+
+(an)statt ~ zu Inf. : ~ 하는 것 대신에
+Er ist nach Deutschland geflogen,
+anstatt dass er in Korea arbeitet.
+-> anstatt in Korea zu arbeiten.
+
+ohne ~ zu Inf. : ~ 하지 않은 채로
+Er ist nach Deutschland geflogen,
+ohne dass er sich mit seinen Eltern unterhält.
+-> ohne sich mit seinen Eltern zu unterhalten.
+
+um ~ zu Inf. : ~ 하기 위해서
+Er ist nach Deutschland geflogen,
+damit er dort einen besseren Job findet.
+-> um dort einen besseren Job zu finden.
+
+Er geht in die Disko, < (an)statt > fleißig zu arbeiten.
+Ralf benutzt mein Taschentuch, < ohne > mich zu fragen.
+Er geht in die Stadtmitte, < um > seine Freunde zu treffen.
+
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+ a. Es ist schwer, eine Fremdsprache <  > lernen.
+ 	-> zu
+ b. Er empfiehlt dem Patienten, mehr Sport zu trei ben.
+ c. Er verschreibt mir ein Medikament, <um wieder gesund zu werden.>
+ 	-> damit ~ (not um ~ zu, 주어가 다르므로)
+ d. Hier zu parken < sind > verboten.
+ 	-> ist
+ e. Er hat den Wunsch, sein Deutsch < verzubessern >.
+ 	-> zu verbessern, 비분리동사
+ 	
+2. 옳게 쓰인 문장을 고른 것은?
+	a. Sie hat mir nicht erlaubt, ins Kino < > gehen.
+		-> zu
+	b. Anstatt zu schlafen < sie sieht > fern.
+		-> sieht sie fern.
+	c. Er hat es vergessen, < um > früh aufzustehen.
+		-> früh aufzustehen.
+	d. Ich habe heute keine Lust, ins Kino zu gehen.
+	
+3. 옳게 쓰인 문장을 고른 것은?
+	Dora lernt sehr fleißig Deutsch,
+	<		> später in Deutschland <		> studieren.
+	-> um, zu
+	
+4. 옳게 쓰인 문장은?
+	나는 그녀에게 (나를) 도와달라고 부탁했다.
+-> 나는 부탁했다 그녀에게.
+		: Ich habe sie gebeten,
+	 나를 도와달라고.
+		: dass sie mir hilft.
+	-> Ich habe sie gebeten, mir zu helfen.
+	-> Ich bat sie, mir zu helfen.
+	
+bitten - bat - gebeten
+bieten - bot - geboten
+beten - betete - gebetet
+
+5. 문장의 쓰임이 바른 것은?
+	a. Er fragt mich, <		> morgen zu arbeiten.
+		-> ob morgen arbeitet. ( fragen -> zu 부정사 못 씀.)
+	b. Ich weiß, morgen früh < aufzuwachen >.
+		-> Ich weiß, dass ich morgen früh aufwachen muss.
+			 (wissen -> zu 부정사 못 씀)
+	c. Mein Bruder hat heute vor, < Busan besucht zu haben >.
+		-> Busan zu besuchen.
+	d. Ich denke immer daran, die Prüfung erfolgreich zu bestehen.
+
+```
+
+------
+
+### Lektion 18. 종속접속사 1
+
+```
+1. 종속접속사의 정의와 특징
+2. 접속사의 종류와 용법
+3. 문장 만들기 !!!
+```
+
+```
+- 종속접속사의 정의와 특징
+
+a. 주문장(HS) - 부문장(NS) 연결
+b. 부문장의 동사는 맨 뒤
+c. 부문장 + 주문장 = 주문장은 도치
+주문장(Hauptsatz) / 부문장(Nebensatz)
+
+Ich bleibe im Bett. Ich bin krank.
+	-> Ich bleibe im Bett, weil ich krank bin.
+	-> Weil ich krank bin, bleibe ich im Bett.
+
+```
+
+```
+- 종속접속사의 종류와 용법
+
+a. 시간 - als, wenn, bevor, bis, während, nachdem, seitdem, sobald ...
+				als(일회성), wenn(반복), nachdem(시제 중요)
+b. 원인 - weil, da
+c. 양보 - obwohl, obgleich, obschon
+d. 조건 - wenn, falls
+e. 목적 - damit
+f. 결과 - so dass / 방법 - indem / 비례 - je ~ desto
+
+```
+
+```
+- wenn oder als?
+
+아버지가 항상 기뻐했다.(HS) 내가 그를 방문했다.(HS)
+-> Mein Vater hat sich immer gefreut. Ich habe ihn besucht.
+
+내가 아버지를 방문했을 때 그는 항상 기뻐했다.
+-> Wenn ich meinen Vater besuchte, freute er sich immer.
+-> Wenn ich meinen Vater besucht habe, hat er sich immer gefreut.
+-> Er freute sich immer, wenn ich meinen Vater besuchte.
+
+
+나는 숙제를 끝냈다.(HS) 나는 산책을 했다.(HS)
+-> Ich war fertig mit Hausaufgaben. Ich ging spazieren.
+
+내가 숙제를 끝냈을 때 나는 항상 산책을 했다.
+-> Wenn ich mit den Hausaufgaben fertig war, ging ich immer spazieren.
+-> Ich ging immer spazieren, wenn ich mit den Hausaufgaben fertig war.
+
+내가 숙제를 끝내면 나는 산책을 한다. (현재나 미래 조건)
+-> Wenn ich mit den Hausaufgaben fertig bin, (dann) gehe ich spazieren.
+-> Ich gehe spazieren, wenn ich mit den Hausaufgaben fertig bin.
+
+나는 시험에 합격하면 휴가를 갈 거다. 
+-> Ich mache eine Urlaub, wenn ich die Prüfung bestehe.
+-> Wenn ich die Prüfung bestehe, (dann) mache ich einen Urlaub.
+
+나는 내일 시간이 있으면 내 친구를 만날거다.
+-> Ich treffe meinen Freund, wenn ich morgen Zeit habe.
+-> Wenn ich morgen Zeit habe, (dann) treffe ich meinen Freund.
+-> Habe ich morgen Zeit, (dann) treffe ich meinen Freund.
+ : wenn이 조건절로 쓰일 때 생략가능(동사가 맨 앞으로)
+ 
+-> Wenn ich morgen Zeit hätte, würde ich meinen Freud treffen.
+ : 내일 시간이 있다면 친구를 만날 텐데.(시간이 없어서 친구를 못 만난다.)
+ 
+ 
+
+나는 베를린에 있었다.(HS) 날씨가 좋았다.(HS)
+-> Ich war in Berlin. Das Wetter was schön.
+
+내가 베를린에 있었을 때 날씨가 좋았다.
+-> Als ich in Berlin war, war das Wetter sehr schön.
+-> Das Wetter war sehr schön, als ich in Berlin war.
+
+내가 숙제를 마쳤을 때가 저녁 8시였다.
+-> Als ich mit den Hausaufgaben fertig war, war es 8 Uhr abends.
+-> Es war 8 Uhr abends, als ich mit den Hausaufgaben fertig war.
+
+내가 15살 이었을 때 매우 게을렀다.
+-> Als ich 15 war, war ich sehr faul.
+-> Ich war sehr faul, als ich 15 war.
+
+집에 되돌아 왔을 때 엄마는 혼자t tv를 보고 있었다.
+-> Als ich nach Hause zurückkom, sah meine Mutter allein fern.
+-> Meine Mutter sah allein fern, als ich nach Hause zurückkam.
+
+이 수업은 내가 생각했던 것 보다 훨씬 더 길게 걸린다.
+-> Als ich dachte, dauert der Unterricht viel länger.
+-> Der Unterricht dauert viel länger, als ich gedacht habe.
+(비교급 : ~보다 ~더한)
+
+그는 선생님으로서 일한다.
+-> Er arbeitet als Lehrer. (동급 : ~로써)
+
+```
+
+```
+- bevor : ~ 하기 전에
+
+잠자러 가기 전에 나는 치아를 닦는다.
+-> Bevor ich ins Bett gehe, putze ich mir die Zähne.
+-> Ich putze mir die Zähne, bevor ich ins Bett gehe.
+
+학교 가기전에 내 방을 정리해야 한다.
+-> Bevor ich zur Schule gehe, muss ich mein Zimmer aufräumen.
+-> Ich muss mein Zimmer aufräumen, bevor ich zur Schule gehe.
+
+```
+
+```
+- bis : ~ 할 때까지
+
+그녀가 되돌아 올 때까지 나는 그녀를 기다린다.
+-> Bis sie zurückkommt, warte ich noch auf sie.
+-> Ich warte noch auf sie, bis sie zurückkommt.
+
+(저) 버스가 출발할 때까지 아직 10분이 있다.
+-> Bis der Bus abfährt, sind es noch 10 Minuten.
+-> Es sind noch 10 Minuten, bis der Bus abfährt.
+
+```
+
+```
+- während : ~ 하는 동안
+
+그가 책을 읽는 동안 나는 편지 한 장을 쓴다.
+-> Während er ein Buch liest, schreibe ich einen Brief.
+-> Ich schreibe einen Brief, während er ein Buch liest.
+
+공부하는 동안 난 음악을 크게 듣는다.
+-> Während ich lerne, höre ich laut Musik.
+-> Während des Lernens höre ich laut Musik.
+
+복문 : 종속접속사 + 		주어 + 형용사/동사
+단문 : 전치사	  +		 명사
+
+```
+
+```
+- nachdem : ~ 한 이후에 ( 시제 중요 )
+
+Nebensatz (nachdem)							Hauptsatz
+	현재완료 / (과거)									현재, 미래
+	과거완료											과거 / (현재완료)
+	
+Nachdem ich gegessen habe, gehe ich jetzt spazieren.
+Nachdem ich gegessen hatte, ging ich spazieren.
+Nach dem Essen gehe ich spazieren.
+							 ging ich spazieren.
+								
+나는 축구를 한 다음에 그녀를 만난다.
+-> Nach dem Fußball treffe ich sie.
+-> Nachdem ich Fußball spiele, treffe ich sie.
+
+나는 축구를 한 다음에 그녀를 만났다.
+-> Nach dem Fußball traf ich sie.
+-> Nachdem ich Fußball gespielt habe, treffe ich sie.
+-> Nachdem ich Fußball gespielt hatte, traf ich sie.
+
+```
+
+```
+- seit(dem) : ~ 한 이래로 (지금까지)
+
+나는 시골에 살면서부터 나는 훨씬 더 건강하다고 느낀다.
+-> Seitdem ich auf dem Land wohne, fühle ich mich viel gesünder.
+-> Seit dem Landleben fühle ich mich viel gesünder.
+
+아이들이 있으면서부터...
+-> Seitdem ich Kinder habe, habe ich wenig Freizeit.
+														muss ich viel mehr arbeiten.
+														
+내가 담배를 끊은 이후부터...
+-> Seitdem ich mit dem Rauchen aufgehört habe, 
+																		fühle ich mich viel gesüner.
+																		habe ich 2 Kilo zugenommen.
+																		freut sich besonders meiner Frau.
+																		spare ich viel Geld.
+																		huste ich nicht mehr.
+
+```
+
+```
+- weil / da : ~ 때문에 (원인)
+
+나는 아프기 때문에 나는 병원으로 간다.
+-> Weil ich krank bin, gehe ich zum Arzt.
+-> Ich gehe zum Arzt, weil ich krank bin.
+
+나는 공부해야 하기 때문에 네 생일파티에 못 간다.
+-> Weil ich lernen muss, komme ich nicht zu deiner Geburtstagsparty.
+-> Ich komme nicht zu deiner Geburtstagsparty, weil ich lernen muss.
+
+나는 내일 일찍 일어나야 하기 때문에 지금 자러 간다.
+-> Weil(da) ich morgen früh aufstehen muss, gehe ich jetzt ins Bett.
+-> Ich gehe jetzt ins Bett, da ich morgen früh aufstehen muss.
+
+Ich muss morgen früh aufstehen, < 	> gehe ich jetzt ins Bett.
+-> deshalb, deswegen, daher, darum
+
+나는 피곤하기 때문에 집으로 가야한다.
+-> Weil ich müde bin, muss ich nach Hause gehen.
+-> Ich muss nach Hause, weil ich müde bin.
+-> Ich bin sehr müde, deswegen muss ich nach Hause.
+
+나는 어머니가 독일인이어서 독일어를 잘 한다.
+-> Weil meine Mutter Deutsche ist, spreche ich gut Deutsch.
+-> Ich spreche gut Deutsch, da meine Mutter Deutsche ist.
+-> Meine Mutter ist Deutsche, deshalb spreche ich gut Deutsch.
+
+```
+
+```
+- obwohl : ~ 임에도 불구하고 (양보)
+	weil <-> obwohl		/		wegen <-> trotz		/		deswegen <-> trotzdem
+
+나는 아픔에도 불구하고 학교로 간다.
+-> Obwohl ich krank bin, gehe ich zur Schule.
+-> Ich gehe zur Schule, obwohl ich krank bin.
+
+나는 공부해야 함에도 네 생일파티에 간다.
+-> Obwohl ich lernen muss, komme ich zu deiner Geburtstagsparty.
+-> Ich komme zu deiner Geburtstagsparty, obwohl ich lernen muss.
+-> Ich muss lernen, trotzdem komme ich zu deiner Geburtstagsparty.
+
+나는 내일 일찍 일어나야 하지만 지금 영화 보러 간다.
+-> Obwohl ich morgen früh aufstehen muss, gehe ich jetzt ins Kino.
+-> Ich gehe jetzt ins Kino, obwohl ich morgen früh aufstehen muss.
+-> Ich muss morgen früh aufstehen, trotzdem gehe ich jetzte ins Kino.
+																	 = dennoch
+																	 
+나는 피곤함에도 불구하고 축구를 한다.
+-> Obwohl ich müde bin, spiele ich Fußball.
+-> Ich spiele Fußball, obwohl ich müde bin.
+-> Ich bin müde, trotzdem spiele ich Fußball.
+
+나는 아빠가 독일임에도 독일어를 잘 못한다.
+-> Obwohl mein Vater Deutscher ist, spreche ich nicht so gut Deutsch.
+-> Ich spreche nicht so gut Deutsch, obwohl mein Vater Deutscher ist.
+-> Mein Vater ist Deutscher, troztdem spreche ich nicht so gut Deutsch.
+
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+1) Er wäscht sich die Hände, bevor dem Essen.
+		-> Er wäscht sich die Hände, bevor er isst.
+2) Sie geht spazieren, nach dem sie etwas gegessen hat.
+		-> Sie geht spazieren, nachdem sie etwas gegessen hat.
+3) Seitdem ich Fahrrad fahre, fühle ich mich gesünder.
+4) Er bleibt im Bett, weil ist er erkältet.
+		-> Er bleibt im Bett, weil er erkältet ist.
+		
+2. 옳게 쓰인 답만을 고른 것은?
+	A : Warum kannst du nicht zur Party kommen?
+	B : <		> ich morgen eine wichtige Prüfung <		>.
+-> Weil, habe
+
+3. 밑줄 친 부분을 옳게 바꾸어 쓴 문장은?
+	< Nach der Abfahrt des Zuges > fängt er an, zu weinen.
+-> Nachdem der Zug anfahren ist,
+
+4. 옳게 쓰인 문장은?
+	독일 여행전에 나는 할머니를 방문한다.
+-> Bevor ich nach Deutschland reise, besuche ich meine Großmutter.
+-> Ich besuche meine Oma, bevor ich nach Deutschland reise.
+-> Vor der Reise nach Deutschland besuche ich meine Oma.
+
+5. 다음 문장을 종속 접속사로 잘 연결한 것은?
+	Der Film ist interessant, deshalb gehe ich morgen ins Kino.
+-> Weil der Film interessant ist, gehe ich morgen ist Kino.
+-> Ich gehe morgen ins Kino, weil der Film interessant ist.
+
+```
+
+------
+
+### Lektion 19. 종속접속사 2
+
+```
+1. 접속사의 종류와 용법
+2. 문장 만들기 !!!
+```
+
+```
+- 종속 접속사의 종류와 용법
+
+a. 조건 - wenn, falls, sofern
+b. 목적 - damit
+c. 결과 - so dass / 방법 - indem / 비례 - je ~ desto / 비교 - wie, als
+d. 간접 의문문 - ~인지 / ob - ~인지 아닌지
+e. 비현실적 표현 - als ob
+
+```
+
+```
+a. 조건 - wenn, falls, sofern
+
+falls : ~ 할 경우에 (wenn과 유사)
+sofern : ~ 하는 한, ~할 경우 (조건 충족 확률 낮음, 주로 부정문에서 사용)
+wenn : ~ 하다면 (중립)
+
+나는 시간이 있으면 나는 너를 방문한다.
+-> Wenn ich Zeit habe, besuche ich dich.
+-> Habe ich Zeit, besuche ich dich.
+-> Ich besuche dich, wenn ich Zeit habe.
+-> Falls ich Zeit habe, besuche ich dich.
+-> Ich besuche dich, falls ich Zeit habe.
+
+나는 숙제를 끝내면 나는 집으로 간다.
+-> Wenn ich mit den Hausaufgaben fertig bin, gehe ich nach Hause.
+-> Ich gehe nach Hause, wenn ich mit den Hausaufgaben fertig bin.
+-> Bin ich mit den Hausaufgaben fertig, gehe ich nach Hause.
+-> Ich gehe nach Hause, falls ich mit den Hausaufgaben fertig bin.
+
+내일 날씨가 좋으면 나는 내일 축구를 한다.
+-> Wenn das Wetter (morgen) gut ist, spiele ich morgen Fußball.
+-> Ist das Wetter (morgen) gut, spiele ich morgen Fußball.
+-> Ich spiele morgen Fußball, wenn(falls) das Wetter (morgen) gut ist.
+-> Das Fußballspiel morgen ist vom Wetter abhängig.
+
+날씨가 좋으면 우리는 산책을 하러 간다.
+-> Falls das Wetter gut ist, machen wir einen Spaziergang.
+-> Wir machen einen Spaziergang, falls das Wetter gut ist.
+
+내가 시간이 없으면 당신에게 즉시 답변 할게요.
+-> Sofern ich keine Zeit habe, gebe ich Ihnen sofort Bescheid.
+-> Ich gebe Ihnen sofort Bescheid, sofern ich keine Zeit habe.
+
+네가 만나러 오지 못하면 미리 전화줘.
+-> Ruf mich bitte voher an, sofern du nicht zum Treffen kommen kannst.
+
+```
+
+```
+- 목적 damit : ~ 하기 위해
+
+그는 언어지식의 향상을 위해 독일로 간다.
+-> Er fliegt nach Deutschland, damit er seine Deutschkenntnisse verbessert.
+-> Er fliegt nach Deutschland, um seine Deutschkenntnisse zu verbessern.
+(주문장 주어와 부문장 주어가 같을 때 um ~ zu 구문 가능)
+-> Zur Verbesserung der Deutschkenntnisse fliegt er nach Deutschland.
+
+내 남동생이 운동화를 사기 위해 나는 그에게 돈을 준다.
+-> Ich gebe meinem jüngeren Bruder Geld, damit er sich Schuhe kauft.
+(주문장과 부문장 주어가 달라서 um ~ zu 구문 사용 불가)
+
+```
+
+```
+- 결과 ( so dass(sodass) / so + 형용사, dass ~ )
+			 결과 강조  / 형용사 강조
+			 
+그 독일여인은 정말 말이 빨라서 그녀를 이해할 수 없다.
+-> Die Deutsche spricht so schnell, dass man sie nicht verstehen kann.
+-> Die Deutsche spricht schnell, so dass man sie nicht verstehen kann.
+
+그 영화는 너무 지루해서 그녀는 금방 졸았다.
+-> Der Film war so langweilig, dass sie gleich eingeschlafen ist.
+-> Der Flim war langweilig, so dass sie gleich eingeschlafen ist.
+
+그 시험은 너무 어려워서 그는 시험에 떨어졌다.
+-> Die Prüfung war so schwierig, dass er sie nicht schaffen konnte.
+-> Die Prüfung war zu schwierig, als dass er sie hätte schaffen können.
+
+```
+
+```
+- 방법 indem : ~ 을 통해서, 함으로써
+
+그녀는 모든 방법(금전적 수단)을 동원해서 목표를 달성한다.
+-> Sie erreicht das Ziel, indem sie all ihre finanziellen Mittel einsetzt.
+-> Sie erreicht das Ziel (dadurch), dass sie all ihre finanziellen Mittel einsetzt.
+
+그녀는 아기에게 동화를 읽어줌으로써 아기를 진정시킨다.
+-> Sie beruhigt ihr Baby, indem sie ihm ein Märchen vorliest.
+-> Sie beruhigt das Baby (dadurch), dass sie ihm ein Märchen vorliest.
+
+```
+
+```
+- 비례 ( je + 비교급, ~ desto + 비교급 )
+	je + 비 + 주 + 동, desto(umso) + 비 + 동 + 주
+
+사람들은 먹으면 먹을 수록 뚱뚱해 진다.
+-> Je mehr man isst, desto dicker wird man.
+
+높은 곳으로 더 올라 갈수록 더 추워진다.
+-> Je höher man steigt, desto(umso) kälter wird es.
+
+돈을 많이 벌수록 불행해집니다.
+-> Je mehr Geld man verdient, desto unglücklicher wird man.
+
+```
+
+```
+- 비교 ( 원급 + wie / 비교급 + als )
+
+난 엄마만큼 요리를 잘 한다.
+-> Ich koche gut wie meine Mutter (gut kocht).
+
+엄마가 나 보다 요리를 훨씬 더 잘한다.
+-> Meine Mutter kocht viel besser, als ich gut koche.
+-> Meine Mutter kocht viel besser als ich.
+
+```
+
+```
+- 간접의문문 : ~ 지를
+
+나는 그녀가 어디서 왔는지 전혀 모른다.
+-> Ich weiß es gar nicht, woher sie kommt.
+
+당신은 혹시 그녀가 몇 살인지 아세요?
+-> Wissen Sie's vielleicht, wie alt sie ist?
+
+너는 내게 그가 언제 도착하는지 말해 줄 수 있니?
+-> Kannst du mir bitte sagen, wann er ankommt?
+-> Kannst du mir bitte sagen, wann er angekommen ist? (현재완료)
+
+당신은 주말해 뭐 하셨는지 여쭤봐도 될까요?
+-> Darf ich Sie fragen, was Sie am Wochenende gemacht haben?
+
+```
+
+```
+- 간접의문문 : ~ 인지 아닌지
+
+너는 내게 그가 오늘 오는지 말해 줄 수 있니?
+-> Kannst du mir bitte sagen, ob er heute kommt?
+-> Kansst du mir bitte sagen, ob er heute gekommen ist?
+
+넌 주말에 잠만 잤는지 물어봐도 될까?
+-> Darf ich dich fragen, ob du am Wochenende nur geschlafen hast?
+
+```
+
+```
+- 비현실적 화법 : 마치 ~인 것처럼
+
+그는 독일인 같이 독일어를 완벽히 말한다.
+-> Er spricht perfekt Deutsch, als ob er ein Deutscher wäre.
+															 als wäre er ein Deutscher.
+															 
+그녀는 가수 뺨 칠 정도로 노래한다.
+-> Sie singt sehr gut, als wäre sie eine Sängerin.
+
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+	1) Wenn du hast Zeit, du kannst mich besuchen.
+		-> Wenn du Zeit hast, kannst du mich besuchen.
+	2) Wenn du Zeit hast, kannst du mich besuchen.
+	3) Du kannst mich besuchen, wenn hast du Zeit.
+		-> Du kanns mich besuchen, wenn du Zeit hast.
+	4) Du kannst mich besuchen, wenn du hast Zeit.
+		-> Du kannst mich besuchen, wenn du Zeit hast.
+	
+2. 빈 칸에 들어갈 말을 잘 고르세요.
+	A : Wann hat sie Geburtstag?
+	B : Ich weiß nicht genau, <		>
+	-> wann sie Geburtstag hat.
+	
+3. 밑줄 친 부분을 옳게 바꾸어 쓴 문장은?
+	Ich lerne zurzeit sehr fleißig Deutsch,
+	< um später in Deutschland zu studieren. >
+	-> damit ich später in Deutschland studiere.
+	
+4. 옳게 쓰인 문장은?
+	나는 오늘 어머니의 생신인 줄 몰랐다.
+	-> Ich wusste nicht, ob heute meine Mutter Geburtstag hat.
+	-> Ich wusste nicht, dass meine Mutter heute Geburtstag hat.
+	
+5. 문장의 쓰임이 올바르지 않은 것은?
+	1) Er fragt mich, was ich heute vorhabe.
+	2) Je mehr man liest, desto kluger man wird.
+		-> Je mehr man liest, desto klüger wird man.
+	3) Er spielt sehr gut Tennis, als wäre ein Profispieler.
+	4) Ich möchte es wisse, ob sie heute einkauft.
+	5) Man wird immer gesünder, imdem man täglich trainiert.
+	
+```
+
+------
+
+### Lektion 20. 대명사 심화1 - 지시대명사
+
+```
+1. 대명사의 종류와 의미 및 특징
+2. 지시대명사와 관계대명사의 차이
+3. 대명사를 이용한 문장 만들기 !
+```
+
+```
+- 대명사
+
+1. 인칭대명사 - Personalpronomen
+2. 소유대명사 - Possessivpronomen
+3. 재귀대명사 - Reflexivpronomen
+4. 의문대명사 - Interrogativpronomen
+5. 부정대명사 - Indefinitpronomen
+6. 지시대명사 - Demonstrativpronomen
+7. 관계대명사 - Relativpronomen
+
+```
+
+```
+- 지시대명사의 형태
+
+1. 앞서 말한 사람, 사물 또는 사실을 좀 더 자세히 언급
+	( a. 명사 대신 사용 - 대명사 / b. 부가어적 - 관사 )
+	
+2. 지시적 기능 : 지시대명사 > 인칭대명사
+3. 관계대명사의 선행사로도 사용
+
+- 지시대명사의 종류와 의미
+der, die, das, die : 이, 그 (강조)
+dieser, diese, dieses, diese : 바로 이
+jener, jene, jenes, jene : 저(것, 사람)
+derselbe, dieselbe, dasselbe ... : 그와 똑같은
+solcher, solche, solches, solche : 그러 한(것, 사람)
+
+- 지시대명사 / 관사 der : 이(것, 사람)
+
+					남성					여성					중성						복수
+Nom.			der					 die					das						 die
+Gen.		dessen				deren				 dessen			deren / derer
+Dat.			dem					 der					dem						denen
+Akk.			den					 die					das						 die
+
+
+- dieser : (바로) 이, 그, 후자
+
+					남성					여성					중성						복수
+Nom.		dieser				diese				dieses					diese			
+Gen.		dieses				dieser			dieses					dieser
+Dat.		diesem				dieser			diesem					diesen
+Akk.		diesen				diese				dieses					diese
+
+
+- jener : ~ 저 (사람, 것), 전자
+
+					남성					여성					중성						복수
+Nom.		 jener				jene				 jenes					jene			
+Gen.		 jenes				jener				 jenes					jener
+Dat.		 jenem				jener				 jenem					jenen
+Akk.		 jenen				jene				 jenes					jene
+
+
+- derselbe : ~ 와 동일한
+
+					남성					여성					중성						복수
+Nom.		derselbe		 dieselbe			dasselbe			dieselben
+Gen.		desselben		 derselben		desselben			derselben
+Dat.		demselben		 derselben		demselben			denselben
+Akk.		denselben		 dieselbe			dasselbe			dieselben
+
+
+- solcher : 그러한 (것, 사람)
+
+					남성					여성					중성						복수
+Nom.		solcher			 solche				solches				 solche
+Gen.		solches			 solcher			solches				 solcher
+Dat.		solchem			 solcher			solchem				 solchen
+Akk.		solchen			 solche				solches				 solche
+
+
+- (정)관계대명사
+
+					남성					여성					중성						복수
+Nom.			der					 die					das						 die
+Gen.		 dessen				deren				 dessen					deren
+Dat.			dem					 der					dem						denen
+Akk.			den					 die					das						 die
+
+
+- der (명사 대신)
+	der					die						das						die
+
+Es war einmal ein König, < der > hatte vier Söhne.
+< Die > waren alle intelligent und freundlich.
+
+이 부인을 아세요? / 네, 그녀를 전 잘 알아요.
+Kennen Sie die Frau? / Ja, < die > kenne ich gut.
+
+Lernst du mit Paula? / Nein, mit < der > lerne ich nicht.
+
+Wie heißt das Kind? / < Das > heißt Patrick.
+
+Mögen Sie ihre Freunde? 
+/ Ja, < die > helfen mir immer und sind sehr nett.
+
+Er geht mit seiner Freundin und < deren > Schwestern ins Kino.
+Mit < denen > geht er sehr gut um.
+
+Meine Tante geht mit ihrer Freundin und < deren > Tochter ins Museum.
+
+Das Leben < derer >, die körperlich behindert sind,
+ist nicht leicht.
+
+
+
+- der (정관계대명사의 선행사)
+
+Gott hilft < denen >, die sich selbst helfen.
+ : 하느님은 스스로 돕는 자를 돕는다.
+ 
+Trauen Sie < denen > nicht, die faul sind.
+ : 게으린 자를 당신은 믿지 마세요.
+ 
+Die Frau denkt an < den >, < der > gerade vor ihr stand und lachte.
+ : 그 여자는 막 그녀 앞에 서서 웃었던 그를 생각합니다.
+ 
+ 
+ 
+- der (부정관계대명사의 후치사)
+	wer - der				was - das
+
+< Wer > rastet, < der > rostet
+ : 몸을 쓰지 않으면 녹이 슨다.
+ 
+Wem du hilfst, der hilft dir auch.
+ : 너가 돕는 자가 너에게 또한 도움을 준다.
+ 
+< Was > man verspricht, < (das) > muss man halten.
+ : 약속한 것을 사람들은 지켜야 한다.
+ 
+Was schön aussieht, (das) macht mir Freunde.
+ : 아름다워 보이는 것이 나를 기쁘게 한다.
+
+
+
+- das (총체적 das)
+소개 & 문장 전체
+
+Wer ist das?
+Das ist Frau Meyer.
+Wer sind die Leute?
+Das sind mein Onkel und dessen Sohn.
+Ist er intelligent? Das wusste ich nicht. / Das habe ich nicht gewusst.
+Hast du ihm geholfen? Das gefällt mir sehr.
+
+
+
+- da + 전치사 결합 (사물)
+	an das - daran / mit dem - damit
+	auf dem - darauf / nach dem - danach
+	
+Wartest du auf ein Taxi?
+Ja, ich warte darauf.
+Fährst du mit dem Fahrrad zur Arbeit?
+Ja, damit fahre ich zur Arbeit.
+Meine Arbeit ist ineressant.
+Damit bin ich sehr zufrieden.
+Er hat mir eine Tasche geschenkt.
+Darüber freue ich mich sehr.
+
+
+
+- dieser : 바로 이 / jener : 저
+	특징 : 정관사 변화, 관사와 대명사 형태
+	
+Wie alt ist dieses Mädchen?
+Dieses Auto fährt sehr schnell.
+Die Qualität dieses Rockes ist nicht gut.
+Mit dieser Frau habe ich mich unterhalten.
+Ich will mir dieses Auto kaufen.
+Kennen Sie diese Damen?
+Sie hat einen Bruder und eine Schwester.
+Diese ist intelligent und jener ist mutig.
+
+
+
+- derselbe : ~ 와 동일한, 똑같은
+
+Andreas는 어제와 똑같은 양복을 오늘도 입는다. 
+ : Heute zieht sich Andreas denselben Anzug wie gestern.
+이 둘은 똑같은 도시 출신이다.
+ : Die beiden kommen aus derselben Heimatstadt.
+우린 똑같은 의견이다.
+ : Wir sind derselben Meinung.
+
+
+- solch : ~ 그러한
+
+그러한 여자를 난 신뢰할 수 없다.
+ : Solcher Frau kann ich nicht vertrauen.
+ 	 Solch einer (Frau)
+
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+	1) Das ist meine Eltern.
+		-> Das sind meine Eltern.
+	2) Wir sind beiden dieselbe Meinung.
+		-> Wir sind beide derselben Meinung.
+	3) Man kann einen solchen Mann nicht trauen.
+		-> Man kann einen solchem Mann nicht trauen.
+		-> Man kann solch einem Mann nicht trauen.
+	4) Ich habe einen Bruder und eine Schwester.
+		 Dieser ist nett und jene ist hübsch.
+		 	-> Diese ist nett und jener ist hübsch.
+	5) Deine Frau geht mit ihrer Freundin und deren Sohn.
+	
+2. 빈 칸에 들어갈 말을 잘 고르세요.
+	A : Weißt du, dass er mich heute besucht?
+	B : Ach so, <		> freust du dich.
+-> darauf
+	
+3. 밑줄 친 부분에 들어갈 말은?
+	Mein Freund kauft seinen Eltern ein Auto.
+  <		> fahren <		> gern spazieren.
+ -> Die, damit
+ 
+4. 옳게 쓰인 질문의 답이 아닌 것은?
+	1) Welche Bluse gehört dir? - Die auf dem Bett.
+	2) Wen interessiert das Buch? - Das interessiert mir.
+		-> Das interessiert mich.
+	3) Kennst du Frau Kim? - Ja, natürlich. Ich kenne die schon lange.
+	4) Warum bist du so wütend?
+		 - Solch einen Film möchte ich mir nie wieder anschauen.
+	5) Mit wem hast du so lange gesprochen?
+		 - Ich sprach mit meiner Lehrerin und deren Tochter.
+		 
+5. 문장이 올바르게 쓰인 것은?
+	1) Diese Arbeit gefällt denen nicht, die faul ist.
+		-> Diese Arbeit gefällt denen nicht, die faul sind.
+	2) In dieser Haus wohne ich schon seit 6 Jahren.
+		-> In diesem Haus wohne ich schon seit 6 Jahren.
+	3) Dieser weiße Rock gefällt der arroganten Frau nicht.
+	4) Wir kommen beide aus derselbe Stadt.
+		-> Wir kommen beide aus derselben Stadt.
+	5) Wer raucht, dem gefährdet seine Gesundheit.
+		-> Wer raucht, der gefährdet seine Gesundheit.
+		
+```
+
+------
+
+### Lektion 21. 관계대명사 심화
+
+```
+1. 관계대명사의 의미 및 특징
+2. 관계대명사 문장 만들기
+```
+
+```
+- 관계대명사의 의미
+ : 명사 또는 대명사를 부가적으로 설명하는 문장
+ 
+
+- 관계대명사의 특징
+
+대명사 종류					정관계									부정관계
+-------------------------------------------------------
+	관계		    선행사(der,welcher)			후행사(wer,was)
+	대상			  	 사람 & 사물					wer 사람 / was 사물
+ 구별성					  성 & 수 (o)					   성 & 수 (x)
+ 동사위치							끝										 끝
+ 
+ 
+- (정)관계대명사 1격
+
+지시대명사 - 주문장
+관계대명사 - 부문장 (동사의 위치 : 맨 뒤)
+
+나는 영화 한 편을 본다.(HS) 그 영화는 흥미롭다.(HS)
+ : Ich sehe mir einen Film an. Der ist interessant.
+ -> Ich sehe mir einen Film an, der interessant ist.
+ -> Ich sehe mir einen interessant<en> Film an.
+ 
+그 여자는 친절하다. 그녀는 내게 커피를 제공한다.
+ : Die Frau ist nett. Die bietet mir Kaffee an.
+ -> Die Frau ist nett, die mir Kaffee anbietet.
+ -> Die Frau, die mir Kaffee anbietet, ist nett.
+ ㅋㅋㅋ용법 : 1.콤마 2.클라인 3.동사 끝에
+ 
+
+- (정)관계대명사 2격
+
+그 여자는 친절하다. 그녀의 딸이 지금 독일에 산다.
+ : Die Frau ist nett. Deren Tochter lebt jetzt in Deutschland.
+ -> Die Frau ist nett, deren Tochter jetzt in Deutschland lebt.
+ -> Die Frau, deren Tochter jetzt in Deutschland lebt, ist nett.
+ 
+ 
+- (정)관계대명사 3격
+
+그 남학생은 내 동생이다. 그에게 저 여인이 아이스크림을 사준다.
+ : Der Schüler ist mein jüngerer Bruder. Dem kauft die Frau ein Eis.
+ -> Der Schüler, dem die Frau ein Eis kauft, ist mein jüngerer Bruder.
+
+저 여인은 다시 건강하다. 그녀를 의사가 도왔다.
+ : Die Frau ist wieder gesund. Der hat der Arzt geholfen.
+ -> Die Frau, der der Arzt geholfen hat, ist wieder gesund.
+ -> Die Frau, welcher der Arzt geholfen hat, ist wieder gesund.
+ 
+ 
+- (정)관계대명사 4격
+
+그 남자가 내 형이다. 그를 너는 내일 만난다.
+ : Der Mann ist mein älterer Bruder. Den triffst du morgen.
+ -> Der Mann, den du morgen triffst, ist mein älterer Bruder.
+ 
+저 교회는 100년이 넘었다. 그 교회를 작년에 보수했다.
+ : Die Kirche ist über 100. Die hat man letztes Jahr renoviert.
+ -> Die Kirche, die man letztes Jahr renoviert hat, ist über 100.
+수동 -> Die Kirche, die letztes Jahr renoviert worden ist, ist über 100.
+
+
+- (정)관계대명사 + 전치사
+
+나는 그 여자를 안다. 당신은 그녀와 길거리에서 말했다.
+ : Ich kenne die Frau. Mit der sprachen Sie auf der Straße.
+ -> Ich kenne die Frau, mit der Sie auf der Straße sprachen.
+ -> Ich kenne die Frau, mit der Sie auf der Straße gesprochen haben.
+ 
+이들은 그녀의 자녀들이다. 그들을 그녀는 항상 돌봐야 한다.
+ : Sie sind ihre Kinder. Um die muss sie sich immer kümmern.
+ -> Sie sind ihre Kinder, um die sie sich immer kümmern muss.
+ 
+그는 내 교수다. 내 여자 친구가 어제 그를 오래 기다렸다.
+ : Er is mein Professor. Auf den hat gestern meine Freundin lange gewartet.
+ -> Das ist mein Professor, auf den meine Freudin gestern lange gewartet hat.
+ 
+ 
+- (정)관계대명사 + 전치사 = 부사
+
+베를린은 아름답다. 거기서 내가 태어났다.
+ : Berlin ist schön. Dort bin ich geboren.
+ -> Berlin ist schön, wo ich geboren bin.
+ -> Berlin, wo ich geboren bin, ist schön.
+ Die Stadt Berlin, wo ich geboren bin, ist schön.
+ 
+독일은 많은 좋은 자동차를 수출한다. 다니엘은 독일 출신이다.
+ : Deutschland, woher Daniel kommt, exportiert viele gute Autos.
+ 
+ 
+- 부정관계대명사 wer & was
+
+걱정 없는 자가 행복하게 산다.
+ : Wer sorglos ist, (der) lebt glücklich.
+ 
+열심히 일하는 자를 사람들이 기꺼이 돕는다.
+ : Wer fleißig arbeitet, dem hilft man gern.
+ -> Man hilft dem gern, der fleißig arbeitet.
+ 
+좋은 것이 항상 비싼 것은 아니다.
+ : Was gut ist, (das) ist nicht immer teuer.
+
+
+- 부정관계대명사
+
+was의 선행사
+부정대명사 : etwas, nichts, alles, viels, manches ...
+지시대명사 : das ...
+최상급 : das Beste, das Schönste ...
+
+그는 자신이 본 것만 믿는다.
+ : Er glaubt nur das, was er sieht.
+ 
+그는 내가 모르는 걸 많이 묻는다.
+ : Er fragt mich vieles, was ich nicht weiß.
+ 
+그는 내가 답할 수 없는 걸 많이 묻는다.
+ : Er fragt mich vieles, worauf ich nicht antworten kann.
+ 
+```
+
+```
+- 연습문제
+
+1. 빈 칸에 들어갈 단어는?
+	Ist das die Postkarte, <		> du lange gesucht hast?
+-> die / nach der
+
+2. 빈 칸에 들어갈 말로 알맞은 것은?
+	A : Wie heißt der Mann?
+	B : Meinst du den, <		> mich gerade gegrüßt hat?
+-> der
+
+3. 밑줄 친 부분이 바르게 쓰인 문장을 고르세요.
+	1) Alles, < das > sie mir erzält, ist nicht wahr.
+		-> was
+	2) Die Lehrerin, mit < dem > ich gern sprechen möchte, ist schon verheiratet.
+		-> der
+	3) Freiburg, < woher > mein Freund wohnt, ist eine Studentenstadt.
+		-> wo
+	4) Das ist die U-Bahn, mit < dem > wir fahren sollen.
+		-> der
+	5) Treffen wir uns mal dort, < wo > wir uns immer treffen.
+	
+4. 두 문장을 관계문으로 연결했을 때 들어갈 바른 말은?
+	Der Lehrer hat sich gefreut. Die Schüler haben ihm ein Buch geschenkt.
+-> Der Lehrer, <		> die Schüler ein Buch geschenkt <		>, hat sich gefreut.
+	-> dem, haben
+	
+5. 두 문장을 관계문으로 연결했을 때 들어갈 바른 말은?
+	Wie alt ist die Bundeskanzlerin?
+	Wir haben schon im Juli ihren Geburtstag gefeiert.
+-> Wie alt ist die Bundeskanzlerin,
+		<		> Geburtstag wir schon im Juli gefeiert <		>.
+	-> deren, haben
+	
+```
+
+------
+
+### Lektion 22.  대명사 심화3 ( 다른 대명사들의 활용 )
+
+```
+- 인칭대명사
+
+너 랩톱 하나 있어? - 응, 그건 꽤 낡았어.
+ : Hast du einen Laptop? - Ja, er ist aber ziemlich alt.
+ 
+너 누나 하나 있어? - 응, 근데 난 그녈 미워해.
+ : Hast du eine Schwester? - Ja, aber ich hasse sie.
+ 
+너 새 선반 샀니? - 응, 그건 정말 비싸.
+ : Hast du ein neues Regal? - Ja, aber es ist sehr teuer.
+ 
+너 그 신발 얼마야? - 159 Euro.
+ : Wie viel kosten die Schuhe? - Sie kosten Hundertneunundfünfzig Euro.
+ : Was kosten die Schuhe
+ 
+```
+
+```
+- 인칭대명사 + 전치사
+
+너 누굴 기다리니? - 난 그를 기다린다.
+ : Auf wen wartest du? - Ich warte auf ihn.
+
+내 아들은 고작 15 살이야. 난 그를 돌봐야 해.
+ : Mein Sohn ist erst 15 Jahre alt. Ich muss mich um ihn kümmern.
+ 
+너 Paula 아니? - 그럼, 난 그녀를 아직도 분명히 기억해.
+ : Kennst du Paula? - Natürlich, ich erinnere mich deutlich an sie.
+ 
+```
+
+```
+- 소유대명사 = 소유관사 + 정관사 어미변화
+
+내 차는 낡았어. 네 건 새 거지, 맞지?
+ : Mein Auto ist alt. Dein(e)s ist neu, oder?
+ 
+네 가방은 비싸 보이네. 내 거는 저렴해.
+ : Deine Tasche sieht teuer aus. Meine ist aber günstig.
+
+네 외투는 정말 두툼하네, 내 건 완전히 얇은데.
+ : Dein Mantel ist sehr dick, aber meiner ist ganz dünn.
+네 (외투)거를 내게 줄래?
+ : Kannst du mir deinen reichen?
+ : Kansst du mir deinen geben?
+ 
+네 아이들은 키가 크네. 우리 아이들은 다 작아. 정말 속상해.
+ : Deine Kinder sind groß. Unsere sind aber alle klein.
+ 	 Das gefällt mir gar nicht.
+
+이거 당신의 집들인가요? 네, 그건 제 겁니다.
+ : Sind das Ihre Häuser? Ja, Das sind meine.
+ 
+내게 너의 핸드폰을 빌려 줄 수 있니?
+ : Kannst du mir bitte dein Handy leihen? Klar, hier ist meins. 
+내 핸드폰을 네게 줄게. 내 거 사용해도 돼.
+ : Ich gebe dir meins. Du kannst meins benutzen.
+
+```
+
+```
+- 의문대명사 wer & was
+
+이것은 누구의 책이지?
+ : Wessen Buch ist das?
+그 건 내 부인 건데.
+ : Es gehört Meiner Frau.
+ : Das ist das Buch meiner Frau.
+ : Das ist das Buch von meiner Frau.
+ 
+Wer ist das? - Das ist peter.
+Wessen Rock ist das? - Das ist der Rock meiner Mutter.
+Wem hilfst du? - Ich helfe meinem Vater.
+Wen besuchst du morgen? - Meinen Onkel.
+
+Was sind Sie von Beruf? - Ich bin Lehrer.
+Was machen Sie morgen? - Ich arbeite morgen.
+ 
+```
+
+```
+- 의문대명사 + 전치사
+
+Mit wem gehen Sie gern ins Kion? - Mit meiner Schwester.
+Von wem haben Sie's gehört? - Von meiner Oma.
+Wofür lernst du? Für die Prüfung? - Ja, dafür lerne ich.
+Für wen arbeiten Sie so fleißig? - Für meine Familie.
+
+```
+
+| 사람 |         질문 : 전치사 + 의문대명사          | 답변 : 전치사 + 인칭대명사 |
+| :--: | :-----------------------------------------: | :------------------------: |
+|      | Auf wen wartest du?<br />Auf deinen Freund? |   Ja, ich warte auf ihn.   |
+| 사물 |            질문 : wo(r) + 전치사            |   답변 : da(r) + 전치사    |
+|      |    Worauf wartet sie?<br />Auf den Bus?     |   Ja, sie wartet darauf.   |
+
+```
+- welcher : ~(이것 중) 어느
+
+특징 : a. 미리 알려진 정보 - 선택
+			b. 정관사, 지시대명사로 대답
+
+A : Alle Blusen gefallen mir. Welche soll ich aber nehmen?
+B : Die braune (sollst du nehmen). Die steht dir am besten.
+
+A : Welches Fach magst du gern?
+B : Biologie und Englisch.
+A : Welches magst du nicht gern?
+B : Mathematik und Deutsch. Die mag ich nicht gern.
+
+```
+
+```
+- was für einer : 어떤
+
+특징 : a. 처음 언급된 사물, 사물의 특징 묘사
+			b. 단수 : 부정관사로 대답
+
+A : Was für eine Tasche brauchst du denn?
+	: Was brauchst du denn für eine Tasche?
+B : Ich brauche eine große schwarze Tasche.
+
+A : Was für Bücher liest du gern?
+B : Ich lese gern Romane.
+
+A : Gestern hat er sich eine Jacke gekauft.
+B : Was für eine denn?
+	: Was für eine Jacke hat er sich denn gekauft?
+	
+```
+
+```
+- 부정대명사 einer / keiner / welcher
+
+특징 : a. 부정관사와 복수 (무관사)
+			b. 단수의 물질명사 (무관사)
+			
+A : Hast du einen PC?
+B : Nein, ich habe keinen.
+A : Hast du keinen PC?
+B : Doch, ich habe einen.
+
+A : Brauchst du eine Pause?
+B : Nein, ich brauche keine.
+
+(관사 없을 땐 welche)
+A : Hat er Kinder?
+B : Nein, aber er möchte welche.
+A : Haben wir Milch?
+B : Ja, wir haben welche.
+A : Haben wir Kaffee?
+B : Nein, wir haben keinen.
+A : Haben wir Käse?
+B : Ja, wir haben welchen.
+A : Haben wir Obst?
+B : Ja, wir haben welches.
+
+```
+
+```
+- einer : ~ 중 하나
+
+내 여자친구는 학급에서 가장 예쁜 여학생들 중 하나다.
+ : Meine Freundin ist eine der hübschesten Schülerinnen in ihrer Schulklasse.
+ 
+이것은 틀림없이 독일의 가장 오래된 축제 중 하나이다.
+ : Das ist bestimmt eines der ältesten Feste Deutschlands.
+ 
+민선생은 한국의 가장 중요한 독일어 선생님 중 하나이다.
+ : Herr Min ist einer der wichtigsten Deutschlehrer in Korea.
+
+```
+
+```
+- 부정대명사 man
+
+Nom.	man
+Gen.	 -
+Dat.	einem
+Akku. einen
+
+In der Schweiz spricht man auch Deutsch.
+Man darf hier nicht parken.
+Das Angebot gefällt einem überhaupt nicht(=gar nicht).
+Der Lärm ärgert einen sehr.
+ 
+```
+
+```
+- jemand / niemand
+
+Nom. 		jemand					niemand
+Gen.		jemandes				niemandes
+Dat.		jemand(em)			niemand(em)
+Akk.		jemand(en)			niemand(en)
+
+A : Kennen Sie hier jemanden?
+B : Nein, Ich kenne niemanden.
+
+A : Hast du mit jemandem gesprochen?
+B : Nein, idch habe mit niemandem gesprochen.
+
+A : Hat jemand noch eine Frage?
+B : Niemand.
+
+```
+
+```
+- etwas / nichts
+
+Nom.		(et)was				nichts
+Gen.			 -						-
+Dat.			 -						-
+Akk.		(et)was				nichts
+
+A : Hast du (et)was gegessen?
+B : Ja, ich habe was gegessen.
+
+A : Hast du heute etwas vor?
+B : Nein, ich habe nichts vor.
+
+A : Gibt es etwas Neues?
+B : Nein, es gibt nichts Neues.
+
+- 명사, 형용사 비교급 앞 = ein bisschen
+Haben Sie etwas Geld?
+Können Sie bitte etwas langsamer sprechen?
+
+```
+
+```
+- jeder : 각자가 / aller : 모든 ~이
+```
+
+|      |               |     단수      |               | 복수(pl.) |
+| :--: | :-----------: | :-----------: | :-----------: | :-------: |
+|      |     남성      |     여성      |     중성      |           |
+| Nom. | jeder / aller |  jede / alle  | jedes / alles |  - alle   |
+| Gen. | jedes / alles | jeder / aller | jedes / alles |  - aller  |
+| Dat. | jedem / allem | jeder / aller | jedem / allem |  - allen  |
+| Akk. | jeden / allen |  jede / alle  | jedes / alles |  - alle   |
+
+```
+- jeder / aller
+
+Ich gebe jedem Kind ein Geschenk.
+ = Ich gebe allen Kindern ein Geschenk.
+ 
+Der Professor fragt jeden Studenten.
+ = Der Professor fragt alle Studenten.
+
+```
+
+```
+- viele, wenige, einige ...
+
+(독자적으로 쓰였을 때 = 사람을 지칭)
+Viele haben mich gestern besucht. 
+Nur wenige blieben bis spät in die Nacht.
+Einige kommen aus der Schweiz.
+
+Vor einigen Monaten habe ich sie getroffen.
+
+Hast du viele Bücher?
+Ja, sehr viele.
+Nein, nur wenige. (Bücher habe ich)
+
+```
+
+ ```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+	1) Hast du etwas gehört? - Nein, ich habe nicht gehört.
+		-> Nein, ich habe nichts gehört.
+	2) Ist jemand hier? - Nein, jeder ist nicht hier.
+		-> Nein, niemand ist hier.
+	3) Haben wir Gemüse? - Ja, wir haben noch welches.
+	4) Einstein war eines der wichtigsten Physiker der Welt.
+		-> Einstein war einer der wichtigsten Physiker der Welt.
+	5) Haben Sie einen Kuli? - Nein, ich habe keine.
+		-> Nein, ich habe keinen.
+		
+2. 빈 칸에 들어갈 부정대명사는?
+	A : Hier darf <			> eigentlich nicht rauchen.
+	B : Stimmt. So was stört <			> sehr.
+-> man, einen
+
+3. 밑줄 친 용법이 문법에 맞게 쓰인 문장은?
+	1) Haben Sie etwas Interessant gehört?
+		-> Haben Sie etwas Interessantes gehört?
+	2) Ich suche jetzt ein Hotel. Können Sie mir bitte einen empfehlen?
+		-> Können Sie mir bitte eines empfehlen?
+	3) Hast du keine Freundin? - Ja, ich habe keine.
+		-> Nein, ich habe keine.
+	4) Vor alles soll man gut Deutsch sprechen,
+		 wen man in Deutschland arbeiten möchte.
+			-> Vor allem soll man gut Deutsch sprechen,
+	5) Jedes zweite Jahr findet die Ausstellung statt.
+	
+4. 옳게 쓰인 질문의 답이 아닌 것은?
+	1) Jemand hat im Büro geraucht. - So etwas macht man nicht.
+	2) Hast du etwas verstanden? - Nein, ich habe nichts verstanden.
+	3) Wo sind die Leute? - Alle sind schon nach Hause gegangen.
+	4) Ist was paasiert? - Nein, keiner ist passiert.
+		-> Nein, nichts ist passiert.
+	5) Wohin seid ihr gegangen? - Wir sind alle ins Café gegangen.
+	
+5. 문장이 올바르게 쓰인 것은?
+	1) Er weiß alles.
+	2) Jeder Mittwoch spielen wir zusammen Fußball.
+		-> Jeden Mittwoch ...
+	3) Auf allen Fall fliege ich nach Deutschland.
+		-> Auf jedem Fall / Auf alle Fälle
+	4) Jedes Kind wird geholfen.
+		-> Jedem Kind ...
+			 Man hilft allen Kindern / jedem Kind.
+			 Es wird allen Kindern / jedem Kind geholfen.
+			 	= Allen Kindern / Jedem Kind wird geholfen.
+	5) Alle Mensch brauchen Liebe.
+		-> Alle Menschen / Jeder Mensch
+	
+ ```
+
+------
+
+### Lektion 23. das VS es
+
+```
+ 1. das의 기능과 특징 (문장비교)
+ 2. es의 기능과 특징 (문장비교)
+ 3. 문제 풀이
+```
+
+```
+- das의 기능 및 특징
+
+a. 정관사
+b. 관계대명사
+c. 사람 및 사물 소개
+d. 앞 문장 전체 : 개념 설명 (das 위치 : 거의 맨 앞)
+```
+
+| das의 기능 및 특징                                           |
+| ------------------------------------------------------------ |
+| 정관사                                                       |
+| Das Essen schmeckt sehr.                                     |
+| Das Handy ist altmodisch.                                    |
+| 관계대명사                                                   |
+| Das Essen, das gut schmeckt, ist meist teuer.                |
+| Das Handy, das ich gestern kaufen wollte, war schon weg.     |
+| 사람 및 사물                                                 |
+| Das ist mein Handy.                                          |
+| Das sind meine Eltern.                                       |
+| 앞 문장 전체                                                 |
+| Er ist gestern vom Fahrrad gestürzt und bleibt jetzt im Krankenhaus. |
+| Wirklich? Das wusste ich nicht.                              |
+
+```
+- es의 기능과 특징
+
+a. 인칭대명사 : 앞의 명사를 대신함.
+b. 술어 대신 : 명사, 대명사, 형용사 및 부사를 받음
+c. 앞 문장의 전체 또는 일부
+d. 문장 일부 강조
+e. 문법상의 주어 : 가주어
+f. zu + Inf. 문장 또는 dass~ 문장 : 가주어, 목적어
+g. 그 외 : 비인칭주어 / 숙어
+
+- a. 인칭대명사
+네 차 어디에 있니?
+ : wo steht dein Auto?
+차고에.
+ : (Es steht) in der Garage.
+어제 티셔츠 하나 샀어.
+ : Gestern habe ich ein T-Shirt gekauft.
+그걸 그녀에게 선물할거야.
+ : Ich will es ihr schenken.
+
+- b. 술어 대신 : 명사, 대명사, 형용사 및 부사
+그는 부자이지만 난 안 그래.
+ : Er ist reich, ich bin es nicht.
+그가 Walter 라고? 정말이네. 그가 맞네.
+ : Ist er Walter? Stimmt, er ist es.
+
+
+- c. 앞 문장 전체 또는 일부분
+그녀는 이혼했다.
+ : Sie ist geschieden.
+알고 있어.
+ : Ich weiß es. = Das weiß ich.
+네가 시험에 실패해서 아쉽다. 잊어라.
+ : Schade, dass du die Prüfung nicht geschafft hast.
+ 	 Vergiss es doch.
+집에서 피아노 치면 안 된다. 여기선 금지야.
+ : Ich darf zu Hause nicht Klavier spielen.
+	 Es ist hier verboten.
+
+
+- d. 문장 일부분 강조 : 문법상 주어
+내가 어제 산 건 볼펜 한 자루였다.
+ : Es war ein Kuli, den ich mir gestern kaufte. (볼펜 강조)
+내가 볼펜 하나 산 건 어제였다.
+ : Es war gestern, dass ich mir einen Kuli gekauft habe. (어제 강조)
+ 
+
+- e. 문법상 주어 : 정동사 논리상 주어에 일치, 첫 자리를 잃으면 생략 (소개 강조)
+옛날 옛적에 왕이 하나 있었다.
+ : Es war einmal ein König.
+커피숍에서 많은 사람들이 얘기를 나누고 있다.
+ : Im Café unterhalten sich viele Leute.
+ -> Es unterhalten sich im Café viele Leute.
+이미 손님들이 기다리고 있다.
+ : Die Gäste warten schon.
+ -> Es warten schon die Gäste.
+ 
+Es wird hier heute gefeiert.
+= Heute wird hier gefeiert.
+= Man feiert heute.
+
+Es werden in dieser Straße neue Häuser gebaut. (수동태)
+= In dieser Straße werden Neue Häuser gebaut.
+= Man baut in dieser Straße neue Häuser. (능동태)
+
+
+- f. zu+ Inf. 문장 / dass~ 문장 : 가주어, 목적어 도치되면 es 생략
+독일어를 완벽히 구사하는 것은 힘들다.
+ : Es ist schwer, Deutsch zu beherrschen.
+ = Deutsch zu beherrschen ist nicht leicht.
+ 
+그가 항상 많은 돈을 지출하는 것이 내 맘에 안 든다.
+ : Mir gefällt es nicht, wenn er immer viel Geld ausgibt.
+ = Dass er immer viel Geld ausgibt, gefällt mir nicht.
+ 
+담배 끊을 것을 약속할게.
+ : Ich verspreche es dir, dass ich nicht mehr rauche.
+ = Ich verspreche (es) dir, nicht mehr zu rauchen.
+
+부모님은 내가 독일에서 공부하는 걸 허락했다.
+ : Meine Eltern haben es mir erlaubt, dass ich in Deutschland studiere.
+= Sie haben (es) mir erlaubt, in Deutschland zu studieren.
+
+
+- g. 그 외 : 비인칭주어(자연,감정,상태 ...) - 생략 안 됨
+날씨 : Es regnet. / Es schneit. / Es donnert.
+			Es hat geregnet. / Es hat geschneit. / Es hat gedonnert.
+			Es ist mir kalt. / Es ist warm. (heiß, kühl)
+			
+시각 : Es ist spät. / Es ist noch 6.
+			Es wird Abend. / Es ist Frühling.
+			Es ist heute Freitag.
+			
+정해진 표현 3격 : Es geht mir gut.
+							 Es tut mir leid.
+							 Es schmeckt mir.
+							 Es tut weh.
+							 Wie gefällt es dir hier in Seoul?
+
+정해진 표현 4격 : Es freut mich.
+							 Freut mich, dass du kommst.
+							 Es friert mich. 
+							 
+숙어 : es gibt + 4격 : ~이 있다.
+			Gibt es hier eine Apotheke?
+			Ja, gegenüber der Post gibt es eine.
+			
+			es handelt sich um + 4 : ~과 관건이다.
+			= es geht um + 4
+			Es geht mir um Geld.
+			Es handelt sich um die Ehre.
+			
+			es kommt auf + 4 + an : ~에 달려있다.
+			Es kommt auf das Wetter an, ob wir morgen einen Ausflug machen.
+			
+			es kommt darauf an : 그때그때 다르다. 상황에 따라 다르다.
+			
+- 많이 쓰이는 구문  
+Ich habe es eilig : 바쁘다.
+Madch's gut : 안녕, 잘 가 (친할 때)
+es gut haben : 행복, 부유하다
+
+Ich habe es eilig, denn der Zug fährt gleich.
+Ich habe es gut. = Ich bin glücklich.
+
+- 수사 (정관사 약변화 어미)
+erst, dritt, siebt, acht 
+1~19 : -t / 20~ : -st
+
+In welchem Stock wohnst du? - Im dritten Stock.
+Der wieveilte ist heute? Heute ist der fünfundzwanzigste Zwölfte.
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+	1) Wie gefällt dir hier in Berlin?
+		-> Wie gefällt es dir hier in Berlin?
+	2) In der Stadtmitte es gibt einen Dom.
+		-> In der Stadtmitte gibt es einen Dom.
+	3) Im Winter schneit in Korea viel.
+		-> Im Winter schneit es in Korea viel.
+	4) Im Frühling wird es warm.
+	5) Wenn es regnet, ist dunkel.
+		-> Wenn es regnet, ist es dunkel.
+		
+2. 밑줄 친 부분이 가리키는 말은?
+	Er ist sehr gesund, aber sie ist < es > nicht.
+-> gesund
+
+3. 밑줄 친 용법이 문법에 맞게 쓰인 문장은?
+	1) Es fehlt mich an Geduld.
+		-> Es fehlt mir an Geduld.
+	2) Es liegt nicht an dir.
+	3) Es führt viele Wege nach Rom.
+		-> Es führen viele Wege nach Rom.
+	4) Es sind viele Bäume im dunklen Wald.
+	5) Es langweilt mich, auf dich zu warten.
+	
+4. 밑줄 친 단어가 옳게 쓰이지 않은 것은?
+	1) Wie geht es ihm denn? - Ihm geht es nicht so gut.
+	2) Weißt du, dass Frank schwer verletzt ist?
+		 - Echt? Dass habe ich nicht gewusst.
+	3) Wer ist das? - Das bin ich.
+	4) Es ist schwer, gut Deutsch zu sprechen.
+	5) Was ist denn hier los? - Hier wird es ein Haus gebaut.
+		-> Hier wird ein Haus gebaut.
+		
+5. 전체 문장이 올바르지 않은 것은?
+	1) Er fährt schnell. Ich kann es nicht.
+	2) Es warten viele Studenten auf der Straße.
+	3) Ist er verheiratet? Es habe ich nicht gewusst.
+		-> Das habe ich nicht gewusst.
+		-> Ich habe es nicht gewusst.
+	4) Es gibt viel zu tun.
+	5) Einmal war ein König.
+```
+
+------
+
+### Lektion 24. 접속법 1식
+
+```
+1. 접속법의 정의 및 특징
+2. 접속법 형태
+3. 접속법 1식 / 2식 비교
+4. 문장 만들기
+```
+
+```
+- 접속법이란?
+a. 화법 : 직설, 명령 및 접속법
+b. 화자의 말을 간접적으로 인용하거나, 가정, 원망, 요구 등
+	 불확실하거나 비현실적인 내용 전달 방식
+
+Wenn ich Geld habe, kaufe ich mir ein Haus.
+Wenn ich Geld hätte, würde ich mir ein Haus kaufen. (접속법 2식)
+
+```
+
+|      |                          접속법 1식                          |                          접속법 2식                          |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 동사 |                 직설법 동사 원형 어간 (현재)                 |                 직설법 동사 과거 어간 (과거)                 |
+| 특징 | a. 어간의 모음변화 없음<br />b. 인용, 전달 - 논문, 잡지, TV 아나운서<br />(간접화법) | a. 동사의 3요형 불규칙 - 변모음<br />b. 비현실 화법 - 가정과 바람 및 공손한 표현<br />(외교적 화법) |
+| 해석 |                         ~ 라고 한다                          |                      ~ 라면, ~ 할 텐데                       |
+| 시제 |                       현재, 과거, 미래                       |                       현재, 과거, 미래                       |
+
+
+
+####  - 동사의 어미변화표
+
+|           | 직설법 (현재) | 직설법 (과거) | 접속법 |
+| :-------: | :-----------: | :-----------: | :----: |
+|    ich    |      -e       |       -       |   -e   |
+|    du     |      -st      |      -st      |  -est  |
+| er,sie,es |      -t       |       -       |   -e   |
+|    wir    |      -en      |      -en      |  -en   |
+|    ihr    |      -t       |      -t       |  -et   |
+| sie / Sie |      -en      |      -en      |  -en   |
+
+
+
+#### - 접속법 1식 동사 gehen
+
+|           | 어간 | 접속법 어미 | 접속법 1식 |
+| :-------: | :--: | :---------: | :--------: |
+|    ich    | geh  |     -e      |    gehe    |
+|    du     | geh  |    -est     |   gehest   |
+| er,sie,es | geh  |     -e      |    gehe    |
+|    wir    | geh  |     -en     |   gehen    |
+|    ihr    | geh  |     -et     |   gehet    |
+| sie / Sie | geh  |     -en     |   gehen    |
+
+```
+sie/Sie - gehen : 형태가 똑같으므로 접속법 2식에서 빌려온다.
+```
+
+
+
+#### - 접속법 1식 기본동사 (1,3인칭 단수 : -e 없음)
+
+|           | sein  | sein      | haben | haben   | werden | werden  |
+| :-------: | ----- | --------- | ----- | ------- | ------ | ------- |
+|           | 직.현 | 접속법1   | 직.현 | 접속법1 | 직.현  | 접속법1 |
+|    ich    | bin   | ** sei ** | habe  | habe    | werde  | werde   |
+|    du     | bist  | seiest    | hast  | habest  | wirst  | werdest |
+| er,sie,es | ist   | ** sei ** | hat   | habe    | wird   | werde   |
+|    wir    | sind  | seien     | haben | haben   | werden | werden  |
+|    ihr    | seid  | seiet     | habt  | habet   | werdet | werdet  |
+| sie / Sie | sind  | seien     | haben | haben   | werden | werden  |
+
+```
+- 접속법 1식 ( 간접화법의 도입부 )
+
+그가 ~라고 말했다 : Er sagt(e), ...
+그가 ~라고 설명했다 : Er erzählt(e), ...
+그가 ~라고 물었다 : Er fragt(e), ...
+그가 ~라고 주장했다 : Er behauptet(e), ...
+그가 ~라고 답변했다 : Er antwortet(e), ...
+
+- 접속법 1식 ( 간접화법 )
+
+그녀는 내게 "나는 승용차가 있어" 라고 했다.
+ : Sie sagt mir: "Ich habe ein Auto"
+ -> Sie sagte mir, sie habe ein Auto.
+ -> Sie sagte mir, dass sie ein Auto habe.
+ 
+그녀는 내게 "나는 정말 아프다" 라고 말했다.
+ : Sie sagt zu mir: "Ich bin sehr krank."
+ -> Sie sagte zu mir, sie sei sehr krank.
+ -> Sie sagte zu mir, dass sie sehr krank sei.
+ 
+그녀는 내게 "나는 축구를 잘 해" 라고 했다.
+ : Sie sagt mir: "Ich kann gut Fußball spielen."
+ -> Sie sagte mir, sie könne gut Fußball spielen.
+ -> Sie sagte mir, dass sie gut Fußball spielen könne.
+ 
+그녀는 내게 "난 독일에서 공부할 거다" 라고 말했다.
+ : Sie sagt mir: "Ich werde in Deutschland studieren."
+ -> Sie sagte mir, sie werde in Deutschland studieren.
+ -> Sie sagte mir, dass sie in Deutschland studieren werde.
+ 
+내 친구는 내게 "내 이모가 나를 방문한다"고 썼다.
+ : Mein Freund schreibt mir: "Meine Tante besucht mich."
+ -> Meine Freund schrieb mir, seine Tante besuche ihn.
+ -> Meine Freund schrieb mir, dass ihn seine Tante besuche.
+
+내 친구는 "내 삼촌이 나를 초대한다" 고 말했다.
+ : Mein Freund sagt: "Mein Onkel lädt mich ein."
+ -> Mein Freund sagte, sein Onkel lade ihn ein.
+ -> Mein Freund sagte, dass ihn sein Onkel einlade.
+ 
+그는 내게 "Karl이 한국에 가 봤다"고 말했다.
+ : Er sagt mir: "Karl war schon mal in Korea."
+ -> Er sagte mir, Karl sei schon mal im korea gewesen.
+ -> Er sagte mir, dass Karl schon mal im Korea gewese sei.
+ 
+내 친구는 "내 삼촌이 나를 방문했다."고 썼다.
+ : Mein Freund schreibt mir: "Mein Onkel besuchte mich."
+ -> Mein Freund schriebt mir, sein Onkel habe ihn besucht.
+ -> Mein Freund schriebt mir, dass ihn sein Onkel besucht habe.
+ 
+```
+
+|      | 직설법                          | 접속법 1식                     |
+| :--: | ------------------------------- | ------------------------------ |
+| 현재 | Er kauft sich ein Auto.         | Er kaufe sich ein Auto.        |
+| 과거 | Er kaufte sich ein Auto.        | Er habe sich ein Auto gekauft. |
+| 현완 | Er hat sich ein Auto gekauft.   | Er habe sich ein Auto gekauft. |
+| 과완 | Er hatte sich ein Auto gekauft. | Er habe sich ein Auto gekauft. |
+| 미래 | Er wird sich ein Auto kaufen.   | Er werde sich ein Auto kaufen. |
+
+|      | 직설법                      | 접속법 1식                   |
+| :--: | --------------------------- | ---------------------------- |
+| 현재 | Er reist nach Europa.       | Er reise nach Europa.        |
+| 과거 | Er reiste nach Europa.      | Er sei nach Europa gereist.  |
+| 현완 | Er ist nach Europa gereist. | Er sei nach Europa gereist.  |
+| 과완 | Er war nach Europa gereist. | Er sei nach Europa gereist.  |
+| 미래 | Er wird nach Europa reisen. | Er werde nach Europa reisen. |
+
+```
+- 접속법 1식이 적설법과 같은 형태일 경우 -> 접속법 2식의 형태를 빌림
+
+a. würde ... Inf.
+b. 직설법 동사의 과거형 (불규칙 - 변모음)
+
+그 정치인들은 "우리는 자동차가 없다"고 주장했다.
+	: Die Politiker behaupten: "Wir haben kein Auto."
+	-> Die Politiker behaupteten, sie hätten kein Auto.
+	-> Die Politiker behaupteten, dass sie kein Auto hätten.
+	
+그 소녀들은 "우리는 아침에 산책한다"고 한다.
+ : Die Mädchen sagten: "Wir gehen am Morgen spazieren."
+ -> Die Mädchen sagten, sie gingen am Morgen spazieren.
+ -> Die Mädchen sagten, sie würden am Morgen spazieren gehen.
+ 
+아빠가 "(너희들) 어서 자라"고 우리에게 말씀 하셨다.
+ : Der Vater sagte uns: "Geht sofort ins Bett!"
+ -> Der Vater sagte uns, wir sollten sofort ins Bett gehen.
+ -> Der Vater sagte uns, dass wir sofort ins Bett gehen sollten.
+ 
+```
+
+```
+- 접속법 1식 '기원'
+
+왕이여, 장수 하소서 !
+ : Lange lebe dir König!
+ -> Ich wünsche, dass der König habe lebe.
+ 
+신의 가호가 있기를 !
+ : Gott segne dich !
+ -> Ich wünsche, dass Gott dich segne.
+ 
+```
+
+```
+- 연습문제
+
+1. 다음 문장을 간접화법으로 옳게 옮긴 것은?
+	Er sagte mir: "Ich bin mit den Hausaufgaben fertig."
+	Er sagte mir, <						>.
+ 	 -> er sei mit den Hausaufgaben fertig.
+ 	 -> dass er mit den Hausaufgaben fertig sei.
+ 
+2. 다음 문장을 간접화법으로 옳게 옮긴 것은?
+	Er schrieb mir: "Ich bin seit einer Woche hier."
+	Er schrieb mir, <						>.
+	 -> er sei seit einer Woche dort.
+	 -> dass er seit einer Woche dort sei.
+	 
+3. 빈 칸에 들어갈 동사의 형태는?
+	Mein Chef sagte, er <		> nicht kommen, weil er einen Besuch <		>.
+	 -> könne, habe
+
+4. 밑줄 친 간접화법 용법이 문법에 맞게 쓰인 문장은?
+	1) Er schrieb mir, dass er nach Japan fliegen < würde >.
+		-> werde
+	2) Miriam sagte, ihr Onkel < besuchte > sie.
+		-> habe sie besucht
+	3) Hans sagte, dass er krank < sei > gewesen.
+		-> gewesen sei
+	4) Mein Opa sagte zu mir, ich < solle > noch fleißiger sein.
+	5) Seine Frau sagte, dass sie < spielt > gut Klavier.
+		-> gut Klavier spiele.
+		
+5. 간접화법이 올바르게 쓰인 것은?
+	1) Er erzählte, dass seine Tochter viel lest.
+		-> viel lese.
+	2) Die Frau sagte, ich habe sich ein Handy gekauft.
+		-> sie habe sich
+	3) Mein Bruder sagte, er komme mit der U-Bahn.
+	4) Er sagte, er wäre krank.
+		-> er sei krank.
+	5) Die Politiker sagten, sie müssen die Steuer senken.
+		-> sie müssten
+
+```
+
+------
+
+### Lektion 25. 접속법 2식
+
+```
+1. 접속법 2식의 형태와 특징
+2. 문장 만들기 !
+```
+
+```
+- 접속법 2식이란?
+
+a. 화법 : 비현실적 및 공손한 표현
+b. 실생활 용법
+	1) 공손 표현 : "~해 주시겠어요?"
+	2) 비현실적 희망 : ~한(했)다면...좋(았)을 걸
+	3) 현재 및 과거 사실의 반대
+	4) 충고 및 조언
+	
+```
+
+|      |                          접속법 1식                          |                          접속법 2식                          |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 동사 |                 직설법 동사 원형 어간 (현재)                 |                 직설법 동사 과거 어간 (과거)                 |
+| 특징 | a. 어간의 모음변화 없음<br />b. 인용, 전달 - 논문, 잡지, TV 아나운서<br />(간접화법) | a. 동사의 3요형 불규칙 - 변모음<br />b. 비현실 화법 - 가정과 바람 및 공손한 표현<br />(외교적 화법) |
+| 해석 |                         ~ 라고 한다                          |                      ~ 라면, ~ 할 텐데                       |
+| 시제 |                       현재, 과거, 미래                       |                       현재, 과거, 미래                       |
+
+
+
+#### - 접속법 2식 동사 어미변화표
+
+|           | 직설법 (과거) | 접속법 |
+| :-------: | :-----------: | :----: |
+|    ich    |       -       |   -e   |
+|    du     |      -st      |  -est  |
+| er,sie,es |       -       |   -e   |
+|    wir    |      -en      |  -en   |
+|    ihr    |      -t       |  -etq  |
+| sie / Sie |      -en      |  -en   |
+
+
+
+#### - 접속법 2식 기본동사 (강변화 - 변모음)
+
+|           | sein  |  sein   |  haben  |  haben  | werden  | werden  |
+| :-------: | :---: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|           | 직.현 | 접속법1 |  직.현  | 접속법1 |  직.현  | 접속법1 |
+|    ich    |  war  |  wäre   |  hatte  |  hätte  |  wurde  |  würde  |
+|    du     | warst | wärest  | hattest | hättest | wurdest | würdest |
+| er,sie,es |  war  |  wäre   |  hatte  |  hätte  |  wurde  |  würde  |
+|    wir    | waren |  wären  | hatten  | hätten  | wurden  | würden  |
+|    ihr    | wart  |  wäret  | hattet  | hättet  | wurdet  | würdet  |
+| sie / Sie | waren |  wären  | hatten  | hätten  | wurden  | würden  |
+
+
+
+#### - können 접속법 2식
+
+|           |  어간  | 접속법 어미 | 접속법 2식 |
+| :-------: | :----: | :---------: | :--------: |
+|    ich    | konnte |     -e      |   könnte   |
+|    du     | konnte |    -est     |  könntest  |
+| er,sie,es | konnte |     -e      |   könnte   |
+|    wir    | konnte |     -en     |  könnten   |
+|    ihr    | konnte |     -et     |  könntet   |
+| sie / Sie | konnte |     -en     |  könnten   |
+
+
+
+#### - 화법조동사 접속법 2식 (강변화 - 변모음)
+
+|           |  müssen  |  müssen  |  dürfen  |  dürfen  |  mögen   |  mögen   |
+| :-------: | :------: | :------: | :------: | :------: | :------: | :------: |
+|           |  직.현   | 접속법2  |  직.현   | 접속법2  |  직.현   | 접속법2  |
+|    ich    |  musste  |  müsste  |  durfte  |  dürfte  |  mochte  |  möchte  |
+|    du     | musstest | müsstest | durftest | dürftest | mochtest | möchtest |
+| er,sie,es |  musste  |  müsste  |  durfte  |  dürfte  |  mochte  |  möchte  |
+|    wir    | mussten  | müssten  | durften  | dürften  | mochten  | möchten  |
+|    ihr    | musstet  | müsstet  | durftet  | dürftet  | mochtet  | möchtet  |
+| sie / Sie | mussten  | müssten  | durften  | dürften  | mochten  | möchten  |
+
+|           |  wollen  |  wollen  |  sollen  |  sollen  |  wissen  |  wissen  |
+| :-------: | :------: | :------: | :------: | :------: | :------: | :------: |
+|           |  직.현   | 접속법2  |  직.현   | 접속법2  |  직.현   | 접속법2  |
+|    ich    |  wollte  |  wollte  |  sollte  |  sollte  |  wusste  |  wüsste  |
+|    du     | wolltest | wolltest | solltest | solltest | wusstest | wüsstest |
+| er,sie,es |  wollte  |  wollte  |  sollte  |  sollte  |  wusste  |  wüsste  |
+|    wir    | wollten  | wollten  | sollten  | sollten  | wussten  | wüssten  |
+|    ihr    | wolltet  | wolltet  | solltet  | solltet  | wusstet  | wüsstet  |
+| sie / Sie | wollten  | wollten  | sollten  | sollten  | wussten  | wüssten  |
+
+
+
+#### - gehen 접속법 2식
+
+|           | 어간 | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :--: | :---------: | :-----------------: | :-----------------: |
+|    ich    | ging |     -e      |        ginge        |    würde - gehen    |
+|    du     | ging |    -est     |       gingest       |   würdest - gehen   |
+| er,sie,es | ging |     -e      |        ginge        |    würde - gehen    |
+|    wir    | ging |     -en     |       gingen        |   würden - gehen    |
+|    ihr    | ging |     -et     |       ginget        |   würdet - gehen    |
+| sie / Sie | ging |     -en     |       gingen        |   würden - gehen    |
+
+
+
+#### - kommen 접속법 2식
+
+|           | 어간 | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :--: | :---------: | :-----------------: | :-----------------: |
+|    ich    | kam  |     -e      |        käme         |   würde - kommen    |
+|    du     | kam  |    -est     |       kämest        |  würdest - kommen   |
+| er,sie,es | kam  |     -e      |        käme         |   würde - kommen    |
+|    wir    | kam  |     -en     |        kämen        |   würden - kommen   |
+|    ihr    | kam  |     -et     |        kämet        |   würdet - kommen   |
+| sie / Sie | kam  |     -en     |        kämen        |   würden - kommen   |
+
+
+
+#### - treffen 접속법 2식
+
+|           | 어간 | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :--: | :---------: | :-----------------: | :-----------------: |
+|    ich    | traf |     -e      |        träfe        |   würde - treffen   |
+|    du     | traf |    -est     |       träfest       | würdest - treffen]  |
+| er,sie,es | traf |     -e      |        träfe        |   würde - treffen   |
+|    wir    | traf |     -en     |       träfen        |  würden - treffen   |
+|    ihr    | traf |     -et     |       träfet        |  würdet - treffen   |
+| sie / Sie | traf |     -en     |       träfen        |  würden - treffen   |
+
+
+
+#### - fahren 접속법 2식
+
+|           | 어간 | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :--: | :---------: | :-----------------: | :-----------------: |
+|    ich    | fuhr |     -e      |        führe        |   würde - fahren    |
+|    du     | fuhr |    -est     |       führest       |  würdest - fahren   |
+| er,sie,es | fuhr |     -e      |        führe        |   würde - fahren    |
+|    wir    | fuhr |     -en     |       führen        |   würden - fahren   |
+|    ihr    | fuhr |     -et     |       führet        |   würdet - fahren   |
+| sie / Sie | fuhr |     -en     |       führen        |   würden - fahren   |
+
+
+
+#### - spielen 접속법 2식 (약변화)
+
+|           |   어간    | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :-------: | :---------: | :-----------------: | :-----------------: |
+|    ich    |  spielte  |     -e      |       spielte       |   würde - spielen   |
+|    du     | spieltest |    -est     |      spieltest      |  würdest - spielen  |
+| er,sie,es |  spielte  |     -e      |       spielte       |   würde - spielen   |
+|    wir    | spielten  |     -en     |      spielten       |  würden - spielen   |
+|    ihr    | spieltet  |     -et     |      spieltet       |  würdet - spielen   |
+| sie / Sie | spielten  |     -en     |      spielten       |  würden - spielen   |
+
+
+
+#### - machen 접속법 2식 (약변화)
+
+|           |  어간  | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :----: | :---------: | :-----------------: | :-----------------: |
+|    ich    | machte |     -e      |       machte        |   würde - machen    |
+|    du     | machte |    -est     |      machtest       |  würdest - machen   |
+| er,sie,es | machte |     -e      |       machte        |   würde - machen    |
+|    wir    | machte |     -en     |       machten       |   würden - machen   |
+|    ihr    | machte |     -et     |       machtet       |   würdet - machen   |
+| sie / Sie | machte |     -en     |       machten       |   würden - machen   |
+
+
+
+#### - 접속법 2식 형태 (단순형)
+
+| 동사원형 | 과거형 | 접속법 2식 |
+| :------: | :----: | :--------: |
+|   sein   |  war   |    wäre    |
+|  haben   | hatte  |   hätte    |
+|  werden  | wurde  |   würde    |
+|  können  | konnte |   könnte   |
+|  mögen   | mochte |   möchte   |
+|  geben   |  gab   |    gäbe    |
+|  kommen  |  kam   |    käme    |
+|  gehen   |  ging  |   ginge    |
+|  wissen  | wusste |   wüsste   |
+
+
+
+```
+- 비현실적 조건 문장 : ~ 라면, ~ 할 텐데 (현재)
+
+난 시간이 없다. 그녀에게 전화를 걸지 못한다.
+ : Ich habe keine Zeit. Ich kann sie nicht anrufen.
+ -> Wenn ich Zeit hätte, könnte ich sie anrufen.
+ 
+그는 돈이 없다. 그는 일을 많이 해야 한다.
+ : Er hat kein Geld. Er muss viel arbeiten.
+ -> Wenn er viel Geld hätte, müsste er nicht viel arbeiten.
+ -> Hätte er Geld, müsste er nicht viel arbeiten.
+ 
+난 독일어를 잘 못한다. 난 독일에서 공부하지 못한다.
+ : Ich spreche nicht gut Deutsch.
+ 	 Ich bekomme in Deutschland keinen Studienplatz.
+ -> Wenn ich gut Deutsch sprechen würde,
+ 		bekäme ich in Deutschland einen Studienplatz.
+ -> Würde ich gut Deutsch sprechen,
+ 		würde ich in Deutschland einen Studienplatz bekommen.
+ 		
+난 날개가 없다. 난 네게로 못 날아간다.
+ : Ich habe keine Flügel. Ich fliege nicht zu dir.
+ -> Wenn ich Flügel hätte, flöge ich zu dir.
+ -> Hätte ich Flügel, würde ich zu dir fliegen.
+ 
+```
+
+```
+- 비현실적 조건 문장 : ~ 라면, ~ 할 텐데 (과거) -> hätte + p.p. / wäre + p.p.
+
+엄마가 늦게 일어났다. 비행기를 놓쳤다.
+ : Meine Mutter hat verschlafen. Sie hat das Flugzeug verpasst.
+ -> Wenn sie nicht verschlafen hätte, hätte sie das FZ nicht verpasst.
+ -> Wäre sie früh aufgestanden, hätte sie das FZ nicht verpasst.
+ -> Wäre sie früh aufgestanden, hätte sie das FZ genommen.
+ 
+그 집은 비쌌다. 난 그 집을 살 수 없었다.
+ : Das Haus war teuer. Ich konnte es mir nicht kaufen.
+-> Wenn das Haus nicht teuer gewesen wäre, hätte ich es mir kaufen können.
+-> Wäre das Haus nicht teuer gewesen, hätte ich es mir kaufen können.
+
+어제 비가 오지 않았다. 우리는 산책을 갔다.
+ : Gestern hat es nicht geregnet. Wir sind spazieren gegangen.
+ -> Wenn es gestern geregnet hätte, wären wir nicht spazieren gegangen.
+ 
+```
+
+
+
+#### - 접속법 2식 시제
+
+|      | 직설법                          | 접속법 2식                      |
+| :--: | ------------------------------- | ------------------------------- |
+| 현재 | Er kauft sich ein Auto.         | X (과거형이랑 비슷해서 잘 안씀) |
+| 과거 | Er kaufte sich ein Auto.        | Er hätte sich ein Auto gekauft. |
+| 현완 | Er hat sich ein Auto gekauft.   | Er hätte sich ein Auto gekauft. |
+| 과완 | Er hatte sich ein Auto gekauft. | Er hätte sich ein Auto gekauft. |
+| 미래 | Er wird sich ein Auto kaufen.   | Er würde sich ein Auto kaufen.  |
+
+|      | 직설법                     | 접속법 2식                  |
+| :--: | -------------------------- | --------------------------- |
+| 현재 | Er bleibt zu Hause.        | X                           |
+| 과거 | Er bleibte zu Hause.       | Er wäre zu Hause geblieben. |
+| 현완 | Er ist zu Hause geblieben. | Er wäre zu Hause geblieben. |
+| 과완 | Er war zu Hause geblieben. | Er wäre zu Hause geblieben. |
+| 미래 | Er wird zu Hause bleiben.  | Er würde zu Hause bleiben.  |
+
+
+
+```
+- 접속법 2식 비현실적 화법
+
+접속법 2식이 직설법 과거와 같은 형태일 경우
+-> würde ... Inf.
+
+내가 돈이 더 있다면 저 집을 살 텐데.
+ : Wenn ich noch Geld hätte, kaufte ich das Haus.
+ -> Wenn ich noch Geld hätte, würde ich das Haus kaufen.
+ 
+내가 시간이 있으면 그를 기꺼이 방문할 텐데.
+ : Wenn ich Zeit hätte, besuchte ich ihn gern.
+ -> Hätte ich Zeit, würde ich ihn gern besuchen.
+ 
+오늘 쉰다면 소풍을 갈 텐데.
+ : Wenn ich heute frei hätte, machte ich einen Ausflug.
+ -> Hätte ich heute frei, würde ich einen Ausflug machen.
+ 
+```
+
+```
+- 접속법 2식 '소망문' (현재)
+
+결론부를 생략 - '전제부' 만으로 문장 성립 !
+
+내 여자친구가 아프다 ! - 그녀가 건강하면 좋으련만 !
+ : Wenn sie doch gesund wäre !
+ : Wäre sie doch gesund !
+ 
+우린 오늘 축구를 못한다. - 오늘 축구를 하면 좋으련만 !
+ : Wenn wir heute doch Fußball spielen würden !
+ : Würden wir heute doch Fußball spielen !
+ 
+ 
+- 접속법 2식 '소망문' (과거)
+
+영화가 지루했다. Der Film war langweilig.
+지루하지 않았더라면 (좋았을 텐데)!
+ : Wäre der Film doch nicht langweilig gewesen!
+ 
+ - 소망문 공식 -
+ Wenn + 주어 + doch (=nur) + 접속법 2식
+ = 접속법 2식 + 주어 + doch! (현재)
+ 
+ Wenn + 주어 + doch(=nur) + p.p. hätte(wäre) !
+ = Hätte(Wäre) + 주어 + doch + p.p.(과거)
+ 
+```
+
+```
+- 접속법 2식 ( 외교적 화법 )
+
+문 좀 열어주시겠어요?
+ : Könnten Sie bitte die Tür aufmachen?
+ 
+메뉴판을 좀 가져다 주실래요?
+ : Würden Sie mir bitte die Speisekarte bringen?
+ 
+질문을 해도 될까요?
+ : Dürfte ich Ihnen eine Frage stellen?
+
+나는 한 잔의 카페 라떼를 원해요.
+ : Ich möchte bitte eine Tasse Milchkaffee.
+ : Ich hätte gern eine Tasse Milchkaffee.
+ 
+- 충고, 조언 -
+
+내가 너라면 더 열심히 일할텐데 !
+ : An deiner Stelle würde ich noch fleißiger arbeiten.
+ 
+너는 즉시 쉬어야 해!
+ : Du solltest dich sofort ausruhen.
+ 
+```
+
+```
+- 접속법 2식 
+비교문 - als ob : 마치 ~ 인 것 처럼
+
+Herr Min은 독일어를 완벽히 한다. 마치 그가 독일인 것 처럼 말이다.
+ : Herr Min spricht perfekt Deutsch, als ob er ein Deutscher wäre.
+ : Herr Min spricht perfekt Deutsch, als wäre er ein Deutscher.
+ 
+그는 자신이 가수인 것처럼 노래를 잘 한다.
+ : Er singt gut, als wäre er ein Sänger.
+ 
+```
+
+```
+- 접속법 2식
+부사 : 하마터면 ~뻔 했다.(결론부)
+
+beinahe : 거의 (fast, um ein Haar)
+
+나는 하마터면 그 기찰을 놓칠 뻔 했다.
+ : Ich hätte den Zug beinahe verpasst. (fast, um ein Haar)
+ 
+그는 하마터면 익사할 뻔 했다.
+ : Er wäre beinahe ertrunken.
+ 
+```
+
+```
+- 접속법 2식
+부정화법 - zu ~, als dass (zu~, um~zu)
+
+그는 돈이 너무 적어서 새 자동차를 살 수 없다.
+ : Er hat zu wenig Geld, als dass er ein neues Auto kaufen könnte.
+ = Er hat so wenig Geld, dass er kein neues Auto kaufen kann.
+ = Er hat zu wenig Geld, um ein neues Auto zu kaufen.
+
+```
+
+```
+- 연습문제
+
+1. 다음 소망문장 가운데 밑줄 그은 부분이 옳게 쓰인 곳은?
+	Wenn die Prüfung nicht so schwer <		> wäre, hätten wir sie <			>.
+-> gewesen, bestanden
+
+2. 비현실화법으로 옳게 옮긴 것은?
+	Sie war sehr faul. Sie konnte die Prüfung nicht schaffen.
+-> Wenn sie fleißig gewesen wäre, hätte sie die Prüfung schaffen können.
+-> Wäre sie fleißig gewesen, hätte sie die Prüfung schaffen können.
+
+3. 빈 칸에 들어갈 동사의 형태는?
+	Ich bin nicht sehr reich. Ich kann mir keine Weltreise leisten.
+= Wenn ich reich <	>, <	> ich mir eine Weltreise <	>.
+-> wäre, könnte, leisten
+
+4. 빈 칸에 들어갈 비현실적 화법의 동사 형태는?
+	Heute schneit es stark. Sie bleibt zu Hause.
+	= Wenn es heute nicht schneien <	>, <	> sie nicht zu Hause.
+-> würde, bliebe
+
+5. 아래 문장을 소망문장으로 잘 만든 것은?
+	Meine Freundin ist heute zu meinem Geburtstag nicht gekommen.
+	(Es wäre bestimmt viel besser,) <														>
+-> Wenn sie doch gekommen wäre!
+
 ```
 

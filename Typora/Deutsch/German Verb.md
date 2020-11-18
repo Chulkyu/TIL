@@ -794,7 +794,7 @@ Gute Nacht!
 
 ------
 
-### Lektion 17. 자동사
+### Lektion 13. 자동사
 
 ```
 - 목적어가 없어도 되는 동사
@@ -863,7 +863,7 @@ Jutta	/	liegen / Bett
 
 ------
 
-### Lektion 18. 재귀동사
+### Lektion 14. 재귀동사
 
 ```
 - 재귀동사
@@ -939,5 +939,502 @@ Sara und Markus lieben sich (einander (서로)).
 
 ```
 
+------
 
+### Lektion 15. 재귀동사2
+
+```
+- 재귀동사로만 쓰이는 재귀동사 -> 진짜(참) 재귀동사
+
+- 주어와 재귀대명사가 가리키는 사람이 일치해야만 하는 동사
+- 주로 특정 전치사를 취함
+- (암기 필요)
+
+	대명사						재귀대명사
+------------------------------
+	ich						mir / mich
+	du						dir / dich
+er/sie/es					sich
+	wir							uns
+	ihr							euch
+sie/Sie						sich
+
+s.beeilen : 서두르다
+	: Ich beeile mich, um einen Platz zu bekommen.
+s.ausruhen : 쉬다
+	: Gute Besserung ! Ruhen Sie sich gut aus.
+	: Ich ruhe mich aus.
+s.bewerben um + 4격 : ~에 지원하다
+	: Er bewirbt sich um die Stelle von der Firma A.
+s.konzentrieren auf + 4격 : ~에 집중하다
+	: Er hat sich auf das Lernen konzentriert.
+s.erholen : 휴양하다
+	: Wir haben uns am Meer erholt.
+
+```
+
+```
+- 3격을 취하는 재귀동사
+
+s.Sorge machen : 걱정하다
+	: Meine Mutter macht sich immer Sorgen, wenn ich ausgehe.
+		Ich mache mir aber keine Sorge.
+s.überlegen : ~을 심사숙고하다
+	: Er hat mir einen Vorschlag gegeben.
+		Ich überlege es mir jetzt.
+s.vorstellen : 소개하다 / 상상하다
+	: Sie stellt sich die Situation vor.
+		Der Lehrer stellt uns die neue Lehrerin vor.
+s.ansehen : ~를 관람하다
+	: Wir haben uns die Stadt angesehen.
+		Ich habe mir die Stadt angesehen.
+		Ich sehe mir einen Film an.
+s.anschauen : 관람하다 
+
+```
+
+------
+
+### Lektion 16. 화법조동사1
+
+```
+- 화법조동사란?
+- 화법조동사 können / müssen
+
+- 영어의 '조동사'와 같은 개념
+- 동사 원형과 결합
+- 주동사 자리에 위치
+```
+
+```
+- 화법조동사의 특징
+
+- 주동사로서 쓸 수도 있다.
+- 1인칭단수 = 3인칭단수
+- 동사 원형 문장 마지막으로 후치
+```
+
+```
+können
+
+ich - kann
+du - kannst
+er - kann
+wir - können
+ihr - könnt
+Sie - können
+
+Ich kann Deutsch (sprechen). (주동사로서 쓰일 때)
+Du kannst Deutsch (sprechen).
+Er kann Deutsch (sprechen).
+
+- können 일반과거
+
+ich - konnte
+du - konntest
+er - konnte
+wir - konnten
+ihr - konntet
+Sie - konnten
+
+Ich konnte Deutsch sprechen.
+Du konntest Deutsch sprechen.
+Er konnte Deutsch sprechen.
+
+- können 과거분사
+
+ich - habe gekonnt
+du - hast gekonnt
+er - hat gekonnt
+wir - haben gekonnt
+ihr - habt gekonnt
+Sie - haben gekonnt
+
+Ich habe Deutsch gekonnt.
+Ich habe Deutsch sprechen können.
+(조동사 앞에 동사원형이 오면 조동사도 원형으로 쓴다.)
+
+```
+
+```
+müssen
+
+- 순수한 / 강력한 의무
+- 강한 추측
+
+ich - muss
+du - musst
+er - muss
+wir - müssen
+ihr - müsst
+Sie - müssen
+
+Ich muss nach Hause (gehen).
+Du musst nach Hause (gehen).
+Er muss nach Hause (gehen).
+
+- müssen 일반과거
+
+ich - musste
+du - musstest
+er - musste
+wir - mussten
+ihr - musstet
+Sie - mussten
+
+- müssen 과거분사
+
+ich - habe gemusst
+du - hast gemusst
+er - hat gemusst
+wir - haben gemusst
+ihr - habt gemusst
+Sie - haben gemusst
+
+Ich habe nach Hause gemusst.
+Ich habe nach Hause gehen müssen.
+
+```
+
+------
+
+### Lektion 17. 화법조동사2
+
+```
+- dürfen / soll(t)en / möchten / wollen 의 쓰임
+```
+
+```
+- dürfen
+
+- 허가
+- nicht / kein : 불허, 금지
+- müssen + nicht / kein : 의무 부정 ( ~할 필요 없다 )
+
+ich - darf - darfte - habe gedurft
+du - darfst - darftest - hast gedurft
+er - darf - durfte - hat gedurft
+wir - dürfen - durften - haben gedurft
+ihr - dürft - durftet - habt gedurft
+Sie - dürfen - durften - haben gedurft
+
+Darf ich vorbei(gehen)?
+Hier darf man nicht rauchen.
+Du darfst dich hier setzen.
+
+Dank dir durfte ich hier bleiben.
+Ich hatte die Note 1.
+Endlich durfte ich Computerspiele (spielen).
+
+```
+
+```
+- sollen / sollten
+
+- (타인의 의지가 개입된) 의므
+- 전언 ( Es soll regnet )
+- 충고 ( sollten )
+
+ich - soll - sollte 
+du - sollst - solltest 
+er - soll - sollte 
+wir - sollen - sollten 
+ihr - sollt - solltet 
+Sie - sollen - sollten 
+
+Du solltest deiner Mutter die Blumen schenken.
+Wir haben noch mehr lernen sollen.
+
+```
+
+```
+- möchten / wollen
+
+- 희망
+- 의지
+
+- möchten (현재형만 있다)
+	mögen : 좋아하다 / ~ 일 것이다.
+	mögen의 과거 : mochten
+	접속법 2식 : möchten
+
+ich - möchte - wollte
+du - möchtest - wolltest
+er - möchte - wollte
+wir - möchten - wollten
+ihr - möchtet - wolltet
+Sie - möchten - wollten
+
+- mögen
+ich - mag - -habe gemocht
+du - magst - - hast gemocht
+er - mag - - hat gemocht
+wir - mögen - - haben gemocht
+ihr - mögt - - habt gemocht
+Sie - mögen - - haben gemocht
+
+Ich mag Deutsch.
+-> Ich mochte Deutech.
+Ich möchte Deutschlehrer werden.
+-> Ich wollte Deutschlehrer werden.
+Vor langem habe ich das gewollt.
+-> Vor langem habe ich Deutschlehrer werden wollen.
+Vor langem : 오래전에
+
+- wollen
+ich - will - wollte - habe gewollt
+du - willst - wolltest - hast gewollt
+er - will - wollte - hat gewollt
+wir - wollen - wollten - haben gewollt
+ihr - wollt - wolltet - habt gewollt
+Sie - wollen - wollten - haben gewollt
+
+```
+
+------
+
+### Lektion 18. 수동태
+
+```
+- 수동태의 쓰임
+- 상태수동 / 진행수동
+```
+
+```
+- 수동태란?
+
+주어가 어떤 동작의 대상이 되어 그 작용을 받는 서술형식
+```
+
+```
+- 수동태를 쓰는 이유?
+
+a. 행위자가 분명하지 않을 때
+b. 행위자가 중요하지 않을 때
+c. 상황 서술이 더욱 우선일 때
+
+```
+
+```
+- 상태수동 ( Zustandspassiv ) 이란?
+
+sein 동사에 과거분사가 결합하여 어떠한 상항이 이루어져 있는 상태를 서술.
+( 현재완료로 쓸 수 없다. )
+
+z.B. Der Kuchen ist gebacken.
+		 Der Kuchen war gebacken.
+		 
+```
+
+```
+- 진행수동 ( Vorgangspassiv ) 이란?
+
+werden 동사에 과거분사가 결합하여 어떠한 상황이 이루어지는 수동적인 현상의 진행을 서술.
+( 현재완료형 가능. )
+
+z.B. Der Kuchen wird (von meiner Mutter) gebacken.
+		 Der Kuchen wurde (von meiner Mutter) gebacken.
+		 von + 3격= by (사람)
+		 durch + 4격 = by (장치)
+		 
+		 Der Kuchen ist (von meiner Mutter) gebacken worden.
+		 
+```
+
+```
+- 연습
+
+Ich öffne die Fenster.
+-> Die Fenster werden (von mir) geöffnet. (진행)
+-> Die Fenster sind (von mir) geôffnet. (상태)
+
+Du schriebst einen Brief.
+-> Ein Brief wurde (von dir) geschrieben. (진행)
+-> Ein Brief ist (von dir) geschrieben. (상태)
+
+Er hat eine Zeitung gelesen. (현재완료 -> 진행수동만 가능)
+-> Eine Zeitung ist von ihm gelesen worden. (진행)
+
+Ich muss dieses Dokument morgen abgeben.
+-> Dieses Dokument muss morgen abgegeben werden.(조동사 - 과거분사 - werden)
+
+Man muss zuerst dieses Programm installieren.
+-> Dieses Programm muss zuerst installiert werden.
+
+Er konnte Deutsch sprechen.
+-> Deutsch konnte von ihm gesprochen werden.
+
+Meine Mutter sagt, dass ich das Fenster zumachen sollte.
+-> Laut meiner Mutter sollte das Fenster von mir zugemacht werden.
+ laut + 2격 : ~에 의하면, ~에 따르면
+ 
+```
+
+------
+
+### Lektion 19. 미래시제
+
+```
+- 독일어의 미래시제 만드는 법
+- 미래 1, 미래 2 (Futur 1, 2)
+```
+
+```
+- 미래 1
+
+- werden + 동사원형(후치) : ~ 할 것이다.
+
+```
+
+```
+- 미래 2
+
+- werden + 완료형(p.p. + haben/sein) : ~가 완료된 상황이 될 것이다.
+
+```
+
+```
+Ich werde mit dir spazieren gehen.
+Wirst du mich heiraten?
+Werden sie wieder miteinander reden können?
+Wirst du dich dann auf das Lernen konzentrieren?
+Ich werde irgendwann mal ihn sehen sollen.
+Wird diese Aufgabe gemacht werden?
+Der Mann wird bald gestorben sein.
+Du wirst diesen Test bestanden haben.
+
+이번 여름에 너는 뭘 할 거니?
+ : Was wirst du diesen Sommer machen?
+나는 이번 여름에는 시간이 없을 거야.
+ : Ich werde diesen Sommer keine Zeit haben.
+가을에 여행을 갈 거야.
+ : Im Herbst werde ich eine Reise machen.
+그럼 겨울에 너는 돌아와 있겠지?
+ : Dann wirst du im Winter zurückgekommen sein?
+아니, 나는 겨울에는 학교를 좋업하고 유럽에 있을거야.
+ : Nein, im Winter werde ich die Schule abgeschlossen haben
+ 	 und in Europa sein.
+ 
+```
+
+------
+
+### Lektion 20. 접속법 ( Konjunktiv )
+
+```
+- 접속법이란 무엇인가
+- 접속법 1식, 2식
+```
+
+```
+- 접속법이란?
+
+a. 간접화법 (Indirekte Rede)
+b. ~라고 한다 (전언) - 접속법 1식
+c. ~일지도 모른다 (추측, 공손) - 접속법 2식
+
+```
+
+```
+- 접속법 1식
+
+a. 간접화법
+b. ~라고 한다 (전언)
+
+- 접속법 1식 만드는 방법
+ich	-	어간 + e
+du	- 어간 + est
+er	- 어간 + e < 3인칭이 중요 >
+wir - 어간 + en
+ihr - 어간 + et
+Sie - 어간 + en
+
+Er komme in 5 Minuten. : 그가 5분 후에 온다고 하더라.
+Der Kanzler habe es gesagt. : 그 총리가 그것을 말했다고 하더라.
+Paul hat gesagt, du kommest um halb eins.: Paul이 너가 12시 반에 온다고 하더라.
+
+- 직설법 현재와 같은 경우 (arbeitest = arbeitest)
+-> 접속법2식으로 대체
+
+- 접속법 1식 sein
+ich - sei
+du	- sei(e)st
+er	- sei
+wir - seien
+ihr - sei(e)t
+Sie - seien
+
+- 접속법 1식 haben
+ich - habe
+du	- habest
+er	- habe
+wir - haben
+ihr - habet
+Sie - haben
+
+- 접속법 1식 조동사류
+Er kann - Er könne
+Er muss - Er müsse
+Er will - Er wolle
+Er soll - Er solle
+Er darf - Er dürfe
+Er wird - Er werde
+
+Sie könne Klavier spielen. : 그녀는 피아노를 칠 수 있다고 하더라.
+Das Essen werde gekocht. : 그 음식이 요리되어진다고 합니다.
+Er habe es gemacht. : 그가 그것을 했다고 합니다.
+Das Auto sei kaputt gegangen. : 그 자동차가 고장이 났다고 합니다.
+
+```
+
+```
+- 접속법 2식
+
+a. 간접화법
+b. ~일 것이다 : 공손, 추측, 가정
+c. gern과 함께 : ~하고 싶다 (소망)
+
+
+- 접속법 2식 만드는 방법
+a. 일반 과거형에 Umlaut + 어미
+b. 1인칭 = 3인칭 단수
+
+- 접속법 2식 sein
+ich - wäre
+du	- wärst
+er	- wäre
+wir - wären
+ihr - wärt
+Sie - wären
+
+- 접속법 2식 haben
+ich - hätte
+du	- hättest
+er	- hätte
+wir - hätten
+ihr - hättet
+Sie - hätten
+
+- 접속법 2식 조동사류
+Er kann - Er könnte
+Er muss - Er müsste
+Er darf - Er dürfte
+Er wird - Er würde (gern) (희망)
+
+
+- 접속법 2식 essen
+ich - äße
+du	- äßt
+er	- äße
+wir - äßen
+ihr - äßt
+Sie - äßen
+ : a. 발음상으로 구분이 어려움
+ 	 b. haben, sein 을 뺀 나머지 대부분 동사는 würden에 원형 결합
+ 	 
+Würden sie wieder einander reden? : 그들은 서로 이야기를 하게 될 수 있을까?
+Ich könnte dir helfen. : 나는 너를 도와줄 수 있을지도 모르겠어.
+Könntest du mir helfen? : 혹시 나를 도와줄 수 있을까? (공손)
+
+```
 
