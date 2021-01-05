@@ -532,7 +532,405 @@ Ich vermisse dich -> Ich werde dich vermissen.
 
 ------
 
-### Lektiom 26.
+# Sprechen 2
+
+
+
+### Sprechen2  Lektion 1. Wie ist die Lage der Wohnung?
+
+```
+der Immobilienmakler : 부동산 중개인
+der Makler : 중개인
+lesen - las - gelesen
+lesen - liest - liest
+die Anzeige : 광고
+die Zeitung : 신문
+die Wohnung : 집 (연립주택)
+das Haus : 집 (단독)
+besichtigen : 구경하다
+ein paar + 복수명사 : 몇몇의
+die Frage : 질문
+die Lage : 위치
+die Bushaltestelle : 버스 정류장
+in der Nähe : 가까이에
+Es gibt + 4 : ~이 있다
+liegen : ~에 위치하다
+ruhig : 조용한
+etwa : 약, 대략
+nächst : 가장 가까운
+
+(Probieren)
+Hallo. Ich bin kyu. Ich sah eine Zeitungsannonce.
+Ist das Zimmer noch frei?
+Hallo. Ja, das Zimmer ist noch frei.
+Du kannst kommen, um das Zimmer zu sehen.
+
+Ich lese eine Anzeige in der Zeitung.
+Ich las eine Anzeige in der Zeitung.
+-> Ich habe eine Anzeige in der Zeitung gelesen.
+Die Wohnung ist noch frei.
+Ist die Wohnung noch frei?
+Ist das Haus noch frei?
+Sie können die Wohnung besichtigen.
+-> Sie können sie besichtigen.
+
+A : Hollo, ich heiße Kyu.
+		Ich habe die Anzeige in der Zeitung gelesen.
+		Ist die Wohnung noch frei?
+B : Guten Tag. Ja, sie ist noch frei.
+		Sie können sie besichtigen.
+A : Davor hätte ich ein paar Fragen.
+		Wie ist die Lage der Wohnung?
+		Gibt es eine Bushaltestelle in der Nähe?
+B : Die Wohnung liegt sehr ruhig.
+		Zur nächsten Bushaltestelle gehen Sie etwa 5 Minuten.
+		
+Davor habe ich ein paar Fragen.
+Wo ist die Wohnung?
+Ist sie nähe von einer Bushaltestelle?
+Die Wohnung steht sehr ruhe zu sein.
+Es dauert ca. 5 Minuten zur Bushaltestelle.
+
+Ich habe ein paar Fragen.
+Ich hätte ein paar Fragen.
+Davor hätte ich ein paar Fragen.
+Wie ist die Lage der Wohnung?
+Gibt es eine Bushaltestelle?
+Gibt es eine Bushaltestelle in der Nähe?
+Die Wohnung liegt sehr ruhig. : 그 집은 조용한 곳에 위치해 있다.
+Sie gehen etwas 5 Minuten.
+Zur nächsten Bushaltestelle gehen Sie etwa 5 Minuten.
+
+```
+
+------
+
+### Sprechen2 Lektion 2. Kommst du heute Abend zu mir?
+
+```
+zufällig : 우연히
+WG(Wohngemeinschaft) : 기숙사
+auf jeden Fall : 무조건, 어떠한 경우에도
+auf keinen Fall : 절대 ~하지 않는다.
+dabei sein : 곁에 있다.
+wen : 누구를
+zu Abend essen : 저녁을 먹다
+
+(Probieren)
+Carla, kommst du heute Abend bei mir?
+Lass uns zusammen zu Abend essen.
+Ich werde Spaghetti kochen.
+Ja, gern. Unbedingt komme ich.
+wen lädst du auch ein?
+
+Kommst du vorbei?
+Kommst du heute Abend?
+Kommst du heute Abend zu mir (rüber)?
+Essen wir zusammen zu Abend!
+Wollen wir zusammen zu Abend essen?
+Lass uns zusammen zu Abend essen.
+Ich koche Spaghetti.
+Ich koche Spaghetti für dich.
+Na klar! Warum nicht? Das hört sich gut an.
+Ich bin dabei. : 무조건 갈게
+Ich bin auf jeden Fall dabei.
+Ich komme vorbei.
+Ich komme sehr gerne vorbei.
+Wen lädst du noch ein?
+Wen hast du noch eingeladen?
+einladen - lud ein - eingeladen
+
+A : Carla! Kommst du heute Abend zu mir?
+		Essen wir zusammen zu Abend.
+		Ich koche Spaghetti für dich.
+B : Na klar! Ich bin auf jeden Fall dabei.
+		Wen hast du noch eingeladen?
+
+feiern : 파티 열다
+endlich : 드디어
+gegen : 약, ~시경
+mitbringen : 가지고 오다
+(pl)Getränke : 마실 것
+
+(Probieren)
+Max und Leonie auch kommen.
+
+Wo für gegen 8 Uhr?
+Gern! Ich bringe Getrinke mit.
+Bis dann!
+
+Wir müssen feiern.
+Es ist endlich Freitag!
+Wir müssen feiern, dass (es) endlich Freitag ist!
+Wie wäre es mit 8 Uhr?
+So gegen acht?
+Ungefähr acht?
+Alles klar! sehr gut! In Ordnung!
+Ich bringe Getränke mit.
+Bis dann! Bis gleich! Bis nachher! Bis später!
+
+A : Max und Leonie kommen auch.
+		Wir müssen feiern, dass endlich Freitag ist.
+		Wie wäre es mit 8 Uhr?
+B : Alles klar! Ich bringe Getränke mit! Bis dann!
+
+```
+
+------
+
+### Sprechen2 Lektion 3. Ich bin eifersüchtig.
+
+```
+die Laune : 기분
+melancholisch : 우울한
+deprimiert : 우울한
+depressiv : 우울한
+eifersüchtig : 질투 나는
+
+Was ist los?
+Was ist los mit dir?
+Was ist denn los mit dir?
+Was hast du denn? (무슨 일이야? - 상황에 따라)
+Was ist passiert? 
+Du siehst melancholisch aus.
+Du siehst aber melancholisch aus.
+Du siehst traurig aus.
+Ich bin eifersüchtig.
+Du tanzt mit einer anderen Frau.
+Ich bin eifersüchtig, wenn du mit einer anderen Frau tanzt.
+
+A : Was ist denn los mit dir?
+		Du siehst aber melancholisch aus.
+b :	Ich bin eifersüchtig, wenn du mit einer anderen Frau tanzt.
+
+sauer : 화가 난
+sich ärgern über + 4 : ~에 대해서 화가 나다
+Angst haben vor + 3 : ~에 대해서 무섭다.
+Laune haben : ~한 기분이다.
+
+Warum bist du so sauer?
+Wieso bist du so sauer?
+Warum bist du so wütend?
+Ich ärgere mich.
+Meine Freundin kommt immer zu spät.
+-> Ich ärgere mich, weil meine Freundin immer zu spät kommt.
+Ich habe Angst vor meiner Freundin.
+Sie hat schlechte Laune.
+-> Ich habe Angst vor meiner Freundin, weil sie schlechte Laune hat.
+
+A : Warum bist du so sauer?
+B : Ich ärgere mich, weil meine Freundin immer zu spät kommt.
+A : Ach so...
+		Ich habe Angst vor meiner Freundin,
+		weil sie schlechte Laune hat.
+
+Ich bin glücklich, wenn ich mit meiner Familie bin.
+Sie ist traurig, weil ihr Freund für ein Jahr nach Deutschland geht.
+
+ärgern : ~를 화나게 하다 (타동사)
+ -> Mein Kind ärgert mich.
+sich ärgern : 화나다 (재귀동사)
+ -> Ich ärgere mich. -> 재귀대명사
+ 
+```
+
+------
+
+### Sprechen2 Lektion 4. Was fehlt Ihnen?
+
+```
+die Erkältung : 감기
+das Fieber : 열
+der Husten : 기침
+außerdem : 게다가
+js. Nase laufen : 콧물이 나다
+(pl) Kopfschmerzen : 두통
+der Schnupfen : 콧물
+zum Arzt gehen : 병원에 가다
+beim Arzt sein/bleiben : 병원에 있다
+Halsschmerzen : 인후통
+aufmachen : 열다
+der Mund : 입
+der Hals : 목
+verschreiben : 처방하다
+die Tablette : 약
+dreimal : 세번
+pro/am Tag : 하루에
+zu Hause : 집에서
+sich ausruhen : 쉬다
+
+
+Ich glaube, ich habe Erkältung. : 나 감기에 걸린 것 같아.
+Ich glaube, ich bin erkältet.
+Ich glaube, ich habe mich erkältet.
+Ich habe Fieber und Husten.
+Außerdem habe ich Kopfschmerzen.
+Mein Kopt tut weh.
+Der Kopf tut mir weh.
+Deine Nase läuft auch.
+Du hast Schnupfen.
+Du solltest zum Arzt gehen.
+
+A : Ich glaube, ich bin erkältet.
+		Ich habe Fieber und Husten.
+		Außerdem habe ich Kopfschmerzen.
+B : Deine Nase läuft auch.
+		Du solltest zum Arzt gehen.
+		
+Was fehlt Ihnen? : 어디가 아프신가요?
+Was fehlt dir?
+wo haben Sie Schmerzen?
+Ich habe #부위-schmerzen.
+Mein Kopf tut weh.
+Machen Sie bitte den Mund auf und sagen Sie Aaah!
+Ich verschreibe Ihnen die Tabletten.
+Nehmen Sie sie dreimal am Tag.
+Sie sollten sich zu Hause ausruhen.
+
+(C : Der nächste, bitte.)
+A : Was fehlt Ihnen?
+B : Ich habe Halsschmerzen und mein Kopf tut weh.
+A : Machen Sie bitte den Mund auf und sagen Sie Aaah!
+		Ich verschreibe Ihnen die Tabletten.
+		Nehmen Sie sie dreimal am Tag.
+		und Sie sollten sich zu Hause ausruhen.
+		
+```
+
+------
+
+### Sprechen2 Lektion 5. Du hast mir geholfen, als ich sehr beschäftigt war.
+
+```
+vorbereiten : 준비하다
+die Präsentation : 발표
+beantworten : 답장하다
+aufräumen : 정리하다
+der Konferenzraum : 회의실
+allein(e) : 혼자
+schaffen : 해내다
+
+Ich habe viel zu tun.
+Ich bin viel beschäftigt. : 나는 바쁘다.
+Was musst du denn machen? : 뭐 해야 하는데?
+Was denn?
+Ich muss #목적어 #동사원형
+Ich muss die Präsentation vorbereiten.
+die E-Mails beantworten.
+den Konferenzraum aufräumen.
+Das schaffe ich nicht alleine !
+Das kann ich nicht allein machen !
+
+A : Mein Gott! Ich habe viel zu tun.
+B : Was denn?
+A : Ich muss die Präsentation vorbereiten, die E-Mails beantworten,
+		dazu noch den Konferenzraum aufräumen.
+		Das schaffe ich nict alleine.
+
+Sorge machen : 걱정하다
+retten : 구하다
+wenn : ~ 한다면
+als : ~ 했을 때
+brauchen nicht ... zu Inf / müssen nicht ... Inf : ~할 필요 없다.
+Du brauchst das nicht alleine zu machen.
+-> Du musst das nicht alleine machen.
+Du brauchst nicht zu kommen.
+-> Du musst nicht kommen.
+Ich helfe dir.
+Ich werde dir helfen.
+Mach dir keine Sorge! : 걱정하지마!
+Keine Sorge!
+Wie wäre es, wenn S ... V ? : ~ 하면 어떨까?
+Wie wäre es, wenn ich die E-mails beantworten würde?
+würden + Inf : ~ 하면 좋을텐데, ~ 할 텐데
+Ich würde schlafen. Ich würde gehen.
+Du hast mich gerettet. : 네가 나를 구했어.
+Du bist meine Rettung! : 네가 나의 구원자야.
+Nichts zu danken. : 아냐 (감사인사에 대한 대답)
+Gern geschehen.
+Keine Ursache.
+Du hast mir geholfen.
+Ich war sehr beschäftigt.
+Du hast mir auch geholfen, als ich sehr beschäftigt war.
+
+B : Du brauchst das nicht alleine zu machen. Ich helfe dir.
+A : Wirklich?
+B : Ja, Keine Sorge!
+		Wie wäre es, wenn ich die E-mails beantworten würde?
+A : Danke schön! Du hast mich gerettet.
+B : Nichts zu danken. Du hast mir auch geholfen,
+		als ich serh beschäftigt war.
+
+wenn VS. als
+wenn : ~하면, 한다면 (반복, 과거, 현재, 미래)
+Wenn er nach Hause kommt. : 그가 집에 온다면
+
+als : ~했을 때 (일회적, 과거)
+Als er nach Hause kam.
+```
+
+------
+
+### Sprechen2 Lektion 6. Kyu hat heute ein Bewerbungsgespräch.
+
+```
+hereinkommen : 들어오다
+sich vorstellen : 소개하다
+die Sprachschule : 어학원
+die Universität : 대학교
+die Wirtschaft : 경제(학)
+das Praktikum : 인턴
+die Fremdsprache : 외국어
+sich bewerben bei + 3 / um + 4 : ~에 지원하다
+das Französisch : 프랑스어
+die Sprachfähigkeit : 언어능력
+Benutzen : 사용하다
+ein bisschen : 약간
+ein wenig : 약간
+
+들어오세요!
+Kommen Sie herein!
+Kommen Sie doch bitte rein!
+
+당신을 좀 알고 싶어요.
+Ich möchte Sie kennenlernen.
+
+대학에서 경제를 전공했어요.
+Ich studiere an der Uni Wirtschaft.
+Ich habe an der Uni Wirtschaft studiert.
+
+어학원에서 인턴으로 일을 했어요.
+Ich mache ein Praktikum bei einer Sprachschule.
+Ich habe ein Praktikum bei einer Sprachschule gemacht.
+
+어떤 외국어를 하실 줄 아시나요?
+Welche Sprachen können Sie sprechen?
+
+저희 회사에 왜 지원하셨나요?
+Warum bewerben Sie sich bei uns?
+Warum haben Sie sich bei uns beworben?
+
+이 능력을 회사에서 사용하고 싶습니다.
+Ich möchte diese Sprachfähigkeit bei Ihrer Firma benutzen.
+
+
+A : Guten Tag, Frau Weber. kommen Sie bitte rein!
+B : Guten Tag, Herr Schmidt.
+A : Wir möchten Sie kennenlernen. Stellen Sie sich bitte vor.
+B : Ja. Mein Name ist Kyu und ich bin 33 Jahre alt.
+		Ich habe an der Uni Wirschaft studiert und ein Praktikum
+		bei einer Sprachschule gemacht.
+
+A : Ach so. Welche Sprachen können Sie sprechen,
+		und warum haben Sie sich bei uns beworben?
+B : Ich kann Deutsch, Englisch und ein bisschen Französisch.
+		Diese Sprachfähigkeit möchte ich bei Ihrer Firma benutzen.
+		
+```
+
+------
+
+### Sprechen2 Lektion 7.
 
 ```
 

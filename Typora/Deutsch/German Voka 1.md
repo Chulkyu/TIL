@@ -1575,9 +1575,365 @@ nach oben/unten schauen
 
 ------
 
-### Lektion 19.
+### Lektion 19. tauschen, umtauschen, wehseln, ändern
 
 ```
+tauschen : 교환하다
+umtauschen : (구입하거나 선물 받은 것을) 교환하다, 환전하다
+gegen + 4 : ~ 대하여
+umtauschen A gegen B : A를 B로 교환하다.
+das Geld : 돈
+die Münze : 동전 (pl)Münzen
+der Schein : 지폐 (pl)Scheine
+
+Münzen gegen Scheine umtauschen : 동전을 지폐로 바꾸다.
+die plätze tauschen
+das Essen tauschen
+
+wechseln : 바꾸다
+ändern : (성격, 성질) 변화시키다, 바꾸다
+Ich ändere mich.
+kaputt : 고장난
+defekt : (기계)훼손된
+das Kissen : 베개
+das Betttuch : 시트
+
+das Kissen wechseln
+das Betttuch wechseln
+Wechseln Sie bitte das Kissen.
+das Ziel wechseln 
+die Landschaft ändert	sich
+mich ändere
+den Plan ändern
+
+die Münzen gegen die Scheine umtauschen
+die Plätze tauschen
+das Kissen/Betttuch wechseln
+mich ändern
+die defekte/kaputte Kamera wechseln
+
+```
+
+------
+
+### Lektion 20. besichtigen, anschauen, nachdenken, überlegen
+
+```
+besichtigen : 구경하다
+anschauen : 바라보다
+die Mauer : 담, 벽
+der Bundestag : 연방의회
+bundes : 연방의
+die Säule : 기둥
+Siegessäule : 승전기념탑
+das Tor : 대문, 골(축구)
+
+die Berliner Mauer besichtigen
+mir den Bundestag anschauen
+die Siegessäule besichtigen
+mir das Brandenburger Tor anschauen
+
+nachdenken über + 4 : ~에 대하여 숙고하다
+überlegen : 숙고하다
+über + 4 : ~대하여
+tief : 깊은
+die Weile : 잠시동안
+eine Weile nachdenken / überlegen : 잠시동안 심사숙고한다.
+die Gelegenheit : 기회
+
+tief nachdenken
+eine Weile nachdenken
+über die Gelegenheit nachdenken
+mir die Gelegenheit überlegen
+
+브란덴부르크 문을 구경하다
+ : das Brandenburger Tor besichtigen
+베를린장벽을 바라보다
+ : mir die Berliner Mauer anschauen
+깊이 심사숙고하다
+ : tief nachdenken / überlegen
+그 기회에 대하여 숙고하다.
+ : über die Gelegenheit nachdenken
+ : mir die Gelegenheit überlegen
+심사숙고해 봐야겠다.
+ : Ich überlege es mir.
+잠시동안
+ : eine Weile
+ 
+```
+
+------
+
+### Lektion 21. vorschlagen, vorstellen, einladen, absagen
+
+```
+vorschlagen : 제안하다
+vorstellen : 소개하다
+das Handschütteln : 악수
+der Gruß : 인사
+zum ersten Mal : 처음으로
+herzlich : 진심으로
+
+Handschütteln vorschlagen
+den Bundestag vorstellen
+mich vorstellen
+
+einladen : 초대하다
+absagen : 취소하다
+zu : ~로
+das Fest : 축제
+der Besuch : 방문
+plötzlich : 갑자기
+
+zu einem Kaffee einladen
+zum Fest einladen
+zu einer Party einladen
+plötzlich absagen
+den Besuch absagen
+
+브란덴부르크 문을 제안하다.
+ : das Brandenburger Tor vorschlagen.
+악수하다.
+ : die Hände schütteln
+나를 소개하다.
+ : Ich stelle mich vor.
+그 축제 초대하다.
+ : zu dem Fest einlagen.
+방문을 갑자기 취소하다.
+ : den Besuch plötzlich absagen.
+ 	 Ich sage den Besuch plötzlich ab.
+
+```
+
+------
+
+### Lektion 22. erfahren, erleben, benutzen, genießen
+
+```
+erfahren : 경험하다
+erlebern : 체험하다
+seltsam : 이상한
+komisch : 우습게 이상한, 이해가 안되고 파악이 안되는 상황, 어이없는
+unglaublich : 믿을 수 없는
+wunderbar : 놀랄만큼 멋진
+
+etwas Seltsames erfahren
+etwas Komisches erfahren
+etwas Unglaubliches erleben
+etwas Wunderbares erleben
+
+benutzen : 사용하다
+genießen : 즐기다 - genoss - genossen
+das Internet : 인터넷
+das WLAN : 무선인터넷
+die Natur : 자연
+die wissenschaft : 학문
+die Luft : 공기
+die Luftpost : 항공우편
+frisch : 신선한
+
+das Internet benutzen
+das WLAN benutzen
+frische Luft genießen
+die Natur genießen
+die schöne Zeit genießen
+
+너무나도 멋진 것을 경험하다.
+ : etwas Wunderbares erfahren.
+이상한 것을 체험하다.
+ : etwas Seltsames erleben.
+무선인터넷을 사용하다.
+ : das WLAN benutzen.
+맑은 공기를 즐기다.
+ : frische Luft genießen.
+여가시간을 즐기다.
+ : Freizeit genießen.
+아름다운 자연을 즐기다.
+ : die schöne Natur genießen.
+ 
+```
+
+------
+
+### Lektion 23. wünschen, hoffen, 
+
+```
+wünschen : 기원하다
+hoffen : 희망하다
+hoffentlich : 바라건대
+die Hoffnung : 희망
+der Wunsch : 소망
+das Glück : 행운
+das Pech : 불운
+Pech haben : 운이 안좋다.
+
+mir Glück wünschen : 내게 행운을 기원하다.
+auf ein gutes Wetter hoffen : 좋은 날씨를 바라다.
+eine Hoffnung haben : 희망을 가지다.
+einen Wunsch : 소망을 가지다.
+
+drücken : 누르다
+ziehen : 끌어 당기다
+stark : 강하게
+der Daume : 엄지손가락
+der Vorhang : 커튼
+der Schwamm : 스폰지
+Ich drücke dir stark die Daumen !
+
+den Vorhang ziehen : 커튼을 치다.
+der Schwamm zieht das Wasser : 그 스펀지가 그 물을 흡수한다.
+
+하나의 좋은 날을 기원하다.
+ : einen guten Tag wünschen
+좋은 날씨를 희망하다.
+ : auf ein gutes Wetter hoffen
+행운을 기원해줘.
+ : Wunsch mir Glück
+행운을 빌어.
+ : Ich drücke dir die Daumen.
+커튼을 치다.
+ : einen Vorhang ziehen
+스폰지가 물을 흡수하다.
+ : Der Schwamm zieht das Wasser.
+
+```
+
+------
+
+### Lektion 24. s.entscheiden, s.entschließen, umbuchen, verschieben
+
+```
+s.entscheiden : 결정하다
+s.entschließen : 결심하다
+für + 4 : ~에 대하여 (찬성)
+gegen + 4 : ~에 반대하여
+über + 4 : ~에 대하여 (중립)
+die Rückkehr : 귀환
+kehren : 이끌다, 가다
+umbuchen : 예약을 바꾸다
+verschieben : 밀어서 바꾸다 (물건, 날짜)
+auf : ~로
+die Reservierung : 예약
+die Buchung : 예약
+der Termin : 일정
+
+für die Rückkehr mich entscheiden : 그 귀환에 찬성하여 결정하다
+über die Rückkehr mich entscheiden
+gegen die Rückkehr mich entscheiden
+
+auf morgen umbuchen
+den Flug umbuchen
+die Reservierung verschieben
+
+그 계획에 대해 결정하다.
+ : sich über den Plan entscheiden
+결정하다
+ : s.entscheiden
+내일로 비행기 예약을 바꾸다.
+ : den Flug auf morgen umbuchen / verschieben
+일정을 미루다.
+ : den Termin verschieben
+그 예약을 월요일로 미루다.
+ : die Buchung auf Montag verschieben
+
+```
+
+------
+
+### Lektion 25. Verstehen, 
+
+```
+verstehen : 이해하다
+kennenlernen : 알게되다
+die Kultur : 문화
+die Gewohnheit : 관습
+einander : 상호간
+unvergesslich : 잊을 수 없는
+Ich bin vergesslich : 나는 건망증이 있어.
+erinnern : 상기시키다.
+Du erinnerst mich : 너가 나를 상기시킨다.
+an + 4 : ~에 대하여
+Ich erinnere mich an dich : 난 너를 기억해
+sich unterhalten : 담소를 나누다.
+verschieden : 여러 가지의
+die Politik : 정치
+
+einander verstehen
+einander kennenlernen
+die Kultur verstehen
+die Gewohnheit kennenlernen
+etwas Unvergessliches kennenlernen
+
+an dich erinnern mich
+an Deutschland erinnern mich
+an die Kultur erinnern mich
+sich einander unterhalten
+über Politik unterhalten
+über verschiedene Sachen
+Wir unterhalten uns über verschiedene Sachen
+
+서로 이해하다.
+ : einander verstehen.
+관습을 알게 되다.
+ : die Gewohnheit kennenlernen.
+못 잊을만한 것을 알게 되다.
+ : etwas Unvergessliches kennenlernen.
+너에 대해 기억하다.
+ : Ich erinnere mich an dich.
+정치에 대해 담소를 나누다.
+ : sich unterhalten über Politik.
+
+```
+
+------
+
+### 3Lektion 1. Berufswelt
+
+```
+der Angestellter : 고용인
+die Angestellte : 여고용인
+der Chef : 상사
+die Chefin : 여상사
+der Kollege : 동료
+die Kollegin : 여동료
+der Praktikant : 인턴
+der Auszubildender (r.Azubi) : 견습생
+das Praktikum : 인턴십
+das Monatsgehalt : 월급
+das Jahresgehalt : 연봉
+die Versicherung : 보험
+die Prämie : 보너스
+zum Jahresende : 연말에
+die Steuer : 세금
+der Abschiedszuschuss : 퇴직금
+die Pension : 연금
+
+Ich bin Angestellter
+Ich bin Praktikant
+Ich bin Azubi
+Er ist Chef
+Er ist Kollege
+
+Wie viel ist das Monatsgehalt?
+Wie viel ist die Versicherung?
+Wie viel ist die Prämie?
+Wie viel ist die Steuer?
+Wie vier ist der Abschiedszuschuss?
+Wie viel ist die Pension?
+
+나는 회사원이다.
+ : Ich bin Angestellter.
+나는 인턴이다.
+ : Ich bin Praktikant.
+나는 견습생이다.
+ : Ich bin Azubi.
+인턴십을 하는 중이다.
+ : Ich mache ein Praktikum.
+나의 상사는 친절하다.
+ : Mein Chef ist nett.
+월급이 어떻게 되나요?
+ : Wie viel ist das Monatsgehalt?
+ 
 
 ```
 
