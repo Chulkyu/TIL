@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Chulkyu-Challenge1</title>
+    <link
+      rel="shortcut icon"
+      sizes="16x16 32x32 64x64"
+      href="https://cdn.shopify.com/s/files/1/1340/5961/products/PINEAPPLE_8e2145de-2683-490a-be20-d5a6b9146fcd_1200x.jpg?v=1600833556"
+    />
+  </head>
+  <body>
+    <h1>
+      Create An Account
+    </h1>
+  <form>
+    <label for="first-name">First name </lable>
+    <input id="first-name" required placeholder="First name" type="text" />
+    <div>
+      <label for="last-name">Last name </label>
+      <input id="last-name" required placeholder="Last name" type="text" />
+    </div>
+    <div>
+      <label for="email-address">Email </label>
+      <input id="email-address" required placeholder="Email" type="email" />
+    </div>
+    <div>
+      <label for="user-name">Username </label>
+      <input id="user-name" required placeholder="Username" type="text" />
+    </div>
+    <div>
+      <label for="password">Password </label>
+      <input id="password" required placeholder="Password" type="password" minlength="10" />
+    </div>
+    <div>
+      <label for="birth-date">Birth date </label>
+      <input id="birth-date" required type="date" />
+    </div>
+    <div>
+      <label for="happiness">How happy are you? </label>
+      <input list="how-much" id="happiness" required type="range" max="10" />
+      <datalist id="how-much">
+        <option value="0">
+        <option value="1">
+        <option value="2">
+        <option value="3">
+        <option value="4">
+        <option value="5">
+        <option value="6">
+        <option value="7">
+        <option value="8">
+        <option value="9">
+        <option value="10">
+      </datalist>
+    </div>
+    <div>
+      <label for="favorite-color">What is your fav. color? </label>
+      <input id="favorite-color" required type="color" />
+
+    <div>
+      <input type="submit" value="Create Account" />
+    </div>
+
+  </body>
+</html>
