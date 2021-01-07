@@ -1934,6 +1934,47 @@ Wie viel ist die Pension?
 월급이 어떻게 되나요?
  : Wie viel ist das Monatsgehalt?
  
+```
+
+------
+
+### 3Lektion2. Bewerbungen
+
+```
+sich bewerben : 지원하다
+um + 4 : ~ 에
+die Stelle : 자리
+der Antrag : 지원서 (프로포즈)
+das Formular : 서식
+ausfüllen : 작성하다
+der Lebenslauf : 이력서
+die Motivation : 동기
+das Passfoto : 증명사진
+abgeben : 제출하다
+das Interview : 면접
+berufstätig : 직업활동을 하는
+
+Ich bewerbe mich um eine Stelle.
+Ich fülle den Antrag aus.
+Ich fülle das Formular aus.
+Ich bin berufstätig.
+Ich gebe den Lebenslauf ab.
+Ich habe heute ein Interview.
+
+den Lebenslauf abgeben
+die Motivation abgeben
+das Passfoto abgeben
+
+한 자리에 지원하다.
+ : Ich bewerbe mich um eine Stelle.
+지원서를 제출하다.
+ : Ich gebe einen Antrag ab.
+그 서식을 작성하다.
+ : Ich fülle das Formular aus.
+면접이 있다.
+ : Ich habe ein Interview.
+나는 직업활동 중이다.
+ : Ich bin berufstätig.
 
 ```
 
