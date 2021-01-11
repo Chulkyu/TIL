@@ -32,7 +32,21 @@ flex : 자식이 아니라 부모에게 말해라
 			 justify-content : 주축 (수평,수직 가능) / align-items : 교차축
 			 flex-direction: row;(디폴트, 주축-수평) / column;(주축-수직)
 			 
-			 
+position: fixed; -> 모든 것의 위에 위치 / 스크롤 상관 없이 화면에서 위치 고정
+position: relative; -> 엘리먼트가 처음 위치한 지점 기준으로 위치 조정 가능
+position absolute; -> 엘리먼트를 원하는 좌표로 이동 가능, relative로 지정된 부모 안에서.
+
+p span { color: teal; } -> p 안에 있는 모든 span을 지정
+p > span { color: teal; } -> p 바로 밑의 child span을 지정
+p + span { color: teal; } -> p 바로 다음의 span을 지정, 사이에 다른 요소가 있을시 적용 되지 않음
+p ~ span { color: teal; } -> p 다음에 있는 span을 지정, 몇 번째이든 상관 없음
+
+input:required { border-color: tomato; } -> input 중 required라는 조건을 가졌을 때 설정 변경
+input[placeholder="name"] { background-color: tomato; } -> placeholder="name" 인 요서 설정 변경
+input[placeholder~-="name"] { background-color: tomato; } -> placeholder 중 name을 가진 모든 요소 설정 변경
+
+ 
+
 						
 
 ```

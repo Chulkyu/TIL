@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Chulkyu-Chanllenge3</title>
+    <link rel="stylesheet" href="styles.css" />
+
+    <style>
+      body {
+        background-color: lightgray;
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+      }
+      #title {
+        font-size: 50px;
+        font-weight: bold;
+        position: fixed;
+      }
+      .contain {
+        width: 250px;
+        height: 350px;
+        border: 5px solid white;
+        position: relative;
+      }
+      #tomato {
+        background-color: tomato;
+        position: absolute;
+        top: 100px;
+        right: 50%;
+      }
+      #teal {
+        background-color: teal;
+        position: absolute;
+        top: 100px;
+        left: 51%;
+      }
+      #burlywood {
+        background-color: burlywood;
+        position: absolute;
+        top: 470px;
+        right: 50%;
+      }
+      #thistle {
+        background-color: thistle;
+        position: absolute;
+        top: 470px;
+        left: 51%;
+      }
+      .box {
+        width: 245px;
+        height: 50px;
+        background-color: white;
+        position: absolute;
+        display: flex;
+        align-items: center;
+        padding: 5px;
+      }
+      #first {
+        position: absolute;
+        top: 20px;
+      }
+      #second {
+        position: absolute;
+        top: 70px;
+      }
+      div > p {
+        font-size: 20px;
+        font-weight: bold;
+        top: 20px;
+      }
+      div > span {
+        font-size: 15px;
+        font-weight: bold;
+        top: 70px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="title">The Best Colors</div>
+
+    <div class="contain" id="tomato">
+      <div class="box" id="first">
+        <p>Tamato</p>
+      </div>
+      <div class="box" id="second">
+        <span>#FF6347</span>
+      </div>
+    </div>
+
+    <div class="contain" id="teal">
+      <div class="box" id="first">
+        <p>Teal</p>
+      </div>
+      <div class="box" id="second">
+        <span>#008080</span>
+      </div>
+    </div>
+
+    <div class="contain" id="burlywood">
+      <div class="box" id="first">
+        <p>Burlywood</p>
+      </div>
+      <div class="box" id="second">
+        <span>#DEB887</span>
+      </div>
+    </div>
+
+    <div class="contain" id="thistle">
+      <div class="box" id="first">
+        <p>Thistle</p>
+      </div>
+      <div class="box" id="second">
+        <span>#D7BFD7</span>
+      </div>
+    </div>
+  </body>
+</html>
