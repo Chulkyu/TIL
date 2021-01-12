@@ -45,8 +45,21 @@ input:required { border-color: tomato; } -> input 중 required라는 조건을 �
 input[placeholder="name"] { background-color: tomato; } -> placeholder="name" 인 요서 설정 변경
 input[placeholder~-="name"] { background-color: tomato; } -> placeholder 중 name을 가진 모든 요소 설정 변경
 
+ :root { --main-color: #fff; 
+ 				 --default-border: 1px solid white; }  -> 지정값을 저장해놓고 필요한 곳에 불러서 적용 가능
+ p { background-color: var(--main-color); }
  
+ transition -> 애니매이션 효과, state가 아니라 요소 안에 입력해야한다.
+ a { transition: all 5s ease-in-out; }
+ 
+ 애니메이션 계속 적용 ->
+ @keyframes 애니메이션이름 {
+ from { transform: rotateX(0); }
+ to { transform: rotateY(180deg) translateX(100px); }
+ }
 
+원하는 요소에 적용 ->
+img { animation: 애니메이션이름 5s ease-in-out infinite; }
 						
 
 ```

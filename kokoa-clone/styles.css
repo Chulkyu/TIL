@@ -1,67 +1,107 @@
+@keyframes longAndShort {
+  0% {
+    transform: scaleY(1);
+  }
+  30% {
+    transform: scaleY(1.5);
+  }
+  60% {
+    transform: scaleY(1);
+  }
+  100% {
+    transform: scaleY(1);
+  }
+}
+@keyframes circleRotate1 {
+  0% {
+    transform: rotate(0deg);
+    transform-origin: 115px;
+  }
+  30% {
+    transform: rotate(180deg);
+    transform-origin: 115px;
+  }
+  50% {
+    transform: rotate(180deg);
+    transform-origin: 115px;
+  }
+  80% {
+    transform: rotate(360deg);
+    transform-origin: 115px;
+  }
+  100% {
+    transform: rotate(360deg);
+    transform-origin: 115px;
+  }
+}
+@keyframes circleRotate2 {
+  0% {
+    transform: rotate(0deg);
+    transform-origin: -65px;
+  }
+  30% {
+    transform: rotate(180deg);
+    transform-origin: -65px;
+  }
+  50% {
+    transform: rotate(180deg);
+    transform-origin: -65px;
+  }
+  80% {
+    transform: rotate(360deg);
+    transform-origin: -65px;
+  }
+  100% {
+    transform: rotate(360deg);
+    transform-origin: -65px;
+  }
+}
 body {
-  background-color: lightgray;
   display: flex;
   height: 100vh;
+  flex-direction: column;
   justify-content: center;
-}
-#title {
-  font-size: 50px;
-  font-weight: bold;
-}
-.contain {
-  width: 250px;
-  height: 350px;
-  border: 5px solid white;
-  position: relative;
-}
-#tomato {
-  background-color: tomato;
-  position: absolute;
-  top: 100px;
-  right: 50%;
-}
-#teal {
-  background-color: teal;
-  position: absolute;
-  top: 100px;
-  left: 51%;
-}
-#burlywood {
-  background-color: burlywood;
-  position: absolute;
-  top: 470px;
-  right: 50%;
-}
-#thistle {
-  background-color: thistle;
-  position: absolute;
-  top: 470px;
-  left: 51%;
-}
-.box {
-  width: 245px;
-  height: 50px;
-  background-color: white;
-  position: absolute;
-  display: flex;
   align-items: center;
-  padding: 5px;
+  background-color: black;
+}
+
+section {
+  height: 90%;
+  width: 70%;
+  background-color: rgb(30, 156, 156);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.circle {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin: 0 20px;
+  background-color: white;
+}
+.square {
+  height: 150px;
+  width: 50px;
+  margin: 0 5px;
+  background-color: white;
+  animation: longAndShort 1s ease-in-out infinite;
+}
+#two {
+  animation-delay: 0.1s;
+}
+#three {
+  animation-delay: 0.2s;
+}
+#four {
+  animation-delay: 0.3s;
+}
+#five {
+  animation-delay: 0.4s;
 }
 #first {
-  position: absolute;
-  top: 20px;
+  animation: circleRotate1 1s ease-in-out infinite;
 }
-#second {
-  position: absolute;
-  top: 70px;
-}
-div > p {
-  font-size: 20px;
-  font-weight: bold;
-  top: 20px;
-}
-div > span {
-  font-size: 15px;
-  font-weight: bold;
-  top: 70px;
+#third {
+  animation: circleRotate2 1s ease-in-out infinite;
 }
